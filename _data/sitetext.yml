@@ -29,12 +29,12 @@ fr: &DEFAULT_FR
         icon: fab fa-markdown
       - title: "i727"
         subtitle: VTT
-        desc: "Sans jamais croiser le 727, cette randonnée parcourt les recoins les plus secrets de l'Hérault. [Grand Départ le 8 mai 2024.](/)"
+        desc: "Sans jamais croiser le 727, cette randonnée parcourt les recoins les plus secrets de l'Hérault. [Grand Départ le 8 mai 2024.](/727-Grand-Depart/)"
         link: /i727
         icon: fas fa-laptop
       - title: "g727"
         subtitle: Gravel
-        desc: "Aspiré par les chemins sauvages, le g727 déborde de l'Hérault et traverse le Gard, le Tarn et l'Aude. [Grand Départ le 28 septembre 2024.](/)"
+        desc: "Aspiré par les chemins sauvages, le g727 déborde de l'Hérault et traverse le Gard, le Tarn et l'Aude. [Grand Départ le 28 septembre 2024.](/g727-Grand-Depart/)"
         link: /g727
         icon: fab fa-markdown
 
