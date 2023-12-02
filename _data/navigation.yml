@@ -9,10 +9,17 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+fr: &DEFAULT_FR
   nav:
-    - title: "Services"
+    - title: "Itinéraires"
       section: services
+      subnav:  # Ajout d'un sous-menu
+              - title: "727 original"
+                url: "/o727/"
+              - title: "i727"
+                url: "/i727/"
+              - title: "g727"
+                url: "/g727/"
     - title: "Portfolio"
       section: portfolio
     - title: "About"
@@ -23,36 +30,5 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+#    - title: "Theme Source"
+#      url: https://github.com/raviriley/agency-jekyll-theme/
