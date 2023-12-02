@@ -12,7 +12,7 @@
 fr: &DEFAULT_FR
   nav:
     - title: "Itinéraires"
-      section: services
+      section: top
       subnav:  # Ajout d'un sous-menu
               - title: "727 vtt"
                 url: "/727/"

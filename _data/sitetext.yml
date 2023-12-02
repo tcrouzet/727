@@ -11,24 +11,31 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: 727!
-    text: TOTO
-    button: Plus d'info
-    buttonlink: "#services"
+    title: 8 mai et 28 septembre 2024
+    text: Gravel ou VTT
+    button: Découvrez
+    buttonlink: "#top"
+    background: /assets/img/sete-bleu.jpeg
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Itinéraires"
+    text: "Deux parcours VTT, un gravel, de nombreuses variantes"
+    section: top
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "727"
+        subtitle: VTT
+        desc: "Exploration des frontières de l'Hérault. Entre plage et montagne, guarrigues et forêts. Prochain Grand Départ mai 2025."
+        link: /727
+        icon: fab fa-markdown
+      - title: "i727"
+        subtitle: VTT
+        desc: "Sans jamais croiser le 727, cette randonnée parcourt les recoins les plus secrets de l'Hérault. [Grand Départ le 8 mai 2024.](/)"
+        link: /i727
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "g727"
+        subtitle: Gravel
+        desc: "Aspiré par les chemins sauvages, le g727 déborde de l'Hérault et traverse le Gard, le Tarn et l'Aude. [Grand Départ le 28 septembre 2024.](/)"
+        link: /g727
         icon: fab fa-markdown
 
   portfolio:

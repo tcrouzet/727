@@ -8,17 +8,17 @@
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: $primary;
+    background-color: $contrast;
     @include heading-font;
   }
   .navbar-brand {
-    color: $primary;
+    color: $contrast;
     @include script-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%);
+      color: darken($contrast, 10%);
     }
   }
   .navbar-nav {
@@ -32,7 +32,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $primary;
+          color: $contrast;
         }
       }
     }
@@ -100,6 +100,6 @@
 
 /* Changement de couleur lors du survol des liens du sous-menu */
 #mainNav .navbar-nav .nav-item .nav-sub-menu li a:hover {
-  color: $primary; /* Couleur du texte au survol */
+  color: $contrast; /* Couleur du texte au survol */
   background-color: transparent; /* Garde le fond transparent */
 }

@@ -10,14 +10,29 @@ p {
 
 a {
   color: $primary;
-  &:hover {
+  &:hover { 
     color: darken($primary, 10%);
   }
 }
 
+a,h4.round a{
+  text-decoration: none;
+}
+
+p a{
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+
 .text-primary {
   color: $primary !important;
 }
+
+.text-contrast {
+  color: $contrast !important;
+}
+
 
 h1,
 h2,

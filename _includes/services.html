@@ -15,11 +15,12 @@
       <div class="row text-center">
 	  {% for service in site.data.sitetext[site.locale].services.list %}
         <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
-          </span>
-          <h4 class="service-heading">{{ service.title | markdownify }}</h4>
+          <h4 class="round"><a href="{{ service.link}}">{{ service.title | markdownify }}</a></h4>
+          <a href="{{ service.link}}"><span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-contrast"></i>
+            <!--<i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>-->
+          </span></a>
+          <h4 class="service-heading"><a href="{{ service.link}}">{{ service.subtitle | markdownify }}</a></h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
         </div>
 	  {% endfor %}
@@ -44,7 +45,7 @@
   {% for service in site.data.sitetext.services.list %}
       <div class="col-md-4">
         <span class="fa-stack fa-4x">
-          <i class="fas fa-circle fa-stack-2x text-primary"></i>
+          <i class="fas fa-circle fa-stack-2x text-contrast"></i>
           <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
         </span>
         <h4 class="service-heading">{{ service.title | markdownify }}</h4>

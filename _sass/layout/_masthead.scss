@@ -2,30 +2,47 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  .intro-text {
-    padding-top: 150px;
-    padding-bottom: 100px;
-    .intro-lead-in {
-      font-size: 22px;
-      font-style: italic;
-      line-height: 22px;
-      margin-bottom: 25px;
-      @include serif-font;
-    }
-    .intro-heading {
-      font-size: 50px;
-      font-weight: 700;
-      line-height: 50px;
-      margin-bottom: 25px;
-      @include heading-font;
-    }
-  }
+  height: 100vh;
 }
+
+header.masthead .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+}
+
+div.intro-text {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  position: relative;
+  z-index: 2;
+}
+
+div.intro-text.intro-lead-in {
+  font-size: 22px;
+  font-style: italic;
+  line-height: 22px;
+  margin-bottom: 25px;
+  @include serif-font;
+}
+div.intro-text.intro-heading {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+  margin-bottom: 25px;
+  @include heading-font;
+}
+
+/*div.container{z-index: 1;}*/
+
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {

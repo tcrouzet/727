@@ -1,92 +1,26 @@
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-  <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="/">
-        {%- if site.logo -%}
-          <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
-        {%- else -%}
-          {{ site.title }}
-        {%- endif -%}
-    </a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      Menu
-      <i class="fas fa-bars"></i>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav text-uppercase ml-auto">
-      {% if site.locale and site.locale != "" and site.locale != nil %}
-      {% for link in site.data.navigation[site.locale].nav %}
-        <li class="nav-item">
-          {%- if link.subnav -%}
-            <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
-            <ul class="nav-sub-menu">
-              {% for sublink in link.subnav %}
-                <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
-              {% endfor %}
-            </ul>
-          {%- elsif link.url -%}
-            <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
-          {%- else -%}
-            <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
-          {%- endif -%}
-        </li>
-      {% endfor %}
-      {% else %}
-      {% for link in site.data.navigation.nav %}
-        <li class="nav-item">
-          {%- if link.subnav -%}
-            <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
-            <ul class="sub-menu">
-              {% for sublink in link.subnav %}
-                <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
-              {% endfor %}
-            </ul>
-          {%- elsif link.url -%}
-            <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
-          {%- else -%}
-            <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
-          {%- endif -%}
-        </li>
-      {% endfor %}
-      {% endif %}
-      </ul>
-    </div>
-  </div>
-</nav>
-<!-- End Navigation -->
-  
 <!-- Header -->
-{% if site.locale and site.locale != "" and site.locale != nil %}
-<header class="masthead">
+{% assign header_image = page.background | default: site.data.sitetext[site.locale].header.background %}
+<header class="masthead" style="background-image: url({{header_image}});">
+  
+  <div class="overlay"></div>
   <div class="container">
     <div class="intro-text">
-  {%- if site.data.sitetext[site.locale].header.title -%}
-      <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
-  {%- endif -%}
-  {%- if site.data.sitetext[site.locale].header.text -%}
-      <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
-  {%- endif -%}
-  {%- if site.data.sitetext[site.locale].header.button -%}
-      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
-  {%- endif -%}
+      {%- assign header = page.header_text | default: site.data.sitetext[site.locale].header.title -%}
+      {%- if header -%}
+        <div class="intro-lead-in">{{ header | markdownify }}</div>
+      {%- endif -%}
+
+      {%- assign text = page.header_title | default: site.data.sitetext[site.locale].header.text -%}
+      {%- if text -%}
+        <div class="intro-heading">{{ text | markdownify }}</div>
+      {%- endif -%}
+
+      {%- assign button_text = page.header_button_text | default: site.data.sitetext[site.locale].header.button -%}
+      {%- assign button_link = page.header_button_link | default: site.data.sitetext[site.locale].header.buttonlink -%}
+      {%- if button_text and button_link -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{  | '#top' }}">{{ button_text }}</a>
+      {%- endif -%}
     </div>
   </div>
 </header>
-{% else %}
-<header class="masthead">
-  <div class="container">
-    <div class="intro-text">
-  {%- if site.data.sitetext.header.title -%}
-      <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
-  {%- endif -%}
-  {%- if site.data.sitetext.header.text -%}
-      <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
-  {%- endif -%}
-  {%- if site.data.sitetext.header.button -%}
-      <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
-  {%- endif -%}
-    </div>
-  </div>
-</header>
-{% endif %}
 <!-- End Header -->
