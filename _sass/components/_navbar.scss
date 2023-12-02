@@ -71,3 +71,35 @@
     }
   }
 }
+
+/* Styles de base pour les sous-menus */
+#mainNav .navbar-nav .nav-item .nav-sub-menu {
+  display: none;
+  position: absolute;
+  background-color: $gray-900;
+  padding: 0;
+  //min-width: 150px; /* Largeur minimum des sous-menus */
+  //box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Ombre pour le sous-menu */
+  z-index: 1;
+}
+
+/* Affichage du sous-menu lors du survol de l'élément parent */
+#mainNav .navbar-nav .nav-item:hover .nav-sub-menu {
+  display: block;
+}
+
+/* Styles pour les liens dans les sous-menus */
+#mainNav .navbar-nav .nav-item .nav-sub-menu li a {
+  color: white; /* Couleur du texte */
+  padding: 12px 16px; /* Espacement */
+  text-decoration: none; /* Pas de soulignement du texte */
+  display: block; /* Fait en sorte que le lien remplisse l'espace horizontal */
+  text-align: left; /* Alignement du texte */
+  text-transform: lowercase;
+}
+
+/* Changement de couleur lors du survol des liens du sous-menu */
+#mainNav .navbar-nav .nav-item .nav-sub-menu li a:hover {
+  color: $primary; /* Couleur du texte au survol */
+  background-color: transparent; /* Garde le fond transparent */
+}

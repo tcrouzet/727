@@ -14,11 +14,11 @@ fr: &DEFAULT_FR
     - title: "Itinéraires"
       section: services
       subnav:  # Ajout d'un sous-menu
-              - title: "727 original"
-                url: "/o727/"
-              - title: "i727"
+              - title: "727 vtt"
+                url: "/727/"
+              - title: "i727 vtt"
                 url: "/i727/"
-              - title: "g727"
+              - title: "g727 gravel"
                 url: "/g727/"
     - title: "Portfolio"
       section: portfolio
