@@ -5,10 +5,41 @@ type: post
 {% include navbar.html %}
 {% include navheader.html %}
 
-<div class="col-lg-12 text-center" id="top">
-	<h1 class="section-heading text-uppercase">{{ page.title | post.title }}</h1>
-</div>
+<div class="post" id="top">
 
-<div class="container" id="pagecontainer">
+    {%- if page.r_distance -%}
+    <div id="route-resume">
+        <div class="iconbox">
+            <img decoding="async" alt="Distance" src="/assets/img/route/route-distance.svg">
+            <div class="icontext">Distance<br><span>{{ page.r_distance}}</span></div>
+        </div>
+        <div class="spacer"></div>
+        <div class="iconbox">
+            <img decoding="async" alt="Dénivelé" src="/assets/img/route/route-dev.svg">
+            <div class="icontext">Dénivelé<br><span>{{ page.r_dev}}</span></div>
+        </div>
+        <div class="spacer"></div>
+        <div class="iconbox">
+            <img decoding="async" alt="Portage" src="/assets/img/route/route-portage.svg">
+            <div class="icontext">Portage<br><span>{{ page.r_portage}}</span></div>
+        </div>
+        <div class="spacer"></div>
+        <div class="iconbox">
+            <img decoding="async" alt="Altitude" src="/assets/img/route//route-altitude.svg">
+            <div class="icontext">Altitude max<br><span>{{ page.r_altitude}}</span></div>
+        </div>
+        <div class="spacer"></div>
+        <div class="iconbox">
+            <img decoding="async" alt="Asphalte" src="/assets/img/route/route-asphalte.svg">
+            <div class="icontext">Asphalte<br><span>{{ page.r_asphalte}}</span></div>
+        </div>
+        <div class="spacer"></div>
+        <div class="iconbox">
+            <img decoding="async" alt="Singles" src="/assets/img/route/route-single.svg">
+            <div class="icontext">Singles<br><span>{{ page.r_single}}</span></div>
+        </div>
+    </div>
+    {%- endif -%}
+
     {{ content }}
 </div>

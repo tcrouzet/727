@@ -33,6 +33,7 @@
         &.active,
         &:hover {
           color: $contrast;
+          background-color: $gray-900;
         }
       }
     }
@@ -73,13 +74,17 @@
 }
 
 /* Styles de base pour les sous-menus */
+#mainNav .navbar-nav .nav-item {
+  position: relative;
+}
+
 #mainNav .navbar-nav .nav-item .nav-sub-menu {
   display: none;
   position: absolute;
   background-color: $gray-900;
   padding: 0;
-  //min-width: 150px; /* Largeur minimum des sous-menus */
-  //box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Ombre pour le sous-menu */
+  min-width: 100%;
+  white-space: nowrap;
   z-index: 1;
 }
 

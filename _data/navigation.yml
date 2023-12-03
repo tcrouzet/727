@@ -7,6 +7,7 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
+
 fr: &DEFAULT_FR
   nav:
     - title: "Itinéraires"
@@ -18,17 +19,17 @@ fr: &DEFAULT_FR
                 url: "/i727/"
               - title: "g727 gravel"
                 url: "/g727/"
-    - title: "Portfolio"
-      section: portfolio
-    - title: "Grands Départs"
+    - title: "Grands Départs"
+      section: gd
+      subnav:  # Ajout d'un sous-menu
               - title: "i727 vtt"
                 url: "/727-Grand-Depart/"
               - title: "g727 gravel"
-                url: "/g727-Grand-Depart/"    
+                url: "/g727-Grand-Depart/"
+    - title: "Portfolio"
+      section: portfolio
     - title: "Timeline"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
 #    - title: "Theme Source"

@@ -11,10 +11,14 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
+    #title: [8 mai](/727-Grand-Depart/) et [28 septembre 2024](/g727-Grand-Depart/)
     title: 8 mai et 28 septembre 2024
+    titlelink: "#gd"
     text: Gravel ou VTT
-    button: Découvrez
+    button: Découvrir
     buttonlink: "#top"
+    button2: Inscription
+    buttonlink2: "#gd"
     background: /assets/img/sete-bleu.jpeg
 
   services:
@@ -24,19 +28,35 @@ fr: &DEFAULT_FR
     list:
       - title: "727"
         subtitle: VTT
-        desc: "Exploration des frontières de l'Hérault. Entre plage et montagne, guarrigues et forêts. Prochain Grand Départ mai 2025."
+        desc: "Exploration des frontières de l'Hérault. Entre plage et montagne, guarrigues et forêts, des singles et encore des singles."
         link: /727
         icon: fab fa-markdown
       - title: "i727"
         subtitle: VTT
-        desc: "Sans jamais croiser le 727, cette randonnée parcourt les recoins les plus secrets de l'Hérault. [Grand Départ le 8 mai 2024.](/727-Grand-Depart/)"
+        desc: "Sans jamais croiser le 727, cette randonnée parcourt les recoins les plus secrets de l'Hérault, sans manquer le fameux lac du Salagou."
         link: /i727
         icon: fas fa-laptop
       - title: "g727"
         subtitle: Gravel
-        desc: "Aspiré par les chemins sauvages, le g727 déborde de l'Hérault et traverse le Gard, le Tarn et l'Aude. [Grand Départ le 28 septembre 2024.](/g727-Grand-Depart/)"
+        desc: "Aspiré par les chemins sauvages, le g727 déborde de l'Hérault et traverse le Gard, le Tarn et l'Aude. Des vues à couper le souffle."
         link: /g727
         icon: fab fa-markdown
+
+  gd:
+    title: "Grands Départs"
+    text: "Deux départs groupés chaque année"
+    section: gd
+    list:
+      - title: "8 mai 2024"
+        subtitle: 8 mai 2024
+        desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un 727. Plus de 25 % de singles."
+        link: /727-Grand-Depart/
+        icon: fas fa-mountain
+      - title: "28 septembre 2024"
+        subtitle: 28 septembre 2024
+        desc: "Inauguré en 2023, la version gravel du 727 revient, avec de merveilleuses pistes et des paysages éblouissants."
+        link: /g727-Grand-Depart/
+        icon: fas fa-route
 
   portfolio:
     title: "Portfolio"

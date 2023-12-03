@@ -1,8 +1,10 @@
 #Color Customization
 contrast: "#000"
-highlight: "#fed136"
-white: "#FF0000"
+highlight: "#FCDC12" #Jaune or initial:#fed136
+white: "#FFF"
 black: "#000"
+hot: "#DC143C"
+back: "#CCC"
 
 #Image Customization
 #header-image: "../img/header-bg.jpg"

@@ -1,0 +1,32 @@
+<!-- Services -->
+<section class="page-section bg-light" id="{{ site.data.sitetext[site.locale].gd.section }}">
+    <div class="container">
+  
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].gd.title }}</h2>
+          {% if site.data.sitetext[site.locale].gd.text %}
+      <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].gd.text }}</h3>
+      {% endif %}
+        </div>
+      </div>
+    
+      <div class="row text-center">
+    {% for gd in site.data.sitetext[site.locale].gd.list %}
+        <div class="col-md-4">
+          <!--<h4 class="round"><a href="{{ gd.link}}">{{ gd.title | markdownify }}</a></h4>-->
+          <a href="{{ gd.link}}"><span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-contrast"></i>
+            <i class="{{ gd.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+          </span></a>
+          <h4 class="service-heading"><a href="{{ gd.link}}">{{ gd.subtitle | markdownify }}</a></h4>
+          {% if gd.desc %}
+          <div class="text-muted">{{ gd.desc | markdownify }} <a href="{{gd.link}}" class="hotlink">Inscription</a></div>
+          {% endif %}
+        </div>
+    {% endfor %}
+      </div>
+    
+    </div>
+  </section>
+  <!-- End Services -->

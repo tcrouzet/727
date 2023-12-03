@@ -33,6 +33,11 @@ div.intro-text.intro-lead-in {
   margin-bottom: 25px;
   @include serif-font;
 }
+.intro-lead-in a,.intro-lead-in a:hover{
+  color: white;
+  text-decoration: none;
+}
+
 div.intro-text.intro-heading {
   font-size: 50px;
   font-weight: 700;

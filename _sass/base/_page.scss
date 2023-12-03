@@ -1,4 +1,10 @@
 // Global styling for this template
+:root {
+  --line-height-post: calc(1ex / 0.32);
+  --margin-top-post: calc(1ex / 0.64);
+  --page-guter: 1rem;
+}
+
 body {
   overflow-x: hidden;
   @include body-font;
@@ -24,6 +30,19 @@ p a{
   text-decoration: underline;
 }
 
+a.hotlink {
+  background-color: $contrast;
+  padding: 0.5em 1em;
+  margin-top: 1em;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+/* Style pour l'état de survol du lien */
+a.hotlink:hover {
+  background-color: darken($contrast, 10%);
+}
 
 .text-primary {
   color: $primary !important;
@@ -84,3 +103,35 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+.post{
+  width: 100%;
+  margin: 2rem 0 0 0;
+}
+
+.post p{
+  max-width: 60ch;
+  text-align: justify;
+  margin-top: var(--margin-top-post);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--page-guter);
+  padding-right: var(--page-guter);
+}
+
+.post h3{
+  max-width: 60ch;
+  text-align: left;
+  margin-top: var(--margin-top-post);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--page-guter);
+  padding-right: var(--page-guter);
+}
+
+#route-resume {background:$back;margin:0 auto;max-width:60ch;padding:0.5em;text-align: center;}
+#route-resume img {width:64px;height:64px;margin-right:0.3em;display: inline-block}
+#route-resume div.iconbox {display: inline-block}
+#route-resume div.icontext {display: inline-block;vertical-align: super;margin-left:1ch}
+#route-resume span{font-weight: bold}
+#route-resume div.spacer{width:0.5em;display: inline-block}

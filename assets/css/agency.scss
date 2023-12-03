@@ -2,7 +2,6 @@
 ---
 @charset "utf-8";
 // Core variables and mixins
-@import "base/variables.scss";
 @import "base/mixins.scss";
 
 // Custom colors
@@ -10,6 +9,19 @@ $primary: {{ site.data.style.contrast }} !default;
 $contrast: {{ site.data.style.highlight }} !default;
 $white: {{ site.data.style.white }} !default;
 $black: {{ site.data.style.black }} !default;
+$hot: {{ site.data.style.hot }} !default;
+$back:  {{ site.data.style.back }} !default;
+
+// Restated Bootstrap Variables
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #868e96 !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
 
 // Custom Images
 $header-image: "{{ site.data.style.header-image }}";

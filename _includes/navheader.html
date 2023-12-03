@@ -5,9 +5,12 @@
   <div class="overlay"></div>
   <div class="container">
     <div class="intro-text">
-      {%- assign header = page.header_text | default: site.data.sitetext[site.locale].header.title -%}
-      {%- if header -%}
-        <div class="intro-lead-in">{{ header | markdownify }}</div>
+      {%- assign title = page.header_text | default: site.data.sitetext[site.locale].header.title -%}
+      {%- assign titlelink = page.titlelink | default: site.data.sitetext[site.locale].header.titlelink -%}
+      {%- if title and titlelink -%}
+        <div class="intro-lead-in"><a href="{{ titlelink }}">{{ title | markdownify }}</a></div>
+      {%- elsif title -%}
+        <div class="intro-lead-in">{{ title | markdownify }}</div>
       {%- endif -%}
 
       {%- assign text = page.header_title | default: site.data.sitetext[site.locale].header.text -%}
@@ -15,11 +18,15 @@
         <div class="intro-heading">{{ text | markdownify }}</div>
       {%- endif -%}
 
-      {%- assign button_text = page.header_button_text | default: site.data.sitetext[site.locale].header.button -%}
-      {%- assign button_link = page.header_button_link | default: site.data.sitetext[site.locale].header.buttonlink -%}
-      {%- if button_text and button_link -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{  | '#top' }}">{{ button_text }}</a>
+      {%- assign button_text = site.data.sitetext[site.locale].header.button -%}
+      {%- if button_text -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#top">{{ button_text }}</a>
       {%- endif -%}
+
+      {%- if page.header_text == nil -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{  site.data.sitetext[site.locale].header.buttonlink2 }}">{{ site.data.sitetext[site.locale].header.button2 }}</a>
+      {%- endif -%}
+
     </div>
   </div>
 </header>
