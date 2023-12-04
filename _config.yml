@@ -16,7 +16,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : 727 bikepacking series
 email      : tcl@tcrouzet.com #this is also the email contact forms will go to
-description: "Les 727 sont des randonnées bikepacking en Occitanie, notamment dans l'Hérault."
+description: "Les 727 sont des randonnées bikepacking gravel ou VTT en Occitanie, notamment dans l'Hérault."
+keywords   : "bikepacking,gravel,vtt,voyage à vélo,Hérault,Occitanie"
 author     : Thierry Crouzet
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

@@ -62,48 +62,73 @@ fr: &DEFAULT_FR
         link: /g727-Grand-Depart/
         icon: fas fa-route
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  about:
+    title: "Esprit"
+    text: "Par amour de l'Hérault"
+    body: "Peaufiner sans cesse les 727 dans le but de faire découvrir les chemins et les sentiers les plus sauvages de [l’Hérault](https://fr.wikipedia.org/wiki/H%C3%A9rault_(d%C3%A9partement)), un des départements français les plus divers, [de par sa géologie](https://tcrouzet.com/2023/02/01/la-magie-du-727-expliquee-par-la-geologie/), [sa biodiversité](https://fr.wikipedia.org/wiki/Point_chaud_de_biodiversit%C3%A9), sa topographie. L'explorer à VTT ou gravel, c’est la garantie de changer sans cesse de paysage. Pensez que vous ne suivez pas des itinéraires officiels, entretenus tout au long de l’année par des agents de l’État. Plus de bikepackers effectueront les 727, plus les traces s’entretiendront d’elles-mêmes. Si vous découvrez des secteurs impraticables ou des variantes, [contactez-nous](/#contact)."
+    section: about
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Chronologie"
+    text: "Un coup de foudre pour le bikepacking (par Thierry Crouzet)"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+      - title: "Inspiration américaine"
+        year: "Janvier-Mai 2019"
+        desc: "Je participe à l’[HuRaCan 300](https://www.singletracksamurai.com/huracan-300) et au [Three Rivers Ways](https://www.tennesseegravel.com/three-rivers-way), des évènements bikepacking gratuits ou quasi, non compétitifs, favorisant la coopération, les rencontres et la fraternité, sans négliger l’aventure puisque nous étions en autonomie durant de longs kilomètres dans la nature."
+        image: images/timeline/2019-1.jpg
+        alt: USA
+      - title: "Open Source"
+        year: "Septembre 2019"
+        desc: "Alité après une fracture du col du fémur, j'ai l'idée de tracer un GTH (Grand Tour de l'Hérault), en m'inspirant du tour de [Charente à VTT](https://sportsdenature16.lacharente.fr/vtt/tour-charente-vtt). Attaché à la philosophie open source, je décide de distribuer mes traces gratuitement, pour qu’elles puissent être parcourues en ITT (Individual Time Trial), c’est-à-dire à tout moment de l’année par qui le souhaite."
+        image: images/timeline/2019-2.jpg
+        alt: Sète
+      - title: "Première tentative"
+        year: "Septembre 2020"
+        desc: "Nous partons à deux, sens antihoraire, et une météo hivernale sur le Larzac et L'Espinouse nous pousse à l'andandon le troisième jour. Je comprends que le sens horaire est plus favorable."
+        image: images/timeline/2020.jpg
+        alt: Larzac
+      - title: "Premier Grand Départ"
+        year: "Avril 2021"
+        desc: "La veillées d'armes est une façon de célébrer le bikepacking tout en se faisant de nouveaux amis. Le GTH devient le 727, pour Sète à Sète, 7 to 7 en anglais, donc 727 (j'avais zappé que la GTH était déjà [la Grande Traversée de l'Hérault](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/))"
+        image: images/timeline/2021.jpg
+        alt: ""
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+        #align: right
+      - title: "Premier i727"
+        year: "Avril 2022"
+        desc: "Nous inaugurons la trace i727, dans des conditions dantesques, vent violent dans le nez le premier jour, neige le lendemain."
+        image: images/timeline/2022.jpg
+        alt: ""
+      - title: "Professionnalisation"
+        year: "Avril 2023"
+        desc: "Je m'associe à ECP (l'entente cycliste poussannaise) et à la marie de Poussan pour offrir les mêmes prestations que les évènements bien plus honéreux. La FFVélo nous assure. Temps dantesque encore fois. Décision de partir en mai en 2024."
+        image: images/timeline/2023-1.jpg
+        alt: ""
+      - title: "Premier g727"
+        year: "Septembre 2023"
+        desc: "Beaucoup de bikepackers me demandaient une trace moins VTT, je suis allé chercher des pistes dans le Gard, le Tarn et L'aude."
+        image: images/timeline/2023-2.jpg
+        alt: ""
+    end: "À vous<br>d'écrire<br>la suite!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+  forum:
+    title: "Communauté"
+    text: "Partager, questionner, préparer…"
+    section: forum
+    list:
+      - title: "Livre d'or"
+        subtitle: 8 mai 2024
+        desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un 727. Plus de 25 % de singles."
+        link: /727-Grand-Depart/
+        icon: fas fa-mountain
+      - title: "Groupe Facebook"
+        subtitle: 28 septembre 2024
+        desc: "Inauguré en 2023, la version gravel du 727 revient, avec de merveilleuses pistes et des paysages éblouissants."
+        link: /g727-Grand-Depart/
+        icon: fas fa-route
 
   clients:
     section: clients

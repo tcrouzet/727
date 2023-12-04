@@ -4,11 +4,16 @@
   --margin-top-post: calc(1ex / 0.64);
   --page-guter: 1rem;
   --width-ch: 60ch;
+  --font-size-small: 1rem;
+  --font-size-base: 1.25rem;
+	--font-size-post: 1.13rem;
+
 }
 
 body {
   overflow-x: hidden;
   @include body-font;
+  font-size: var(--font-size-base);
 }
 
 p {
@@ -140,8 +145,11 @@ img::-moz-selection {
   margin-top: var(--margin-top-post);
   margin-left: auto;
   margin-right: auto;
-  padding-left: var(--page-guter);
-  padding-right: var(--page-guter);
+}
+
+.post p img{
+  width: -webkit-fill-available;
+  height: auto
 }
 
 #route-resume {margin:0 auto;max-width:60ch;padding:0.5em;text-align: center;}

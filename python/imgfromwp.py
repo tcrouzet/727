@@ -4,7 +4,7 @@ import shutil
 import yaml
 
 
-page_name="727"
+page_name="g727"
 
 file_path = '~/Documents/GitHub/727/python/webpage.html'
 file_path = os.path.expanduser(file_path)

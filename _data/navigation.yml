@@ -21,8 +21,8 @@ fr: &DEFAULT_FR
                 url: "/g727/"
               - title: "Météo"
                 url: "/weather/"
-              - title: "Timeline"
-                url: "#timeline"
+              - title: "Chronologie"
+                url: "/#timeline"
     - title: "Grands Départs"
       section: gd
       subnav:  # Ajout d'un sous-menu
@@ -32,8 +32,8 @@ fr: &DEFAULT_FR
                 url: "/g727-Grand-Depart/"
               - title: "Accès"
                 url: "/access/"
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Vidéos"
+      section: video/
     - title: "Contact"
       section: contact
 #    - title: "Theme Source"
