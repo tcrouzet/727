@@ -1,6 +1,8 @@
 // Styling for the navbar
 #mainNav {
-  background-color: $gray-900;
+  .navbar-dark{
+    background-color: $backmenu;
+  }
   .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -33,7 +35,7 @@
         &.active,
         &:hover {
           color: $contrast;
-          background-color: $gray-900;
+          background-color: $backmenu;
         }
       }
     }
@@ -47,7 +49,6 @@
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
     .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
@@ -64,7 +65,7 @@
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
-      background-color: $gray-900;
+      background-color: $backmenu;
       .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;
@@ -81,7 +82,7 @@
 #mainNav .navbar-nav .nav-item .nav-sub-menu {
   display: none;
   position: absolute;
-  background-color: $gray-900;
+  background-color: $backmenu;
   padding: 0;
   min-width: 100%;
   white-space: nowrap;
@@ -107,4 +108,8 @@
 #mainNav .navbar-nav .nav-item .nav-sub-menu li a:hover {
   color: $contrast; /* Couleur du texte au survol */
   background-color: transparent; /* Garde le fond transparent */
+}
+
+.backmenucolor{
+  background-color: $backmenu;
 }

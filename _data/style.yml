@@ -5,7 +5,7 @@ white: "#FFF"
 black: "#000"
 hot: "#DC143C"
 back: "#CCC"
+backmenu: "#212529"
 
 #Image Customization
-#header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"

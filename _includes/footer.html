@@ -1,7 +1,11 @@
 <!-- Footer -->
 <footer class="footer" id="footer" style="background-color: white">
   <div class="postcontainer">
-    <p><a href="{{ site.hearder.link }}">{{ site.hearder.copyright }} {{ 'now' | date: "%Y" }}</a></p>
+    <p>
+      {{ site.data.sitetext[site.locale].header.copyrightlicence | default:"©" }}
+      <a href="{{ site.data.sitetext[site.locale].header.copyrightlink }}">{{ site.data.sitetext[site.locale].header.copyright }} {{ 'now' | date: "%Y" }}</a> - 
+      <a href="/legal">{{ site.data.sitetext[site.locale].footer.legal | default:"Privacy Policy" }}</a>
+    </p>
   </div>
 </footer>
 {% if page.layout == "page" %}

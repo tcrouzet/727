@@ -4,12 +4,6 @@ type: page
 ---
 {% include navbar.html %}
 
-{% if page.background == "grey" or page.background == "gray" %}
-<script>
-document.getElementById("page-top").className="bg-light";
-</script>
-{% endif %}
-
-<div class="postcontainer" id="pagecontainer">
+<div class="post postspacer" id="top">
 {{ content }}
 </div>

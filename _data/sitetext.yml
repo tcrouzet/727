@@ -20,8 +20,10 @@ fr: &DEFAULT_FR
     button2: Inscription
     buttonlink2: "#gd"
     background: /assets/img/sete-bleu.jpeg
-    copyright: "© Thierry Crouzet"
-    copyrightlibk: "https://tcrouzet.com"
+    copyright: "Thierry Crouzet"
+    copyrightlink: "https://tcrouzet.com"
+    copyrightlicence: "(cc)"
+    contacturl: "/#contact"
 
   services:
     title: "Itinéraires"
@@ -159,7 +161,7 @@ fr: &DEFAULT_FR
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contact"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
