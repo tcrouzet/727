@@ -20,6 +20,8 @@ fr: &DEFAULT_FR
     button2: Inscription
     buttonlink2: "#gd"
     background: /assets/img/sete-bleu.jpeg
+    copyright: "© Thierry Crouzet"
+    copyrightlibk: "https://tcrouzet.com"
 
   services:
     title: "Itinéraires"

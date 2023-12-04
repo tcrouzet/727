@@ -19,6 +19,10 @@ fr: &DEFAULT_FR
                 url: "/i727/"
               - title: "g727 gravel"
                 url: "/g727/"
+              - title: "Météo"
+                url: "/weather/"
+              - title: "Timeline"
+                url: "#timeline"
     - title: "Grands Départs"
       section: gd
       subnav:  # Ajout d'un sous-menu
@@ -26,10 +30,10 @@ fr: &DEFAULT_FR
                 url: "/727-Grand-Depart/"
               - title: "g727 gravel"
                 url: "/g727-Grand-Depart/"
+              - title: "Accès"
+                url: "/access/"
     - title: "Portfolio"
       section: portfolio
-    - title: "Timeline"
-      section: timeline
     - title: "Contact"
       section: contact
 #    - title: "Theme Source"
