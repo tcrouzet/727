@@ -1,0 +1,128 @@
+<!-- Slideshow -->
+
+
+
+{%- assign page_name = page.permalink -%}
+
+{%- if page_name -%}
+  {%- assign first_char = page_name | slice: 0 -%}
+  {%- assign last_char = page_name | slice: -1 -%}
+  
+  {%- if first_char == '/' -%}
+    {%- assign page_name = page_name | remove_first: '/' -%}
+  {%- endif -%}
+  
+  {%- if last_char == '/' -%}
+    {%- assign page_name = page_name | remove: '/' -%}
+  {%- endif -%}
+{%- endif -%}
+
+{% assign first_image = site.data.images[page_name][0] %}
+
+{%- if first_image != nil  -%}
+<div id="slideshow">
+    <div class="slide" style="background-image: url('/images{{page.permalink}}{{ first_image.image }}');">
+        <div class="slide-text">{{ first_image.alt }}</div>
+    </div>
+
+    <div class="slideshow-controls">
+        <button id="prev" class="slideshow-button">&lt;</button>
+        <button id="next" class="slideshow-button">&gt;</button>
+    </div>
+    
+</div>
+
+<script>
+    let images = [
+        {% for image in site.data.images[page_name] %}
+            {
+                src: "{{ image.image }}",
+                alt: "{{ image.alt | escape }}"
+            }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ];
+
+document.addEventListener('DOMContentLoaded', function() {
+    const slideshowContainer = document.querySelector('#slideshow .slide'); // Sélectionnez la div .slide
+    let currentSlide = 0;
+
+    function showSlide(index) {
+        const image = images[index];
+        // Modifiez le style de fond pour changer l'image
+        slideshowContainer.style.backgroundImage = `url("/images{{ page.permalink }}${image.src}")`;
+        // Modifiez le texte de l'alt pour la nouvelle image
+        const slideTextDiv = slideshowContainer.querySelector('.slide-text');
+        slideTextDiv.textContent = image.alt;
+    }
+
+    document.getElementById('prev').addEventListener('click', () => {
+        currentSlide = currentSlide - 1 < 0 ? images.length - 1 : currentSlide - 1;
+        showSlide(currentSlide);
+    });
+
+    document.getElementById('next').addEventListener('click', () => {
+        currentSlide = (currentSlide + 1) % images.length;
+        showSlide(currentSlide);
+    });
+
+    // Initialiser le diaporama avec la première image
+    showSlide(currentSlide);
+});
+
+
+</script>
+
+<style type="text/css">
+#slideshow {
+    width: 100%;
+    height: 80vh;
+}
+
+#slideshow .slide{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#slideshow .slideshow-controls {
+    position: relative;
+    width: 100%;
+    top: -65%;
+    /*transform: translateY(-50%);*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10; /* S'assure que les contrôles sont au-dessus de l'image */
+}
+
+.slideshow-button {
+    font-size: 5em; /* Taille des boutons */
+    background: rgba(0, 0, 0, 0.5); /* Fond semi-transparent pour la visibilité */
+    border: none;
+    color: white;
+    /*padding: 10px;*/
+    cursor: pointer;
+    /*border-radius: 50%;*/
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);*/
+}
+
+.slide-text {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    padding: 5px 10px;
+    background: rgba(0, 0, 0, 0.7); /* Fond plus sombre pour la visibilité */
+    font-size: 1em;
+    z-index: 2; /* S'assure que le texte est au-dessus de l'image */
+}
+
+</style>
+{%- endif -%}
+
+<!-- END Slideshow -->

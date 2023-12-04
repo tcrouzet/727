@@ -45,8 +45,9 @@ def copy_image_with_unique_name(source_dir, target_dir, filename):
 with open(file_path, 'r', encoding='utf-8') as file:
     html_content = file.read()
 
-pattern = r'<img[^>]*src="http://localhost:8888/images_tc//(\d{4}/\d{2}/[^"]+)-\d+x\d+\.(jpeg|jpg|png)"[^>]*alt="([^"]*)"'
-extracted_data = re.findall(pattern, html_content)
+pattern_local = r'<img[^>]*src="http://localhost:8888/images_tc//(\d{4}/\d{2}/[^"]+)-\d+x\d+\.(jpeg|jpg|png)"[^>]*alt="([^"]*)"'
+pattern_online = r'<img[^>]*src="/images_tc/(\d{4}/\d{2}/[^"]+)-\d+x\d+\.(jpeg|jpg|png)"[^>]*alt="([^"]*)"'
+extracted_data = re.findall(pattern_online, html_content)
 images = [{"filename": f"{path}.{ext}", "alt": alt} for path, ext, alt in extracted_data]
 unique_images = {img['filename']: img for img in images}.values()
 unique_images = list(unique_images)
