@@ -99,7 +99,7 @@
 @media (max-width: 1000px) {
 
   #mainNav .navbar-nav{
-    width: 60%;
+    width: 95%;
   }
 
   #mainNav .navbar-nav .nav-item .nav-sub-menu {
@@ -117,6 +117,10 @@
     height: 100vh; /* Hauteur égale à la hauteur de la fenêtre du navigateur */
     width: 100%; /* Largeur sur toute la largeur de l'écran */
     z-index: 10;
+  }
+
+  .navbar-shrink{
+    background-color: $backmenu;
   }
 }
 
