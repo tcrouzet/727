@@ -34,6 +34,10 @@ fr: &DEFAULT_FR
                 url: "/g727-Grand-Depart/"
               - title: "Accès"
                 url: "/access/"
+              - title: "Règlement 727/i727"
+                url: "/727rules/"
+              - title: "Règlement g727"
+                url: "/g727rules/"
     - title: "Communauté"
       section: forum
       subnav:  # Ajout d'un sous-menu
