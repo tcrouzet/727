@@ -8,13 +8,16 @@
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
     border: 0;
+    color: $primary;
     background-color: $contrast;
+    z-index: 12;
+    overflow: auto;
     @include heading-font;
   }
   .navbar-brand {
     color: $contrast;
+    padding-top: 0;
     @include script-font;
     &.active,
     &:active,
@@ -41,38 +44,7 @@
     }
   }
 }
-@media (min-width: 992px) {
-  #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
-    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
-    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
-    transition: padding-top 0.3s, padding-bottom 0.3s;
-    border: none;
-    .navbar-brand {
-      font-size: 1.75em;
-      -webkit-transition: all 0.3s;
-      -moz-transition: all 0.3s;
-      transition: all 0.3s;
-    }
-    .navbar-nav {
-      .nav-item {
-        .nav-link {
-          padding: 1.1em 1em !important;
-        }
-      }
-    }
-    &.navbar-shrink {
-      padding-top: 0;
-      padding-bottom: 0;
-      background-color: $backmenu;
-      .navbar-brand {
-        font-size: 1.25em;
-        padding: 12px 0;
-      }
-    }
-  }
-}
+
 
 /* Styles de base pour les sous-menus */
 #mainNav .navbar-nav .nav-item {
@@ -87,11 +59,20 @@
   min-width: 100%;
   white-space: nowrap;
   z-index: 1;
+  line-height: 1.1rem;
+  margin-top: -1rem;
+  display: none;
 }
 
+#mainNav .navbar-nav {
+  width: fit-content;
+}
 /* Affichage du sous-menu lors du survol de l'élément parent */
 #mainNav .navbar-nav .nav-item:hover .nav-sub-menu {
   display: block;
+}
+#mainNav .navbar-nav ul {
+  background-color: $backmenu;
 }
 
 /* Styles pour les liens dans les sous-menus */
@@ -112,4 +93,65 @@
 
 .backmenucolor{
   background-color: $backmenu;
+}
+
+/* Media Query pour les vues étroites */
+@media (max-width: 1000px) {
+
+  #mainNav .navbar-nav{
+    width: 60%;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-sub-menu {
+    position: relative;
+    display: inline;
+    margin-top: 0;
+  }
+
+  .navbar-collapse{
+    background-color: $backmenu;
+    overflow-y: auto;
+    position: fixed; /* Fixe le menu sur l'écran */
+    top: 0; /* Positionne le menu en haut de l'écran */
+    left: 0; /* Alignez le menu à gauche de l'écran */
+    height: 100vh; /* Hauteur égale à la hauteur de la fenêtre du navigateur */
+    width: 100%; /* Largeur sur toute la largeur de l'écran */
+    z-index: 10;
+  }
+}
+
+@media (min-width: 1000px) {
+
+  #mainNav {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
+    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+    border: none;
+    .navbar-brand {
+      font-size: 1.75em;
+      -webkit-transition: all 0.3s;
+      -moz-transition: all 0.3s;
+      transition: all 0.3s;
+    }
+    .navbar-nav {
+      .nav-item {
+        .nav-link {
+          padding: 1.1em 1em !important;
+        }
+        
+      }
+
+    }
+    &.navbar-shrink {
+      padding-top: 0;
+      padding-bottom: 0;
+      background-color: $backmenu;
+      .navbar-brand {
+        font-size: 1.25em;
+        padding: 12px 0;
+      }
+    }
+  }
 }

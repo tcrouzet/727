@@ -97,11 +97,6 @@ h6 {
     @include serif-font;
   }
 }
-@media (min-width: 768px) {
-  section {
-    padding: 150px 0;
-  }
-}
 
 // Highlight color customization
 ::-moz-selection {
@@ -199,4 +194,10 @@ img::-moz-selection {
 .video iframe {
   width: 100%;
   height: -webkit-fill-available;
+}
+
+@media (min-width: 768px) {
+  section {
+    padding: 150px 0;
+  }
 }
