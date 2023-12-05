@@ -2,7 +2,7 @@
 layout: post
 title: "727 bikepacking gravel Grand Départ"
 permalink: /g727-Grand-Depart/
-background: /assets/img/sete-bleu.jpeg
+background: /images/727gd/IMG_3450.jpeg
 header_title: "18 septembre 2024"
 header_text: "Grand Départ du g727"
 header_button_text: "Découvrez"

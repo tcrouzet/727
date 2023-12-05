@@ -2,7 +2,7 @@
 layout: post
 title: "Poussan : centre du monde bikepacking"
 permalink: /access/
-background: /images/g727/IMG_1673.jpeg
+background: /images/access/IMG_1525.jpeg
 header_title: "Poussan"
 header_text: "Là où tout commence"
 comments: true
