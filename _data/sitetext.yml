@@ -139,6 +139,31 @@ fr: &DEFAULT_FR
     text: "Quelques récits autour des 727, beaucoup d'autres sur [tcrouzet.com](https://tcrouzet.com/tag/727/)"
     section: portfolio
     closebutton: "Close Project"
+    list:
+      - title: "g727 2023"
+        subtitle: "Une première lumineusement intense"
+        link: https://tcrouzet.com/2023/09/28/g727-une-premiere-lumineusement-intense/
+        image: images/portfolio/IMG_3450-768x576.jpeg
+      - title: "727 2023"
+        subtitle: "Encore une édition à la méto capricieuse"
+        link: https://tcrouzet.com/2023/04/06/quelques-notes-post-727-2023/
+        image: images/portfolio/IMG_1623-1-768x576.jpeg
+      - title: "i727 2022"
+        subtitle: "Sous la neige…"
+        link: https://tcrouzet.com/2022/04/07/bikepacking-tempetueux-dans-lherault/
+        image: images/portfolio/IMG_6583-768x576.jpeg
+      - title: "Reco i727"
+        subtitle: "Dans l'ambre de l'automne"
+        link: https://tcrouzet.com/2021/10/12/bikepacking-dans-lautomne-flamboyant-du-midi/
+        image: images/portfolio/IMG_2644-768x576.jpeg
+      - title: "727 unofficiel"
+        subtitle: "C'est sublime en mai"
+        link: https://tcrouzet.com/2021/05/27/le-727-ou-la-fonction-regenerative-du-bikepacking/
+        image: images/portfolio/IMG_9873-768x576.jpeg
+      - title: "727 2021"
+        subtitle: "Le premier 727 officiel"
+        link: https://tcrouzet.com/2021/04/08/tour-de-lherault-bikepacking-agrandir-limaginaire/
+        image: images/portfolio/IMG_9083-768x576.jpeg
 
   partners:
     section: partners

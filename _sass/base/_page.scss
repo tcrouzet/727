@@ -184,3 +184,19 @@ img::-moz-selection {
   padding-right: var(--page-guter);
   padding-top: 1rem;
 }
+
+.video {
+  position: relative;
+  max-width: var(--width-ch); /* Ajustez cette valeur selon la largeur maximale désirée */
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+  padding-left: var(--page-guter);
+  padding-right: var(--page-guter);
+  height: 22rem;
+}
+
+.video iframe {
+  width: 100%;
+  height: -webkit-fill-available;
+}
