@@ -174,3 +174,13 @@ img::-moz-selection {
 #route-resume div.icontext {display: inline-block;vertical-align: super;margin-left:1ch}
 #route-resume span{font-weight: bold}
 #route-resume div.spacer{width:0.5em;display: inline-block}
+
+#disqus_thread{
+  border-top: 1px solid $gray-600;
+  max-width: var(--width-ch);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--page-guter);
+  padding-right: var(--page-guter);
+  padding-top: 1rem;
+}

@@ -120,15 +120,17 @@ fr: &DEFAULT_FR
     section: forum
     list:
       - title: "Livre d'or"
-        subtitle: 8 mai 2024
-        desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un 727. Plus de 25 % de singles."
-        link: /727-Grand-Depart/
-        icon: fas fa-mountain
+        subtitle: "Livre d'or"
+        desc: "Partagez vos histoires sur les 727, commentez, questionnez…"
+        link: /forum/
+        icon: fab fa-facebook-f
+        buttontext: Rejoindre
       - title: "Groupe Facebook"
-        subtitle: 28 septembre 2024
-        desc: "Inauguré en 2023, la version gravel du 727 revient, avec de merveilleuses pistes et des paysages éblouissants."
-        link: /g727-Grand-Depart/
-        icon: fas fa-route
+        subtitle: Groupe Facebook
+        desc: "On s'y retrouve, on y discute, on y partage les news…"
+        link: https://www.facebook.com/groups/727tour
+        icon: fab fa-facebook-f
+        buttontext: Rejoindre
 
   clients:
     section: clients

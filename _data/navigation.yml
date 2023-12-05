@@ -23,6 +23,8 @@ fr: &DEFAULT_FR
                 url: "/weather/"
               - title: "Chronologie"
                 url: "/#timeline"
+              - title: "Vidéos"
+                url: "/videos/"
     - title: "Grands Départs"
       section: gd
       subnav:  # Ajout d'un sous-menu
@@ -32,9 +34,15 @@ fr: &DEFAULT_FR
                 url: "/g727-Grand-Depart/"
               - title: "Accès"
                 url: "/access/"
-    - title: "Vidéos"
-      section: video/
+    - title: "Communauté"
+      section: forum
+      subnav:  # Ajout d'un sous-menu
+              - title: "Groupe Facebook"
+                url: "https://www.facebook.com/groups/727tour"
+              - title: "Livre d'or"
+                url: "/forum/"
     - title: "Contact"
       section: contact
-#    - title: "Theme Source"
-#      url: https://github.com/raviriley/agency-jekyll-theme/
+      subnav:  # Ajout d'un sous-menu
+              - title: "Partenaires"
+                url: "#Partners"

@@ -1,11 +1,8 @@
 ---
-layout: post
-title: "Les 727 bikepacking gravel et VTT en vidéo"
+layout: page
+title: "Les 727 en vidéo"
 permalink: /videos/
-background: /images/i727/IMG_2827.jpeg
-header_title: "Vidéos"
-header_text: "Bikepacking en vidéos"
-
+comments: true
 ---
 
 

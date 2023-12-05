@@ -28,7 +28,7 @@
           </span></a>
           <h4 class="service-heading"><a href="{{ gd.link}}">{{ gd.subtitle | markdownify }}</a></h4>
           {% if gd.desc %}
-          <div class="text-muted">{{ gd.desc | markdownify }} <a href="{{gd.link}}" class="hotlink">Inscription</a></div>
+          <div class="text-muted">{{ gd.desc | markdownify }} <a href="{{gd.link}}" class="hotlink">{{ gd.buttontext }}</a></div>
           {% endif %}
         </div>
     {% endfor %}

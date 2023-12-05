@@ -7,6 +7,8 @@ header_title: "727"
 header_text: "Bikepacking VTT autour de l'Hérault"
 header_button_text: "Découvrez"
 header_button_link: "#"
+comments: true
+
 ---
 
 # Bienvenue sur la Page i727
