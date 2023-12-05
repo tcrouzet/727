@@ -56,11 +56,13 @@ fr: &DEFAULT_FR
         desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un 727. Plus de 25 % de singles."
         link: /727-Grand-Depart/
         icon: fas fa-mountain
+        buttontext: Inscription
       - title: "28 septembre 2024"
         subtitle: 28 septembre 2024
         desc: "Inauguré en 2023, la version gravel du 727 revient, avec de merveilleuses pistes et des paysages éblouissants."
         link: /g727-Grand-Depart/
         icon: fas fa-route
+        buttontext: Inscription
 
   about:
     title: "Esprit"
@@ -123,7 +125,7 @@ fr: &DEFAULT_FR
         subtitle: "Livre d'or"
         desc: "Partagez vos histoires sur les 727, commentez, questionnez…"
         link: /forum/
-        icon: fab fa-facebook-f
+        icon: fas fa-book-open
         buttontext: Rejoindre
       - title: "Groupe Facebook"
         subtitle: Groupe Facebook
@@ -132,23 +134,31 @@ fr: &DEFAULT_FR
         icon: fab fa-facebook-f
         buttontext: Rejoindre
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+
+  partners:
+    section: partners
+    title: Partenaires
+    text: "Envie de soutenir les 727, [contactez-nous…](/#contact)"
+    max-height: 200px
+    horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "ECP"
+        url: https://www.facebook.com/p/Entente-Cycliste-Poussannaise-100063893714067/
+        logo: images/partners/logoecp_small.jpg
+      - title: "Mairie de Poussan"
+        url: https://www.ville-poussan.fr/
+        logo: images/partners/logo-poussan.jpg
+      - title: "FFVélo"
+        url: https://ffcyclo.org/
+        logo: images/partners/logo-ffv.jpg
+      #- title: "Département de l'Hérault"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+      #  logo: images/partners/logo-herault.jpg
 
   team:
     title: "OUR AMAZING TEAM"

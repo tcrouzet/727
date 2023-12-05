@@ -45,4 +45,4 @@ fr: &DEFAULT_FR
       section: contact
       subnav:  # Ajout d'un sous-menu
               - title: "Partenaires"
-                url: "#Partners"
+                url: "#partners"
