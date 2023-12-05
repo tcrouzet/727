@@ -32,17 +32,17 @@ fr: &DEFAULT_FR
     list:
       - title: "727"
         subtitle: VTT
-        desc: "Exploration des frontières de l'Hérault. Entre plage et montagne, guarrigues et forêts, des singles et encore des singles."
+        desc: "Exploration des frontières de l'Hérault. Entre plage et montagne, garrigues et forêts, des singles et encore des singles."
         link: /727
         icon: fab fa-markdown
       - title: "i727"
         subtitle: VTT
-        desc: "Sans jamais croiser le 727, cette randonnée parcourt les recoins les plus secrets de l'Hérault, sans manquer le fameux lac du Salagou."
+        desc: "Sans jamais croiser le 727, cette randonnée explore les coins les plus secrets de l'Hérault, en passant par le fameux lac du Salagou."
         link: /i727
         icon: fas fa-laptop
       - title: "g727"
         subtitle: Gravel
-        desc: "Aspiré par les chemins sauvages, le g727 déborde de l'Hérault et traverse le Gard, le Tarn et l'Aude. Des vues à couper le souffle."
+        desc: "Aspiré par les chemins sauvages, le g727 s'étend au-delà de l'Hérault et traverse le Gard, le Tarn et l'Aude, offrant des vues à couper le souffle."
         link: /g727
         icon: fab fa-markdown
 
@@ -59,7 +59,7 @@ fr: &DEFAULT_FR
         buttontext: Inscription
       - title: "28 septembre 2024"
         subtitle: 28 septembre 2024
-        desc: "Inauguré en 2023, la version gravel du 727 revient, avec de merveilleuses pistes et des paysages éblouissants."
+        desc: "Inaugurée en 2023, la version gravel du 727 revient, avec de magnifiques pistes et des paysages."
         link: /g727-Grand-Depart/
         icon: fas fa-route
         buttontext: Inscription
@@ -79,7 +79,7 @@ fr: &DEFAULT_FR
     events:
       - title: "Inspiration américaine"
         year: "Janvier-Mai 2019"
-        desc: "Je participe à l’[HuRaCan 300](https://www.singletracksamurai.com/huracan-300) et au [Three Rivers Ways](https://www.tennesseegravel.com/three-rivers-way), des évènements bikepacking gratuits ou quasi, non compétitifs, favorisant la coopération, les rencontres et la fraternité, sans négliger l’aventure puisque nous étions en autonomie durant de longs kilomètres dans la nature."
+        desc: "Je participe à l’[HuRaCan 300](https://www.singletracksamurai.com/huracan-300) et au [Three Rivers Ways](https://www.tennesseegravel.com/three-rivers-way), des évènements bikepacking gratuits ou quasi, non compétitifs, favorisant la coopération, les rencontres et la fraternité, sans négliger l’aventure, car nous étions en autonomie durant de longs kilomètres dans la nature."
         image: images/timeline/2019-1.jpg
         alt: USA
       - title: "Open Source"
