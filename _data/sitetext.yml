@@ -135,8 +135,8 @@ fr: &DEFAULT_FR
         buttontext: Partager
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Articles"
+    text: "Quelques récits autour des 727, beaucoup d'autres sur [tcrouzet.com](https://tcrouzet.com/tag/727/)"
     section: portfolio
     closebutton: "Close Project"
 
@@ -165,18 +165,18 @@ fr: &DEFAULT_FR
 
   contact:
     title: "Contact"
-    text: "Lorem ipsum or call 123456789"
+    text: "Une question, une proposition…"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    contactid: f/xeqbyqor
+    success: Message envoyé
+    fail: "Désolé le serveur ne répond pas. Essayez plus tard."
+    name: "Nom*"
+    name-validation: "Votre nom."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
+    email-validation: "Votre email."
+    message-validation: "Votre message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Envoyer"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Politique de confidentialité"

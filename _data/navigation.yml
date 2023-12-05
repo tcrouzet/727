@@ -23,6 +23,8 @@ fr: &DEFAULT_FR
                 url: "/weather/"
               - title: "Chronologie"
                 url: "/#timeline"
+              - title: "Articles"
+                url: "/#portfolio"
               - title: "Vidéos"
                 url: "/videos/"
     - title: "Grands Départs"
