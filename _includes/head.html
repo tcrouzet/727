@@ -14,13 +14,14 @@
   <!-- End Google Analytics -->
   {% endif %}
 
-  {%- if page.title -%}
-    {%- assign title = page.title | append: " | " | append: site.title -%}
-  {%- else -%}
-    {%- assign title = site.title -%}
-  {%- endif -%}
+    {%- if page.title -%}
+      {%- assign title = page.title | append: " | " | append: site.title -%}
+    {%- else -%}
+      {%- assign title = site.title -%}
+    {%- endif -%}
 
   {%- assign canonical = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url -%}
+  {% assign cover = page.background | default: site.data.sitetext[site.locale].header.background %}
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -33,7 +34,7 @@
   <!-- Open Graph (pour Facebook et autres plateformes) -->
   <meta property="og:title" content="{{ title }}" />
   <meta property="og:description" content="{{ site.description }}" />
-  <meta property="og:image" content="https://gpt.tcrouzet.com/images/cover.png" />
+  <meta property="og:image" content="{{ cover }}" />
   <meta property="og:url" content="{{ canonical }}" />
   <meta property="og:type" content="website" />
 
@@ -41,32 +42,53 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ title }}" />
   <meta name="twitter:description" content="{{ site.description }}" />
-  <meta name="twitter:image" content="https://gpt.tcrouzet.com/images/cover.png" />
+  <meta name="twitter:image" content="{{ cover }}" />
 
+  {%- if page.url == "/" -%}
   <!-- Données Structurées Schema.org -->
   <script type="application/ld+json">
-      {
-          "@context": "http://schema.org",
-          "@type": "Person",
-          "name": "Thierry Crouzet",
-          "url": "{{ canonical }}",
-          "sameAs": [
-              "https://www.facebook.com/ThierryCrouzetAuteur",
-              "https://www.linkedin.com/in/votreProfilLinkedIn",
-              "https://mamot.fr/@tcrouzet"
-          ],
-          "mainEntityOfPage": {
-              "@type": "WebSite",
-              "name": "Thierry Crouzet GPTs Collection",
-              "url": "{{ canonical }}"
-          },
-          "occupation": "Writer, Blogger, Ingeneer",
-          "worksFor": {
-              "@type": "Organization",
-              "name": "Freelance"
-          }
-      }
-</script>
+    {
+        "@context": "http://schema.org",
+        "@type": "Event",
+        "name": "{{ site.title }}",
+        "startDate": "2024-05-08T08:00",
+        "endDate": "2024-05-15T20:00",
+        "location": {
+            "@type": "Place",
+            "name": "Poussan",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "21 boulevard Riverain",
+                "addressLocality": "Poussan",
+                "postalCode": "34560",
+                "addressCountry": "France"
+            }
+        },
+        "url": "{{ canonical }}",
+        "description": "{{ site.description }}",
+        "image": [
+            "{{ cover }}"
+        ],
+        "mainEntityOfPage": {
+            "@type": "WebSite",
+            "name": "{{ title }}",
+            "url": "{{ canonical }}"
+        },
+        "organizer": {
+            "@type": "Organization",
+            "name": "NThierry Crouzet",
+            "url": "https://tcrouzet.com"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "{{ canonical }}",
+            "price": "35",
+            "priceCurrency": "€",
+            "availability": "http://schema.org/InStock"
+        }
+    }
+  </script>
+  {%- endif -%}
 
   <!-- Bootstrap core CSS -->
   <link href="{{ site.url }}{{ site.baseurl }}/assets/css/bootstrap.min.css?v={{ site.time | date: '%s' }}" rel="stylesheet" />
