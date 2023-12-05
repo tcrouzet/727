@@ -20,51 +20,79 @@ header.masthead .overlay {
 }
 
 div.intro-text {
-  padding-top: 150px;
-  padding-bottom: 100px;
+  padding-top: 30vh;
+  /*padding-bottom: 100px;*/
   position: relative;
   z-index: 2;
 }
 
-div.intro-text.intro-lead-in {
-  font-size: 22px;
+div.intro-text h1 {
+  font-size: 2.5em;
   font-style: italic;
-  line-height: 22px;
-  margin-bottom: 25px;
+  /*line-height: 22px;
+  margin-bottom: 25px;*/
   @include serif-font;
-}
-.intro-lead-in a,.intro-lead-in a:hover{
-  color: white;
-  text-decoration: none;
+  a, a:hover{
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+  }
 }
 
-div.intro-text.intro-heading {
-  font-size: 50px;
+div.intro-text h2 {
+  font-size: 5rem;
   font-weight: 700;
-  line-height: 50px;
-  margin-bottom: 25px;
+  margin-top: 2.5rem;
+  margin-bottom: 3rem;
   @include heading-font;
 }
 
-/*div.container{z-index: 1;}*/
+div.container{
+  max-width: 100ch;
+  /*z-index: 1;*/
+}
+
+ul.social-buttons {
+  margin-top: 2rem;
+  li {
+    a {
+      font-size: 20px;
+      line-height: 50px;
+      display: block;
+      width: 50px;
+      height: 50px;
+      -webkit-transition: all 0.3s;
+      -moz-transition: all 0.3s;
+      transition: all 0.3s;
+      color: white;
+      border-radius: 100%;
+      outline: none;
+      background-color: $black;
+      &:active,
+      &:focus,
+      &:hover {
+        color: $contrast;
+      }
+    }
+  }
+}
 
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
-      .intro-lead-in {
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
-        margin-bottom: 25px;
+      padding-top: 30vh;
+      /*padding-bottom: 200px;*/
+      h1 {
+        font-size: 2.5rem;
+        /*line-height: 40px;*/
+        /*margin-bottom: 25px;*/
         @include serif-font;
       }
-      .intro-heading {
-        font-size: 75px;
+      h2 {
+        font-size: 5rem;
         font-weight: 700;
-        line-height: 75px;
-        margin-bottom: 50px;
+        /*line-height: 75px;
+        margin-bottom: 50px;*/
         @include heading-font;
       }
     }

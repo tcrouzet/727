@@ -1,13 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Météo sur les 727"
 permalink: /weather/
-background: /images/g727/IMG_1673.jpeg
-header_title: "Météo"
-header_text: "Le Midi, ce n'est pas les tropiques"
 ---
-
-### Météo
 
 La météo est généralement clémente dans l'Hérault, mais on n'est pas sous les tropiques. Nous avons eu de la neige en avril 2022, avant le retour du beau temps. Sur les hauteurs de l'Espinouse et du Larzac les températures peuvent passer au-dessous de zéro durant la nuit entre octobre et avril.
 

@@ -8,14 +8,14 @@
       {%- assign title = page.header_text | default: site.data.sitetext[site.locale].header.title -%}
       {%- assign titlelink = page.titlelink | default: site.data.sitetext[site.locale].header.titlelink -%}
       {%- if title and titlelink -%}
-        <div class="intro-lead-in"><a href="{{ titlelink }}">{{ title | markdownify }}</a></div>
+        <h1><a href="{{ titlelink }}">{{ title }}</a></h1>
       {%- elsif title -%}
-        <div class="intro-lead-in">{{ title | markdownify }}</div>
+        <h1>{{ title }}</h1>
       {%- endif -%}
 
       {%- assign text = page.header_title | default: site.data.sitetext[site.locale].header.text -%}
       {%- if text -%}
-        <div class="intro-heading">{{ text | markdownify }}</div>
+        <h2>{{ text }}</h2>
       {%- endif -%}
 
       {%- assign button_text = site.data.sitetext[site.locale].header.button -%}
@@ -26,6 +26,22 @@
       {%- if page.header_text == nil -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{  site.data.sitetext[site.locale].header.buttonlink2 }}">{{ site.data.sitetext[site.locale].header.button2 }}</a>
       {%- endif -%}
+
+      {%- assign crunchifyURL = site.url | append: page.permalink | default: site.url -%}
+      {%- assign crunchify = crunchifyURL | url_encode -%}
+      {%- assign $crunchifyTitle = title | url_encode -%}
+
+      <ul class="list-inline social-buttons">
+        <li class="list-inline-item">
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{crunchify}}"><i class="fab fa-facebook-f"></i></a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://twitter.com/intent/tweet?text={{crunchifyTitle}}&amp;url={{crunchify}}"><i class="fab fa-twitter"></i></a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{crunchify}}&amp;title={{crunchifyTitle}}"><i class="fab fa-linkedin-in"></i></a>
+        </li>
+      </ul>
 
     </div>
   </div>

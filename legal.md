@@ -3,8 +3,6 @@ layout: page
 title: Privacy Policy
 ---
 
-### Privacy Policy
-
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
 
 **PERSONAL INFORMATION WE COLLECT**
