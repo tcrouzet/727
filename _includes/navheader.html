@@ -25,6 +25,8 @@
 
       {%- if page.header_text == nil -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{  site.data.sitetext[site.locale].header.buttonlink2 }}">{{ site.data.sitetext[site.locale].header.button2 }}</a>
+      {%- elsif page.header_button_text2 -%}
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{  page.header_button_link2 }}">{{ page.header_button_text2 }}</a>
       {%- endif -%}
 
       {%- assign crunchifyURL = site.url | append: page.permalink | default: site.url -%}

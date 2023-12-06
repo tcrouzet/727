@@ -7,6 +7,8 @@ header_title: "18 septembre 2024"
 header_text: "Grand Départ du g727"
 header_button_text: "Découvrez"
 header_button_link: "#"
+header_button_text2: Helloasso
+header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024"
 comments: true
 ---
 
