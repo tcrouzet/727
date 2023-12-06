@@ -12,7 +12,7 @@ comments: true
 
 Chaque année depuis 2020, nous nous élançons en groupe pour un [727](/727/) (les années impaires) ou un [i727](/i727/) (les années paires), des aventures VTT en bikepacking autour et dans le département de l’Hérault. Les 727/i727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenues. Participer à un [Grand Départ](http://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est l'occasion de rencontrer d'autres bikepackers, de partager des moments mémorables avec eux, de se motiver et aussi de débuter pour ceux qui découvrent la discipline (on a presque tous commencé ainsi).
 
-<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/i727-2024-1" style="background-color:red;color: white;font-weight:bold">Inscrivez-vous au i727 2024 sur helloasso (35 €) >>></a></p>
+<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/i727-2024-1" style="background-color:red;color: white;font-weight:bold">Inscrivez-vous au i727 2024 sur helloasso (35 €) >>></a> (99 places)</p>
 
 Pourquoi rouler un i727 en mai ? Parce que c'est la plus belle des saisons pour en prendre plein les yeux dans des paysages sauvages, sans cesse changeants, loin des grandes villes, avec des villages parmi les plus beaux de France et des chemins mémorables. L'Hérault ne se limite pas à ses plages.
 
