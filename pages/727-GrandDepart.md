@@ -3,7 +3,7 @@ layout: post
 title: "727 bikepacking vtt"
 permalink: /727-Grand-Depart/
 background: /images/727gd/IMG_3101.jpeg
-header_title: "8 mai 2025"
+header_title: "8 mai 2024"
 header_text: "Grand Départ du i727"
 header_button_text: "Découvrez"
 header_button_link: "#"
