@@ -17,7 +17,7 @@ fr: &DEFAULT_FR
     text: Gravel ou VTT
     button: Découvrir
     buttonlink: "#top"
-    button2: Inscription
+    button2: Participer
     buttonlink2: "#gd"
     background: /assets/img/sete-bleu.jpeg
     copyright: "Thierry Crouzet"

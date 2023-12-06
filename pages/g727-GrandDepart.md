@@ -12,7 +12,7 @@ comments: true
 
 Le [g727](/g727/) est pensé pour que les gravels y tirent le meilleur d'eux-même. [La trace](/g727/) est disponible gratuitement en ITT, mais si vous voulez la rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est une bonne occasion pour rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
 
-<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024" style="background-color:red;color: white;font-weight:bold">Inscrivez-vous au g727 2024 sur helloasso (35 €) >>></a> (99 places)</p>
+<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024" class="hotlink">Inscrivez-vous au g727 2024 sur helloasso (35 €) >>></a> (99 places)</p>
 
 Le g727 est une aventure bikepacking autour du département de l’Hérault. Ce n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme.
 
