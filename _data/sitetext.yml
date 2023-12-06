@@ -32,7 +32,7 @@ fr: &DEFAULT_FR
     list:
       - title: "727"
         subtitle: VTT
-        desc: "Exploration des frontières de l'Hérault. Entre plage et montagne, garrigues et forêts, des singles et encore des singles."
+        desc: "Exploration des frontières de l'Hérault. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
         link: /727
         icon: fab fa-markdown
       - title: "i727"
@@ -89,7 +89,7 @@ fr: &DEFAULT_FR
         alt: Sète
       - title: "Première tentative"
         year: "Septembre 2020"
-        desc: "Nous partons à deux, sens antihoraire, et une météo hivernale sur le Larzac et L'Espinouse nous pousse à l'andandon le troisième jour. Je comprends que le sens horaire est plus favorable."
+        desc: "Nous partons à deux, sens antihoraire, mais une météo hivernale sur le Larzac et L'Espinouse nous pousse à l'andandon le troisième jour. Je comprends que le sens horaire est plus favorable."
         image: images/timeline/2020.jpg
         alt: Larzac
       - title: "Premier Grand Départ"
