@@ -1,7 +1,5 @@
 <!-- Slideshow -->
 
-
-
 {%- assign page_name = page.permalink -%}
 
 {%- if page_name -%}
@@ -17,7 +15,13 @@
   {%- endif -%}
 {%- endif -%}
 
-{% assign first_image = site.data.images[page_name][0] %}
+{%- if page.date -%}
+    {% assign images = site.data.posts[page.date] %}
+    {% assign first_image = images[0] %}
+{%- else -%}
+    {% assign images = site.data.images[page_name] %}
+    {% assign first_image = images[0] %}
+{%- endif -%}
 
 {%- if first_image != nil  -%}
 <div id="slideshow">
@@ -34,7 +38,7 @@
 
 <script>
     let images = [
-        {% for image in site.data.images[page_name] %}
+        {% for image in images %}
             {
                 src: "{{ image.image }}",
                 alt: "{{ image.alt | escape }}"
