@@ -4,11 +4,9 @@ pagination:
   enabled: true
 ---
 
-TOTO
-
 {% for post in paginator.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>{{ post.content }}</p>
 {% endfor %}
 
 <!-- Pagination Links -->

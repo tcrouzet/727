@@ -16,6 +16,7 @@
 {%- endif -%}
 
 {%- if page.date -%}
+    {{page.date}}
     {% assign images = site.data.posts[page.date] %}
     {% assign first_image = images[0] %}
 {%- else -%}
