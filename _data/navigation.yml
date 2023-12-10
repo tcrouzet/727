@@ -19,14 +19,6 @@ fr: &DEFAULT_FR
                 url: "/i727/"
               - title: "g727 gravel"
                 url: "/g727/"
-              - title: "Météo"
-                url: "/weather/"
-              - title: "Chronologie"
-                url: "/#timeline"
-              - title: "Articles"
-                url: "/#portfolio"
-              - title: "Vidéos"
-                url: "/videos/"
     - title: "Grands Départs"
       section: gd
       subnav:  # Ajout d'un sous-menu
@@ -46,6 +38,13 @@ fr: &DEFAULT_FR
                 url: "/g727rules/"
     - title: "News"
       url: /news
+      subnav:  # Ajout d'un sous-menu
+              - title: "Articles"
+                url: "/#portfolio"
+              - title: "Vidéos"
+                url: "/videos/"
+              - title: "Météo"
+                url: "/weather/"
     - title: "Contact"
       section: contact
       subnav:  # Ajout d'un sous-menu
