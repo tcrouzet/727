@@ -44,15 +44,14 @@ fr: &DEFAULT_FR
                 url: "/727rules/"
               - title: "Règlement g727"
                 url: "/g727rules/"
-    - title: "Communauté"
-      section: forum
-      subnav:  # Ajout d'un sous-menu
-              - title: "Groupe Facebook"
-                url: "https://www.facebook.com/groups/727tour"
-              - title: "Livre d'or"
-                url: "/forum/"
+    - title: "News"
+      url: /news
     - title: "Contact"
       section: contact
       subnav:  # Ajout d'un sous-menu
+              - title: "Livre d'or"
+                url: "/forum/"
+              - title: "Groupe Facebook"
+                url: "https://www.facebook.com/groups/727tour"
               - title: "Partenaires"
                 url: "/#partners"
