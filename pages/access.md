@@ -5,7 +5,7 @@ permalink: /access/
 background: /images/access/IMG_1525.jpeg
 header_title: "Poussan"
 header_text: "Là où tout commence"
-comments: true
+comments: false
 
 ---
 

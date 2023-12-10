@@ -49,16 +49,16 @@ def get_decimal_coords(geotags):
 
     return (lat, lon)
 
-source_folder = os.path.expanduser("~/Desktop/VracBureau/VTT/i727-photos")
+source_folder = os.path.expanduser("~/Desktop/VracBureau/VTT/g727photos")
 target_folder = os.path.expanduser(f"~/Documents/GitHub/727/images/posts/")
 yml_file = os.path.expanduser("~/Documents/GitHub/727/_data/posts.yml")
+posts_folder = os.path.expanduser(f"~/Documents/GitHub/727/posts/")
 
 try:
     with open(yml_file, 'r') as file:
         yml_data = yaml.safe_load(file) or {}
 except FileNotFoundError:
     yml_data = {}
-
 
 # Parcours du dossier source pour copier les images
 for filename in os.listdir(source_folder):
@@ -76,9 +76,12 @@ for filename in os.listdir(source_folder):
 
         if(exif_date):
             subdir = exif_date.split(' ')[0].replace(':', '')
+            date_object = datetime.strptime(exif_date, '%Y:%m:%d %H:%M:%S')
+            date_fr = date_object.strftime('%d/%m/%Y')
         else:
             source_time = os.path.getmtime(source_path)
             subdir = datetime.fromtimestamp(source_time).strftime('%Y%m%d')
+            date_fr = datetime.fromtimestamp(source_time).strftime('%d/%m/%Y')
 
         print(exif_data['DateTime'])
         print(f"Latitude: {coords[0]}, Longitude: {coords[1]}")
@@ -93,6 +96,19 @@ for filename in os.listdir(source_folder):
 
         lat, lon = coords
         yml_data[subdir].append({"image": filename, "lat": lat, "lon": lon})
+
+        markdown_file =  os.path.join(posts_folder, f"{subdir}.md")
+        if not os.path.exists(markdown_file):
+            markdown=f"""---
+layout: page
+date: '{subdir}'
+title: "Reco du {date_fr}"
+permalink: /posts/{subdir}/
+---
+{{% include slideshow.html %}}"""
+            with open(markdown_file, 'w') as file:
+                file.write(markdown)
+        
 
 with open(yml_file, "w") as file:
     yaml.dump(yml_data, file, default_flow_style=False)

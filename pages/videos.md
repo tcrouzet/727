@@ -2,7 +2,7 @@
 layout: page
 title: "Les 727 en vidéo"
 permalink: /videos/
-comments: true
+comments: false
 ---
 
 ### g727 2023

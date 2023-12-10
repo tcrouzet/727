@@ -9,7 +9,7 @@ header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
 header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024"
-comments: true
+comments: false
 ---
 
 Le [g727](/g727/) est pensé pour que les gravels y tirent le meilleur d'eux-même. [La trace](/g727/) est disponible gratuitement en ITT, mais si vous voulez la rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est une bonne occasion pour rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
