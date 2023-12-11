@@ -23,7 +23,11 @@
         {% for link in site.data.navigation[site.locale].nav %}
           <li class="nav-item">
             {%- if link.subnav -%}
-              <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
+              {%- if link.url -%}
+                <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+              {%- else -%}
+                <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
+              {%- endif -%}
               <ul class="nav-sub-menu">
                 {% for sublink in link.subnav %}
                   <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
