@@ -20,7 +20,7 @@ fr: &DEFAULT_FR
     button2: Participer
     buttonlink2: "#gd"
     background: /assets/img/sete-bleu.jpeg
-    copyright: "Thierry Crouzet"
+    copyright: "Thierry Crouzet/ECP"
     copyrightlink: "https://tcrouzet.com"
     copyrightlicence: "(cc)"
     contacturl: "/#contact"
