@@ -8,7 +8,7 @@ header_text: "Des traces VTT et gravel"
 comments: false
 ---
 
-Je n'arrête pas de créer des traces VTT ou Gravel. [Vous pouvez suivre mes explorations sur Strava.](https://www.strava.com/athletes/18278258) Je compile [mes traces gravel](https://www.google.com/maps/d/edit?mid=1v4qZYUWR66lWF-215F5YmQyZDJ_GUPah&usp=sharing) et [mes traces VTT](https://www.google.com/maps/d/edit?mid=1WwRA81_s7CqKx-rybm2R2YnrZ1vh-Vu3&usp=sharing) sur GoogleMap.
+Je n'arrête pas de créer des traces VTT ou Gravel. [Vous pouvez suivre mes explorations sur Strava.](https://www.strava.com/athletes/18278258) Je compile [mes traces gravel](https://www.google.com/maps/d/edit?mid=1v4qZYUWR66lWF-215F5YmQyZDJ_GUPah&usp=sharing) et [mes traces VTT](https://www.google.com/maps/d/edit?mid=1WwRA81_s7CqKx-rybm2R2YnrZ1vh-Vu3&usp=sharing) sur GoogleMap. Je publie aussi [des traces sur VisuGPX](https://www.visugpx.com/membres/35564/).
 
 ### VTT
 
