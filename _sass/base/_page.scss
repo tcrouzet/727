@@ -163,6 +163,10 @@ img::-moz-selection {
   height: auto
 }
 
+.post li a{
+  text-decoration: underline;
+}
+
 #route-resume {margin:0 auto;max-width:60ch;padding:0.5em;text-align: center;}
 #route-resume img {width:64px;height:64px;margin-right:0.3em;display: inline-block}
 #route-resume div.iconbox {display: inline-block}
