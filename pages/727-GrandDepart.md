@@ -24,6 +24,8 @@ La cinquième édition de la randonnée partira du village de [Poussan](https://
 
 Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
+![Poster i727](images/727gd/i727-alacarte.jpg)
+
 Je ne suis pas fan des évènements bikepacking payants (et surtout hors de prix), mais l'organisation d'une randonnée avec plus d'une poignée de participants implique de souscrire une assurance tout simplement pour assurer l'organisateur contre les assurances individuelles des participants, au cas où elles se retourneraient contre lui suite à un accident. À l'ECP, nous nous assurons via la FFVélo. Voilà pourquoi la participation est payante. Nous tenons à offrir tous les services des épreuves onéreuses, et même davantage, pour seulement 35 €.
 
 * Hébergement pour dérouler votre matelas et sac de couchage la veille du Grand Départ. Elle sera ouverte à partir de 19 heures le 7 mai (l’adresse dépendra du nombre de participants). 
