@@ -12,16 +12,16 @@ Je n'arrête pas de créer des traces VTT ou Gravel. [Vous pouvez suivre mes exp
 
 ### VTT
 
-* [Côte Sud - de Cerbère à Sète](https//tcrouzet.com/cote-sud/) ([récit](https://www.utagawavtt.com/randonnee-vtt-gps/De-Cerbere-a-Sete-36008))
-* [Géobike 2.0](https//tcrouzet.com/2021/08/30/bikepacking-sur-la-geobike-ressusciter-une-trace-mythique/)
-* [P27 - Paris Sète](https//tcrouzet.com/p27/) ([récit](https//tcrouzet.com/2022/07/15/une-traversee-de-la-france-a-vtt/))
+* [Côte Sud - de Cerbère à Sète](https://tcrouzet.com/cote-sud/) ([récit](https://www.utagawavtt.com/randonnee-vtt-gps/De-Cerbere-a-Sete-36008))
+* [Géobike 2.0](https://tcrouzet.com/2021/08/30/bikepacking-sur-la-geobike-ressusciter-une-trace-mythique/)
+* [P27 - Paris Sète](https://tcrouzet.com/p27/) ([récit](https://tcrouzet.com/2022/07/15/une-traversee-de-la-france-a-vtt/))
 * [Méditerranée - Atlantique](https://www.google.com/maps/d/u/0/edit?mid=1_Z5YlQopu7BmxW612bFj7BwBWruvwyis&usp=sharing) ([récit](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt/))
 
 ### Gravel
 
-* [Gravel Terres Rouges](https//tcrouzet.com/gravel-terres-rouges/) ([récit](https//tcrouzet.com/2021/12/31/prendre-son-temps-a-velo/))
+* [Gravel Terres Rouges](https://tcrouzet.com/gravel-terres-rouges/) ([récit](https://tcrouzet.com/2021/12/31/prendre-son-temps-a-velo/))
 * [Tour du pays de Thau](https://www.utagawavtt.com/randonnee-vtt-gps/Tour-de-Sete-Agglopole-Pays-de-Thau-gravel-31075) ([récit](https//tcrouzet.com/2020/12/14/gravel-le-tour-de-sete-agglopole-mediterranee/))
-* [Lignes de désir sètoises](https://www.utagawavtt.com/randonnee-vtt-gps?topo=31074) ([récit](https//tcrouzet.com/2020/01/27/lignes-de-desir-a-sete/))
+* [Lignes de désir sètoises](https://www.utagawavtt.com/randonnee-vtt-gps?topo=31074) ([récit](https://tcrouzet.com/2020/01/27/lignes-de-desir-a-sete/))
 * [Grand tour de l'étang de Thau](https://www.utagawavtt.com/randonnee-vtt-gps/Grand-tour-de-l-etang-de-Thau-30861)
 * [Autour de l'étang de Thau](https://www.google.com/maps/d/edit?mid=14-HA-nlt16j7Yn3vFmnC8Zee_caeSxJP&usp=sharing) (plusieurs traces et des variantes)
 * [Balaruc, Grau, Saint-Loup](https://www.visugpx.com/Zae0cCQMhD)
