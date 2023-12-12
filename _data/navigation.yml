@@ -19,6 +19,8 @@ fr: &DEFAULT_FR
                 url: "/i727/"
               - title: "g727 gravel"
                 url: "/g727/"
+              - title: "Off"
+                url: "/off/"
     - title: "Grands Départs"
       section: gd
       subnav:  # Ajout d'un sous-menu
