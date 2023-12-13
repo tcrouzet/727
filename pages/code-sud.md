@@ -3,7 +3,7 @@ layout: post
 title: "Côte Sud"
 permalink: /cote-sud/
 background: /images/cote-sud/IMG_8941.jpeg
-header_title: "Côté Sud à VTT"
+header_title: "Côte Sud à VTT"
 header_text: "De Cerbère à Aiges-Mortes"
 comments: false
 
@@ -40,6 +40,5 @@ Pensée pour le VTT, parce que je trouve le VTT plus confort pour le voyage à v
 
 ### Liens
 
-* [Philosophie de la trace…](https://tcrouzet.com/2022/03/12/manifeste-pour-un-bikepacking-ouvert-et-roots/)
 
 * [Récits, photos…](https://tcrouzet.com/tag/cotesud/)
