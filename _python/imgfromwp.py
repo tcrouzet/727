@@ -4,9 +4,10 @@ import shutil
 import yaml
 
 
-page_name="g727"
+# Page destination
+page_name="cote-sud"
 
-file_path = '~/Documents/GitHub/727/python/webpage.html'
+file_path = '~/Documents/GitHub/727/_python/webpage.html'
 file_path = os.path.expanduser(file_path)
 
 source_folder = "~/Documents/tcrouzet/images_tc/"

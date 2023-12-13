@@ -12,7 +12,7 @@ Je n'arrête pas de créer des traces VTT ou Gravel. [Vous pouvez suivre mes exp
 
 ### VTT
 
-* [Côte Sud - de Cerbère à Sète](https://tcrouzet.com/cote-sud/) ([récit](https://www.utagawavtt.com/randonnee-vtt-gps/De-Cerbere-a-Sete-36008))
+* [Côte Sud - de Cerbère à Sète](/cote-sud/) ([récit](https://tcrouzet.com/tag/cotesud/))
 * [Géobike 2.0](https://tcrouzet.com/2021/08/30/bikepacking-sur-la-geobike-ressusciter-une-trace-mythique/)
 * [P27 - Paris Sète](https://tcrouzet.com/p27/) ([récit](https://tcrouzet.com/2022/07/15/une-traversee-de-la-france-a-vtt/))
 * [Méditerranée - Atlantique](https://www.google.com/maps/d/u/0/edit?mid=1_Z5YlQopu7BmxW612bFj7BwBWruvwyis&usp=sharing) ([récit](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt/))
