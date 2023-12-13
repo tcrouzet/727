@@ -5,7 +5,7 @@ import yaml
 
 
 # Page destination
-page_name="cote-sud"
+page_name="p27"
 
 file_path = '~/Documents/GitHub/727/_python/webpage.html'
 file_path = os.path.expanduser(file_path)
