@@ -8,7 +8,6 @@ gem 'jekyll-paginate'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-sitemap'
-  gem 'jekyll-responsive-magick', '~> 1.0'
   # gem "github-pages" # https://github.com/github/pages-gem
 end
 
