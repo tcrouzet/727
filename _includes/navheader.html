@@ -1,6 +1,6 @@
 <!-- Header -->
 {% assign header_image = page.background | default: site.data.sitetext[site.locale].header.background %}
-<header class="masthead" style="background-image: url({{header_image}});">
+<header class="masthead" style="background-image: url({{header_image | size: 1024}});">
   
   <div class="overlay"></div>
   <div class="container">

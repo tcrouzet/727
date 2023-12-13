@@ -40,7 +40,12 @@ markdown: kramdown
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
 
+responsive:
+  widths: [400,700,1200,1900]
+  quality: 60
+
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-responsive-magick

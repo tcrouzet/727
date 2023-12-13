@@ -11,7 +11,12 @@
       {% for folio in site.data.sitetext[site.locale].portfolio.list %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a href="{{ folio.link }}">
-          <img class="img-fluid" src="{{ folio.image }}" alt="">
+          <img class="img-fluid" 
+          src="{{ folio.image }}" 
+          srcset="{{ folio.image | srcset }}" 
+          width="{{ folio.image | width }}" 
+          height="{{ folio.image | height }}" 
+          alt="">
         </a>
         <div class="portfolio-caption">
           <h4><a href="{{ folio.link }}">{{ folio.title }}</a></h4>
