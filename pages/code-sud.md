@@ -7,8 +7,8 @@ header_title: "Côte Sud à VTT"
 header_text: "De Cerbère à Aiges-Mortes"
 comments: false
 
-r_distance: "265 km"
-r_dev: "2 000 m"
+r_distance: "342 km"
+r_dev: "2 200 m"
 r_portage: "0.1 %"
 r_altitude: "410 m"
 r_asphalte: "31 %"
