@@ -15,9 +15,9 @@ url    : "https://727.tcrouzet.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : 727 bikepacking series
-email      : tcl@tcrouzet.com #this is also the email contact forms will go to
+email      : tc@tcrouzet.com
 description: "Les 727 sont des randonnées bikepacking gravel ou VTT en Occitanie, notamment dans l'Hérault."
-keywords   : "bikepacking,gravel,vtt,voyage à vélo,Hérault,Occitanie"
+keywords   : "bikepacking,France,gravel,vtt,voyage à vélo,Hérault,Occitanie,cyclotourisme"
 author     : Thierry Crouzet
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -43,3 +43,4 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+  - jekyll-sitemap
