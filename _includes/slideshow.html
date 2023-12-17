@@ -15,7 +15,12 @@
   {%- endif -%}
 {%- endif -%}
 
-{%- if page.date -%}
+{%- if page.title == 'Diaporama' -%}
+    {% assign images = site.data.diaporama %}
+    {% assign first_image = images[0] %}
+    {% assign image_subdir = "/" %}
+    {% assign dindex = "" %}
+{%- elsif page.date -%}
     {% assign date_parts = page.date | split: " " %}
     {% assign page_name = date_parts[0] %}
     {% assign images = site.data.posts[page_name] %}
