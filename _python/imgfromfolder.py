@@ -49,7 +49,7 @@ def get_decimal_coords(geotags):
 
     return (lat, lon)
 
-source_folder = os.path.expanduser("~/Desktop/VracBureau/VTT/727photoReco2023")
+source_folder = os.path.expanduser("~/Desktop/VracBureau/VTT/727mai2021/")
 target_folder = os.path.expanduser(f"~/Documents/GitHub/727/images/posts/")
 yml_file = os.path.expanduser("~/Documents/GitHub/727/_data/posts.yml")
 posts_folder = os.path.expanduser(f"~/Documents/GitHub/727/_posts/")
