@@ -49,10 +49,10 @@ def get_decimal_coords(geotags):
 
     return (lat, lon)
 
-source_folder = os.path.expanduser("~/Desktop/VracBureau/VTT/g727photos")
+source_folder = os.path.expanduser("~/Desktop/VracBureau/VTT/727photoReco2023")
 target_folder = os.path.expanduser(f"~/Documents/GitHub/727/images/posts/")
 yml_file = os.path.expanduser("~/Documents/GitHub/727/_data/posts.yml")
-posts_folder = os.path.expanduser(f"~/Documents/GitHub/727/posts/")
+posts_folder = os.path.expanduser(f"~/Documents/GitHub/727/_posts/")
 
 try:
     with open(yml_file, 'r') as file:
@@ -75,12 +75,12 @@ for filename in os.listdir(source_folder):
             coords = get_decimal_coords(geotags)
 
         if(exif_date):
-            subdir = exif_date.split(' ')[0].replace(':', '')
-            date_object = datetime.strptime(exif_date, '%Y:%m:%d %H:%M:%S')
-            date_fr = date_object.strftime('%d/%m/%Y')
+            source_time = datetime.strptime(exif_date, '%Y:%m:%d %H:%M:%S')
+            date_fr = source_time.strftime('%d/%m/%Y')
+            subdir = source_time.strftime('%Y-%m-%d')
         else:
             source_time = os.path.getmtime(source_path)
-            subdir = datetime.fromtimestamp(source_time).strftime('%Y%m%d')
+            subdir = datetime.fromtimestamp(source_time).strftime('%Y-%m-%d')
             date_fr = datetime.fromtimestamp(source_time).strftime('%d/%m/%Y')
 
         print(exif_data['DateTime'])
@@ -97,15 +97,15 @@ for filename in os.listdir(source_folder):
         lat, lon = coords
         yml_data[subdir].append({"image": filename, "lat": lat, "lon": lon})
 
-        markdown_file =  os.path.join(posts_folder, f"{subdir}.md")
+        markdown_file =  os.path.join(posts_folder, f"{subdir}-reco.md")
         if not os.path.exists(markdown_file):
             markdown=f"""---
 layout: page
-date: '{subdir}'
 title: "Reco du {date_fr}"
 permalink: /posts/{subdir}/
 ---
 {{% include slideshow.html %}}"""
+            #print(markdown_file,markdown)
             with open(markdown_file, 'w') as file:
                 file.write(markdown)
         
