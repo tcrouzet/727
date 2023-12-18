@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         map{{ dindex }}.on('click', function(e) {
-            if (e.originalEvent.target === this._container) { // Vérifier si le clic est sur le fond de la carte
+            if (e.originalEvent.target === this._container && isMapExpanded{{ dindex }}===false ) { // Vérifier si le clic est sur le fond de la carte
                 toggleMapSize();
             }
         });
