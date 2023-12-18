@@ -1,12 +1,14 @@
-<!-- Services -->
 
 {%- if include.back -%}
   {%- assign back = "" -%}
 {%- else -%}
   {%- assign back = "bg-light" -%}
 {%- endif -%}
+{%- assign myvar = site.data.sitetext[site.locale].[include.section] -%}
 
-<section class="page-section {{back}}" id="{{ site.data.sitetext[site.locale].[include.section].section }}">
+<!-- {{ myvar.section }} -->
+
+<section class="page-section {{back}}" id="{{ myvar.section }}">
     <div class="container">
   
       <div class="row">
@@ -36,4 +38,4 @@
     
     </div>
   </section>
-  <!-- End Services -->
+  <!-- End {{ myvar.section }} -->

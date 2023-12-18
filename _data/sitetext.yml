@@ -133,6 +133,42 @@ fr: &DEFAULT_FR
         icon: fab fa-facebook-f
         buttontext: Partager
 
+  news:
+    title: "News"
+    text: "La vie des 727…"
+    section: news
+    list:
+      - title: "Photos"
+        subtitle: "Photos"
+        desc: "Les 727 en images…"
+        link: /diaporama/
+        icon: fas fa-book-open
+        buttontext: Consulter
+      - title: "Articles"
+        subtitle: Articles
+        desc: "Comme si vous y étiez…"
+        link: /articles/
+        icon: fab fa-facebook-f
+        buttontext: Consulter
+      - title: "Vidéos"
+        subtitle: Vidéos
+        desc: "Récits…"
+        link: /videos/
+        icon: fab fa-facebook-f
+        buttontext: Consulter
+      - title: "Recos"
+        subtitle: Recos
+        desc: "Les 727 ne cessent d'évoluer…"
+        link: /news/
+        icon: fab fa-facebook-f
+        buttontext: Consulter
+      - title: "Météo"
+        subtitle: Météo
+        desc: "Les prévisions…"
+        link: /weather/
+        icon: fab fa-facebook-f
+        buttontext: Consulter
+
   portfolio:
     title: "Articles"
     text: "Quelques récits autour des 727, beaucoup d'autres sur [tcrouzet.com](https://tcrouzet.com/tag/727/)"

@@ -39,12 +39,16 @@ fr: &DEFAULT_FR
               - title: "Règlement g727"
                 url: "/g727rules/"
     - title: "News"
-      url: /news
+      section: news
       subnav:  # Ajout d'un sous-menu
+              - title: "Photos"
+                url: "/diaporama/"
               - title: "Articles"
-                url: "/#portfolio"
+                url: "/articles/"
               - title: "Vidéos"
                 url: "/videos/"
+              - title: "Reco"
+                url: "/news/"
               - title: "Météo"
                 url: "/weather/"
     - title: "Contact"
