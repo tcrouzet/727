@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
         map{{ dindex }} = L.map('map{{ dindex }}').setView([images{{ dindex }}[0].lat, images{{ dindex }}[0].lon], 12);
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
-            attribution: 'tcrouzet.com'
+            attribution: ''
         }).addTo(map{{ dindex }});
 
         images{{ dindex }}.forEach((image, index) => {
