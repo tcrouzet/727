@@ -214,10 +214,7 @@ img::-moz-selection {
   background: rgba(0, 0, 0, 0.5); /* Fond semi-transparent pour la visibilité */
   border: none;
   color: white;
-  /*padding: 10px;*/
   cursor: pointer;
-  /*border-radius: 50%;*/
-  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);*/
 }
 
 .slide-text {
@@ -228,7 +225,7 @@ img::-moz-selection {
   color: white;
   padding: 5px 10px;
   background: rgba(0, 0, 0, 0.7); /* Fond plus sombre pour la visibilité */
-  font-size: 1em;
+  font-size: 1rem;
   z-index: 2; /* S'assure que le texte est au-dessus de l'image */
 }
 
@@ -256,6 +253,9 @@ img::-moz-selection {
 
   .slideshow-button {
     font-size: 2rem; /* Taille des boutons */
+  }
+  .slide-text {
+    font-size: 0.8rem;
   }
   
 }

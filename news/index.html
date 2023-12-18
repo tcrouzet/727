@@ -1,20 +1,7 @@
 ---
 layout: page
-pagination:
-  enabled: true
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p>{{ post.content }}</p>
 {% endfor %}
-
-<!-- Pagination Links -->
-<div id="prevnext">
-{% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="prevpage">Page précédente</a>
-{% endif %}
-{% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="nextpage">Page suivante</a>
-{% endif %}
-</div>
