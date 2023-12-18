@@ -204,29 +204,6 @@ document.addEventListener('DOMContentLoaded', function() {
     z-index: 10; /* S'assure que les contrôles sont au-dessus de l'image */
 }
 
-.slideshow-button {
-    font-size: 5em; /* Taille des boutons */
-    background: rgba(0, 0, 0, 0.5); /* Fond semi-transparent pour la visibilité */
-    border: none;
-    color: white;
-    /*padding: 10px;*/
-    cursor: pointer;
-    /*border-radius: 50%;*/
-    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);*/
-}
-
-.slide-text {
-    position: absolute;
-    bottom: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    color: white;
-    padding: 5px 10px;
-    background: rgba(0, 0, 0, 0.7); /* Fond plus sombre pour la visibilité */
-    font-size: 1em;
-    z-index: 2; /* S'assure que le texte est au-dessus de l'image */
-}
-
 #slideshow{{ dindex }} .map-container {
     position: absolute;
     top: 10px;
@@ -234,19 +211,6 @@ document.addEventListener('DOMContentLoaded', function() {
     width: 30%;
     height: 20%;
     z-index: 3;
-}
-
-.my-custom-icon {
-    background-color: blue;
-    border-radius: 50%;
-    width: 10px!important;;
-    height: 10px!important;;
-}
-
-.my-custom-icon.active {
-    background-color: red;
-    width: 20px!important;;
-    height: 20px!important;;
 }
 
 </style>
