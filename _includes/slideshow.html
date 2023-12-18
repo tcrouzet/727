@@ -58,8 +58,8 @@
                 src: "{{ image.image }}",
                 alt: "{{ image.alt | escape }}"
                 {% if image.lat and image.lon %}
-                    , lat: {{ image.lat | escape }},
-                    lon: {{ image.lon | escape }}
+                    , lat: {{ image.lat }},
+                    lon: {{ image.lon }}
                 {% endif %}
             }{% unless forloop.last %},{% endunless %}
         {% endfor %}
@@ -68,6 +68,8 @@
 document.addEventListener('DOMContentLoaded', function() {
     const slideshowContainer{{ dindex }} = document.querySelector('#slideshow{{ dindex }} .slide'); // Sélectionnez la div .slide
     let currentSlide{{ dindex }} = 0;
+    let map{{ dindex }};
+    let markers{{ dindex }} = [];
 
     function showSlide{{ dindex }}(index) {
         const image = images{{ dindex }}[index];
@@ -95,9 +97,33 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
-
         {% endif %}
 
+    }
+
+    function initializeMap(){
+        // Initialisation de la carte Leaflet
+        map{{ dindex }} = L.map('map{{ dindex }}').setView([images{{ dindex }}[0].lat, images{{ dindex }}[0].lon], 12);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: 'tcrouzet.com'
+        }).addTo(map{{ dindex }});
+
+        images{{ dindex }}.forEach((image, index) => {
+            let marker = L.marker([image.lat, image.lon], {
+                icon: L.divIcon({ className: 'my-custom-icon' })
+            }).addTo(map{{ dindex }});
+
+            marker.myIndex = index;
+
+            markers{{ dindex }}.push(marker);
+        });
+
+        markers{{ dindex }}.forEach(marker => {
+            marker.on('click', function() {
+                showSlide{{ dindex }}(this.myIndex);
+            });
+        });
     }
 
     function adjustSlideshowSize() {
@@ -119,6 +145,12 @@ document.addEventListener('DOMContentLoaded', function() {
             slideshow.style.width = `${slideshowWidth}px`;
             slideshow.style.height = `${slideshowHeight}px`;
         }
+
+        {% if page.leaflet %}
+        initializeMap();
+        {% endif %}
+        showSlide{{ dindex }}(currentSlide{{ dindex }});
+
     }
 
     document.getElementById('prev{{ dindex }}').addEventListener('click', () => {
@@ -131,42 +163,8 @@ document.addEventListener('DOMContentLoaded', function() {
         showSlide{{ dindex }}(currentSlide{{ dindex }});
     });
 
-    {% if page.leaflet %}
-
-    // Initialisation de la carte Leaflet
-    let map{{ dindex }} = L.map('map{{ dindex }}').setView([images{{ dindex }}[0].lat, images{{ dindex }}[0].lon], 13);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: 'tcrouzet.com'
-    }).addTo(map{{ dindex }});
-
-    // Ajout de marqueurs pour chaque image
-    let markers{{ dindex }} = [];
-
-    images{{ dindex }}.forEach((image, index) => {
-        let marker = L.marker([image.lat, image.lon], {
-            icon: L.divIcon({ className: 'my-custom-icon' }) // Utilisez divIcon pour personnaliser
-        }).addTo(map{{ dindex }});
-
-        marker.myIndex = index;
-
-        markers{{ dindex }}.push(marker);
-    });
-
-    markers{{ dindex }}.forEach(marker => {
-        marker.on('click', function() {
-            showSlide{{ dindex }}(this.myIndex);
-        });
-    });
-
-    {% endif %}
-
-    // Ajuster la taille du diaporama au chargement et lors du redimensionnement de la fenêtre
     window.addEventListener('load', adjustSlideshowSize);
     window.addEventListener('resize', adjustSlideshowSize);
-
-    // Initialiser le diaporama avec la première image
-    showSlide{{ dindex }}(currentSlide{{ dindex }});
 
 });
 

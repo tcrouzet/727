@@ -1,356 +1,770 @@
 '727':
 - alt: Sur la plage
+  date: 2021:05:24 16:22:32
   image: IMG_9870.jpeg
-- alt: Sète
+  lat: 43.48826
+  lon: 3.85378
+- alt: "S\xE8te"
+  date: 2022:11:10 13:58:59
   image: 01-Sete.jpeg
+  lat: 43.4554
+  lon: 3.64474
 - alt: Vendres
+  date: 2021:04:02 12:29:11
   image: 02-Vendres.jpeg
+  lat: 43.26601
+  lon: 3.23125
 - alt: ''
+  date: 2021:02:17 11:06:35
   image: 0IMG_7739.jpeg
+  lat: 43.26934
+  lon: 3.16848
 - alt: ''
+  date: 2021:02:17 10:22:15
   image: 0IMG_7725.jpeg
+  lat: 43.26674
+  lon: 3.20091
 - alt: Capestang
+  date: 2021:01:29 14:47:17
   image: IMG_7320-1.jpeg
+  lat: 43.29059
+  lon: 3.04724
 - alt: Canal du Midi
+  date: 2021:05:20 15:20:16
   image: 03-CanalDuMidiArgelier.jpeg
+  lat: 43.32037
+  lon: 3.00894
 - alt: Canal du Midi
+  date: 2021:01:29 13:48:29
   image: IMG_7305-2.jpeg
-- alt: La pinède
-  image: IMG_8609.jpeg
-- alt: À vélo
+  lat: 43.31369
+  lon: 2.91841
+- alt: "\xC0 v\xE9lo"
+  date: 2021:01:29 13:16:29
   image: IMG_7288-1.jpeg
+  lat: 43.31042
+  lon: 2.87367
 - alt: Bize
+  date: 2022:11:17 09:57:11
   image: IMG_9948.jpeg
+  lat: 43.3172
+  lon: 2.87194
 - alt: Minervois
+  date: 2021:02:26 11:15:43
   image: 0IMG_7988.jpeg
-- alt: Arthur dans ses œuvres
+  lat: 43.32899
+  lon: 2.67983
+- alt: "Arthur dans ses \u0153uvres"
+  date: 2021:04:02 17:43:31
   image: IMG_8668.jpeg
+  lat: 43.32305
+  lon: 2.77195
 - alt: Homps
+  date: 2022:11:17 12:14:29
   image: IMG_9968.jpeg
+  lat: 43.26682
+  lon: 2.77582
 - alt: Canal du Midi
+  date: 2022:12:09 12:44:00
   image: IMG_0457.jpeg
-- alt: Pépieux
+  lat: 43.27004
+  lon: 2.73137
+- alt: "P\xE9pieux"
+  date: 2022:11:17 13:46:04
   image: Homps.jpeg
+  lat: 43.29896
+  lon: 2.67981
 - alt: Chapelle Notre-Dame du Cros
+  date: 2021:02:26 13:10:36
   image: 0IMG_8011.jpeg
+  lat: 43.25697
+  lon: 2.44814
 - alt: Caunes
+  date: 2021:02:26 13:28:00
   image: 0IMG_8027.jpeg
-- alt: Montagne noire
-  image: IMG_9519.jpeg
+  lat: 43.32674
+  lon: 2.52737
 - alt: Montagne Noire
+  date: 2021:05:21 08:42:10
   image: 04-MontagneNoire.jpeg
+  lat: 43.34289
+  lon: 2.53496
 - alt: Montagne noire
+  date: 2021:05:21 10:40:05
   image: IMG_9547.jpeg
+  lat: 43.4102
+  lon: 2.59602
 - alt: Montagne noire
+  date: 2021:05:21 10:55:47
   image: IMG_9551.jpeg
+  lat: 43.42004
+  lon: 2.59577
 - alt: Montagne noire
+  date: 2021:05:21 13:15:18
   image: IMG_9563.jpeg
+  lat: 43.48259
+  lon: 2.65912
 - alt: ''
+  date: 2021:05:21 13:15:12
   image: Labastide.jpeg
+  lat: 43.48257
+  lon: 2.65919
 - alt: Montagne noire
+  date: 2021:05:21 13:39:03
   image: IMG_9570.jpeg
-- alt: Lac de Vézoles
+  lat: 43.49339
+  lon: 2.66689
+- alt: "Lac de V\xE9zoles"
+  date: 2019:08:11 08:12:45
   image: IMG_5809-1.jpg
+  lat: 43.55213
+  lon: 2.7914
 - alt: Carroux
+  date: 2021:05:22 13:11:29
   image: 05-Carroux.jpeg
-- alt: Mélagues
+  lat: 43.43406
+  lon: 3.55587
+- alt: "M\xE9lagues"
+  date: 2021:04:04 09:43:48
   image: IMG_8857.jpeg
-- alt: Serviès
+  lat: 43.69784
+  lon: 3.01602
+- alt: "Servi\xE8s"
+  date: 2021:04:04 10:56:20
   image: IMG_8881.jpeg
-- alt: Avène
+  lat: 43.71944
+  lon: 3.06448
+- alt: "Av\xE8ne"
+  date: 2020:09:15 14:01:10
   image: IMG_3227.jpeg
-- alt: Avène à VTT
+  lat: 43.75703
+  lon: 3.09973
+- alt: "Av\xE8ne \xE0 VTT"
+  date: 2020:09:15 09:35:41
   image: IMG_3191-1.jpeg
+  lat: 43.78494
+  lon: 3.08929
 - alt: Monts-d'Orb
+  date: 2022:11:24 11:21:56
   image: IMG_0117.jpeg
-- alt: Lodévois
+  lat: 43.77992
+  lon: 3.08429
+- alt: "Lod\xE9vois"
+  date: 2022:11:24 13:19:24
   image: IMG_0139.jpeg
-- alt: Fôret d'Estandorgues
+  lat: 43.78089
+  lon: 3.25209
+- alt: "F\xF4ret d'Estandorgues"
+  date: 2022:11:24 13:39:06
   image: IMG_0154.jpeg
+  lat: 43.78741
+  lon: 3.25297
 - alt: Larzac
+  date: 2021:03:01 12:08:52
   image: IMG_8114.jpeg
+  lat: 43.88784
+  lon: 3.427
 - alt: Larzac
-  image: 06-Larzac.jpeg
-- alt: Larzac
+  date: 2021:03:01 11:35:14
   image: IMG_8098.jpeg
+  lat: 43.87607
+  lon: 3.44549
 - alt: Gorges de la Vis
+  date: 2021:03:01 09:43:05
   image: IMG_8065.jpeg
+  lat: 43.82973
+  lon: 3.60543
 - alt: La descente
+  date: 2021:04:05 07:26:42
   image: IMG_8975.jpeg
-- alt: Vallée de la Buège
+  lat: 43.80247
+  lon: 3.57317
+- alt: "Vall\xE9e de la Bu\xE8ge"
+  date: 2020:08:14 08:14:42
   image: IMG_2590-2.jpeg
+  lat: 43.80242
+  lon: 3.57387
 - alt: Hortus et pic Saint-Loup
+  date: 2021:04:05 07:13:40
   image: IMG_8955.jpeg
-- alt: Résurgence de la Buèges
+  lat: 43.80988
+  lon: 3.57187
+- alt: "R\xE9surgence de la Bu\xE8ges"
+  date: 2020:09:26 10:59:30
   image: IMG_3562.jpeg
-- alt: Pégairolles-de-Buèges
+  lat: 43.81344
+  lon: 3.59108
+- alt: "P\xE9gairolles-de-Bu\xE8ges"
+  date: 2020:09:26 10:56:08
   image: IMG_3559.jpeg
-- alt: Saint-Jean-de-Buèges
+  lat: 43.81463
+  lon: 3.59494
+- alt: "Saint-Jean-de-Bu\xE8ges"
+  date: 2020:09:26 10:38:52
   image: IMG_3550.jpeg
-- alt: Pont sur la Buèges
+  lat: 43.82585
+  lon: 3.61808
+- alt: "Pont sur la Bu\xE8ges"
+  date: 2020:09:26 10:00:12
   image: IMG_3536.jpeg
+  lat: 43.83837
+  lon: 3.65348
 - alt: Brissac
+  date: 2022:11:30 14:26:40
   image: IMG_0331.jpeg
+  lat: 43.89583
+  lon: 3.7524
 - alt: Brissac
+  date: 2022:11:30 14:32:13
   image: IMG_0342.jpeg
+  lat: 43.87248
+  lon: 3.69871
 - alt: Brissac, le parc
+  date: 2021:03:18 14:24:48
   image: 0IMG_8301.jpeg
+  lat: 43.8788
+  lon: 3.70036
 - alt: Ganges
+  date: 2022:11:30 11:17:58
   image: IMG_0258.jpeg
+  lat: 43.92223
+  lon: 3.7229
 - alt: Ganges
+  date: 2022:11:30 12:23:19
   image: IMG_0315.jpeg
+  lat: 43.93626
+  lon: 3.76259
 - alt: Ganges
+  date: 2022:11:30 12:11:10
   image: IMG_0288.jpeg
+  lat: 43.93518
+  lon: 3.75203
 - alt: Pompignan
+  date: 2022:05:17 07:08:08
   image: 08-Pompignan.jpg
-- alt: Gué
+  lat: 43.89631
+  lon: 3.84673
+- alt: "Gu\xE9"
+  date: 2021:05:24 09:53:34
   image: IMG_9834.jpeg
-- alt: Saint Sériès
+  lat: 43.84527
+  lon: 3.9397
+- alt: "Saint S\xE9ri\xE8s"
+  date: 2020:09:25 13:39:49
   image: IMG_3456.jpeg
+  lat: 43.74514
+  lon: 4.09241
 - alt: Ambrussum
+  date: 2020:09:25 12:51:49
   image: IMG_3451.jpeg
+  lat: 43.71663
+  lon: 4.15194
 - alt: Aigues-Mortes
+  date: 2022:12:06 14:16:45
   image: AigesMortes.jpeg
+  lat: 43.568
+  lon: 4.19063
 - alt: Palavas
+  date: 2020:09:25 10:01:13
   image: IMG_3416.jpeg
+  lat: 43.53478
+  lon: 3.91957
 - alt: Gardiole
+  date: 2022:04:05 15:44:36
   image: 10-Gardiole.jpeg
-
-i727:
-- alt: Béssilles
-  image: IMG_6473.jpeg
-- alt: L'étendoir des fées
-  image: IMG_6487.jpeg
-- alt: Castelneau-de-Guers
-  image: IMG_2484.jpeg
-- alt: Un poil de technique
-  image: IMG_6491.jpeg
-- alt: Dans une sculpture
-  image: IMG_6512.jpeg
-- alt: Vers Saint-Chinian
-  image: IMG_6528.jpeg
-- alt: Minerve
-  image: IMG_0140.jpeg
-- alt: Pardailhan
-  image: IMG_2595.jpeg
-- alt: Saint-Étienne-d’Albagnan
-  image: IMG_2638.jpeg
-- alt: Olargues
-  image: IMG_2655.jpeg
-- alt: Le Salagou
-  image: IMG_2734.jpeg
-- alt: Le Salagou
-  image: IMG_2754.jpeg
-- alt: Salagou
-  image: IMG_0353.jpeg
-- alt: Vers le mont Saint-Baudille
-  image: IMG_2782.jpeg
-- alt: Le pic Saint-Loup
-  image: IMG_6745.jpeg
-- alt: Le cirque
-  image: IMG_2827.jpeg
-- alt: Sentier des Fenestrelles
-  image: IMG_6812.jpeg
-- alt: Sentier des Fenestrelles
-  image: IMG_6809.jpeg
-- alt: Sentier des Fenestrelles
-  image: IMG_6801.jpeg
-- alt: Saint-Guilhem-le-Désert
-  image: IMG_2853.jpeg
-- alt: Gorges de l'Hérault
-  image: IMG_6847.jpeg
-- alt: Lavogne
-  image: IMG_6864.jpeg
-- alt: Hortus et pic Saint-Loup
-  image: IMG_6866.jpeg
-- alt: Claret
-  image: IMG_8180.jpeg
-
+  lat: 43.49056
+  lon: 3.75888
+cote-sud:
+- alt: "Au-dessus de Cerb\xE8re"
+  date: 2022:08:27 12:19:04
+  image: IMG_8808.jpeg
+  lat: 42.44925
+  lon: 3.12972
+- alt: Vignes
+  date: 2022:08:27 12:30:14
+  image: IMG_8813.jpeg
+  lat: 42.46211
+  lon: 3.13463
+- alt: Vignes
+  date: 2022:08:27 12:33:00
+  image: IMG_8851.jpeg
+  lat: 42.46507
+  lon: 3.13326
+- alt: Banyuls
+  date: 2022:02:07 11:26:28
+  image: IMG_5744.jpeg
+  lat: 42.48575
+  lon: 3.13059
+- alt: Georges
+  date: 2022:02:07 11:34:03
+  image: IMG_5749.jpeg
+  lat: 42.49049
+  lon: 3.13121
+- alt: "Cap B\xE9art"
+  date: 2022:08:27 13:51:24
+  image: IMG_8865.jpeg
+  lat: 42.49415
+  lon: 3.13112
+- alt: "Cap B\xE9ar"
+  date: 2022:02:07 12:22:58
+  image: IMG_5778.jpeg
+  lat: 42.51401
+  lon: 3.12952
+- alt: Port-Vendres
+  date: 2022:02:07 12:42:52
+  image: IMG_5785.jpeg
+  lat: 42.52004
+  lon: 3.12112
+- alt: "C\xF4te vermeille"
+  date: 2022:08:27 13:57:17
+  image: IMG_8871.jpeg
+  lat: 42.49529
+  lon: 3.13144
+- alt: "C\xF4te vermeille"
+  date: 2022:08:27 14:40:57
+  image: IMG_8941.jpeg
+  lat: 42.51176
+  lon: 3.11761
+- alt: Collioure
+  date: 2022:02:07 13:58:25
+  image: IMG_5792.jpeg
+  lat: 42.52538
+  lon: 3.09104
+- alt: Barcares
+  date: 2022:08:27 19:29:31
+  image: IMG_8961.jpeg
+  lat: 42.80234
+  lon: 2.97863
+- alt: La Franqui
+  date: 2022:08:28 08:20:16
+  image: IMG_9019.jpeg
+  lat: 42.92804
+  lon: 3.04295
+- alt: La plage
+  date: 2022:08:28 09:28:40
+  image: IMG_9022.jpeg
+  lat: 42.92917
+  lon: 3.03916
+- alt: "Ch\u0153ur de Caims"
+  date: 2022:02:08 08:44:32
+  image: IMG_5932.jpeg
+  lat: 42.95107
+  lon: 3.03834
+- alt: La Roubine
+  date: 2022:08:28 10:14:04
+  image: IMG_9030.jpeg
+  lat: 43.05112
+  lon: 3.0581
+- alt: La Roubine
+  date: 2022:02:08 10:10:13
+  image: IMG_5956.jpeg
+  lat: 43.04898
+  lon: 3.05713
+- alt: Gruissan
+  date: 2022:08:28 11:16:08
+  image: IMG_9040.jpeg
+  lat: 43.10901
+  lon: 3.09013
+- alt: La Clape
+  date: 2022:02:08 12:05:43
+  image: IMG_6006.jpeg
+  lat: 43.15577
+  lon: 3.10581
+- alt: La Clape
+  date: 2022:02:08 11:55:27
+  image: IMG_6003.jpeg
+  lat: 43.15238
+  lon: 3.10582
 g727:
 - alt: Poussan
+  date: 2023:03:21 14:55:40
   image: IMG_1537.jpeg
+  lat: 43.49236
+  lon: 3.67073
 - alt: Gardiole
+  date: 2023:05:29 17:15:13
   image: IMG_2211.jpeg
+  lat: 43.49775
+  lon: 3.73761
 - alt: Gardiole
+  date: 2023:05:29 17:23:19
   image: IMG_2215.jpeg
+  lat: 43.50236
+  lon: 3.74772
 - alt: Mireval
+  date: 2023:02:12 13:21:23
   image: IMG_1041.jpeg
+  lat: 43.51414
+  lon: 3.79452
 - alt: Mireval
+  date: 2023:04:05 17:13:37
   image: IMG_1673.jpeg
+  lat: 43.51432
+  lon: 3.83414
 - alt: Mireval
+  date: 2023:01:16 14:32:03
   image: IMG_0739.jpeg
+  lat: 43.50893
+  lon: 3.8315
 - alt: Grande-Motte
+  date: 2023:01:18 15:05:16
   image: IMG_0864.jpeg
+  lat: 43.55784
+  lon: 4.06623
 - alt: Aigues-Mortes
+  date: 2022:12:06 14:16:45
   image: AigesMortes.jpeg
+  lat: 43.568
+  lon: 4.19063
 - alt: Gard
+  date: 2023:06:02 08:58:09
   image: IMG_2236.jpeg
+  lat: 43.67103
+  lon: 4.17529
 - alt: Pont Ambroix
+  date: 2023:06:02 09:20:48
   image: IMG_2239.jpeg
+  lat: 43.71784
+  lon: 4.15223
 - alt: Vidourle
+  date: 2023:05:03 16:16:00
   image: IMG_1876.jpeg
-- alt: Sommières
+  lat: 43.73976
+  lon: 4.12465
+- alt: "Sommi\xE8res"
+  date: 2023:05:03 16:00:41
   image: IMG_1873.jpeg
-- alt: Sommières
+  lat: 43.76284
+  lon: 4.09444
+- alt: "Sommi\xE8res"
+  date: 2023:06:02 11:10:33
   image: IMG_2243.jpeg
+  lat: 43.84019
+  lon: 4.07798
 - alt: Sauves
+  date: 2023:06:02 14:08:18
   image: IMG_2257.jpeg
+  lat: 43.93982
+  lon: 3.95092
 - alt: Sauves
+  date: 2023:06:02 14:08:58
   image: IMG_2259.jpeg
+  lat: 43.93979
+  lon: 3.95088
 - alt: Saint-Hippolyte-du-Fort
+  date: 2023:06:02 14:59:29
   image: IMG_2268.jpeg
+  lat: 43.94861
+  lon: 3.85077
 - alt: Larzac
+  date: 2023:06:03 10:20:44
   image: IMG_2325.jpeg
+  lat: 43.91328
+  lon: 3.49481
 - alt: Gorges de la Vis
+  date: 2023:06:03 10:26:06
   image: IMG_2329.jpeg
+  lat: 43.90985
+  lon: 3.48337
 - alt: Gorges de la Vis
+  date: 2023:06:03 10:35:50
   image: IMG_2345.jpeg
+  lat: 43.90179
+  lon: 3.48662
 - alt: Gorges de la Vis
+  date: 2023:06:03 10:35:47
   image: IMG_2343.jpeg
+  lat: 43.90181
+  lon: 3.48662
 - alt: Gorges de la Vis
+  date: 2023:06:03 10:41:47
   image: IMG_2347.jpeg
+  lat: 43.89806
+  lon: 3.49847
 - alt: Gorges de la Vis
+  date: 2023:06:03 11:36:20
   image: IMG_2353.jpeg
-- alt: Mont Saint-Baudille
-  image: IMG_2384.jpeg
-- alt: Mont Saint-Baudille
-  image: IMG_2390.jpeg
+  lat: 43.88889
+  lon: 3.51035
 - alt: Salagou
+  date: 2023:07:02 11:44:05
   image: IMG_2588.jpeg
+  lat: 43.66898
+  lon: 3.36559
 - alt: Salagou
+  date: 2023:07:02 11:25:37
   image: IMG_2576.jpeg
+  lat: 43.66269
+  lon: 3.38094
 - alt: Salagou
+  date: 2023:07:02 08:38:21
   image: IMG_2536.jpeg
+  lat: 43.64598
+  lon: 3.29344
 - alt: Saint-Gervais
+  date: 2023:06:20 08:15:10
   image: IMG_2462.jpeg
+  lat: 43.67029
+  lon: 3.03294
 - alt: Rosis
+  date: 2023:06:20 09:19:27
   image: IMG_2476.jpeg
-- alt: Arbre sculpté
+  lat: 43.66517
+  lon: 2.99917
+- alt: "Arbre sculpt\xE9"
+  date: 2023:06:20 09:02:32
   image: IMG_2471.jpeg
+  lat: 43.66426
+  lon: 3.01382
 - alt: Castanet-le-Haut
+  date: 2023:06:20 09:29:26
   image: IMG_2478.jpeg
+  lat: 43.66778
+  lon: 2.97895
 - alt: Espinouze
+  date: 2023:04:03 09:13:05
   image: IMG_1623-2.jpeg
+  lat: 43.60029
+  lon: 2.87041
 - alt: Espinouze
+  date: 2023:04:03 09:13:01
   image: IMG_1620.jpeg
-- alt: Avant-Monts
-  image: IMG_2043.jpeg
-- alt: Saut de Vézoles
+  lat: 43.60025
+  lon: 2.87041
+- alt: "Saut de V\xE9zoles"
+  date: 2023:05:18 19:45:04
   image: IMG_2047.jpeg
-- alt: Lac de Vézoles
+  lat: 43.55311
+  lon: 2.79424
+- alt: "Lac de V\xE9zoles"
+  date: 2023:05:18 19:47:44
   image: IMG_2055.jpeg
-- alt: Pic de Nore
-  image: IMG_2068.jpeg
-- alt: Les Corbières
+  lat: 43.55201
+  lon: 2.79147
+- alt: "Les Corbi\xE8res"
+  date: 2023:05:20 14:25:50
   image: IMG_2128.jpeg
+  lat: 43.11151
+  lon: 2.74968
 - alt: Minervois
+  date: 2023:05:19 19:40:20
   image: IMG_2080.jpeg
-- alt: Villarzel-Cabardès
+  lat: 43.31163
+  lon: 2.43554
+- alt: "Villarzel-Cabard\xE8s"
+  date: 2023:05:19 20:41:22
   image: IMG_2082.jpeg
+  lat: 43.27705
+  lon: 2.45068
 - alt: Canal du Midi
+  date: 2023:05:20 10:15:47
   image: IMG_2095.jpeg
-- alt: Corbières
-  image: IMG_2143.jpeg
-- alt: Les sèches
+  lat: 43.22856
+  lon: 2.60064
+- alt: "Les s\xE8ches"
+  date: 2023:04:26 18:17:55
   image: IMG_1818.jpeg
+  lat: 43.34314
+  lon: 3.56763
 - alt: Gardiole
+  date: 2023:01:04 14:14:19
   image: IMG_0622.jpeg
-
-cote-sud:
-- alt: Au-dessus de Cerbère
-  image: IMG_8808.jpeg
-- alt: Vignes
-  image: IMG_8813.jpeg
-- alt: Vignes
-  image: IMG_8851.jpeg
-- alt: Banyuls
-  image: IMG_5744.jpeg
-- alt: Banyuls
-  image: IMG_5733.jpeg
-- alt: Georges
-  image: IMG_5749.jpeg
-- alt: Cap Béart
-  image: IMG_8865.jpeg
-- alt: Cap Béar
-  image: IMG_5778.jpeg
-- alt: Port-Vendres
-  image: IMG_5785.jpeg
-- alt: Côte vermeille
-  image: IMG_8871.jpeg
-- alt: Côte vermeille
-  image: IMG_8941.jpeg
-- alt: Collioure
-  image: IMG_5792.jpeg
-- alt: Barcares
-  image: IMG_8961.jpeg
-- alt: La Franqui
-  image: IMG_9019.jpeg
-- alt: La plage
-  image: IMG_9022.jpeg
-- alt: Chœur de Caims
-  image: IMG_5932.jpeg
-- alt: La Roubine
-  image: IMG_9030.jpeg
-- alt: La Roubine
-  image: IMG_5956.jpeg
-- alt: Gruissan
-  image: IMG_9040.jpeg
-- alt: La Clape
-  image: IMG_6006.jpeg
-- alt: La Clape
-  image: IMG_6003.jpeg
+  lat: 43.49058
+  lon: 3.75888
+i727:
+- alt: "B\xE9ssilles"
+  date: 2022:04:01 10:17:47
+  image: IMG_6473.jpeg
+  lat: 43.47922
+  lon: 3.53193
+- alt: "L'\xE9tendoir des f\xE9es"
+  date: 2022:04:01 11:17:15
+  image: IMG_6487.jpeg
+  lat: 43.44214
+  lon: 3.47384
+- alt: Castelneau-de-Guers
+  date: 2021:10:07 10:26:21
+  image: IMG_2484.jpeg
+  lat: 43.44
+  lon: 3.46369
+- alt: Un poil de technique
+  date: 2022:04:01 11:27:19
+  image: IMG_6491.jpeg
+  lat: 43.43939
+  lon: 3.46331
+- alt: Dans une sculpture
+  date: 2022:04:01 13:11:57
+  image: IMG_6512.jpeg
+  lat: 43.45652
+  lon: 3.37383
+- alt: Vers Saint-Chinian
+  date: 2022:04:01 16:51:24
+  image: IMG_6528.jpeg
+  lat: 43.42337
+  lon: 3.07354
+- alt: Minerve
+  date: 2021:06:21 19:32:24
+  image: IMG_0140.jpeg
+  lat: 43.35331
+  lon: 2.74495
+- alt: Pardailhan
+  date: 2021:10:08 10:42:38
+  image: IMG_2595.jpeg
+  lat: 43.43906
+  lon: 2.78705
+- alt: "Saint-\xC9tienne-d\u2019Albagnan"
+  date: 2021:10:08 12:32:47
+  image: IMG_2638.jpeg
+  lat: 43.52836
+  lon: 2.85435
+- alt: Olargues
+  date: 2021:10:08 14:34:42
+  image: IMG_2655.jpeg
+  lat: 43.55691
+  lon: 2.91875
+- alt: Le Salagou
+  date: 2021:10:09 11:31:11
+  image: IMG_2734.jpeg
+  lat: 43.66757
+  lon: 3.35759
+- alt: Le Salagou
+  date: 2021:10:09 12:04:45
+  image: IMG_2754.jpeg
+  lat: 43.66469
+  lon: 3.3744
+- alt: Salagou
+  date: 2021:06:23 07:20:45
+  image: IMG_0353.jpeg
+  lat: 43.66163
+  lon: 3.39281
+- alt: Le pic Saint-Loup
+  date: 2022:04:03 17:14:03
+  image: IMG_6745.jpeg
+  lat: 43.74235
+  lon: 3.48593
+- alt: Sentier des Fenestrelles
+  date: 2022:04:04 09:32:29
+  image: IMG_6812.jpeg
+  lat: 43.73824
+  lon: 3.53028
+- alt: Sentier des Fenestrelles
+  date: 2022:04:04 09:32:01
+  image: IMG_6809.jpeg
+  lat: 43.73822
+  lon: 3.53023
+- alt: Sentier des Fenestrelles
+  date: 2022:04:04 09:30:57
+  image: IMG_6801.jpeg
+  lat: 43.73824
+  lon: 3.53021
+- alt: "Saint-Guilhem-le-D\xE9sert"
+  date: 2021:10:09 18:28:59
+  image: IMG_2853.jpeg
+  lat: 43.7332
+  lon: 3.55015
+- alt: "Gorges de l'H\xE9rault"
+  date: 2022:04:04 10:38:32
+  image: IMG_6847.jpeg
+  lat: 43.70796
+  lon: 3.55712
+- alt: Lavogne
+  date: 2022:04:04 13:11:08
+  image: IMG_6864.jpeg
+  lat: 43.75535
+  lon: 3.72717
+- alt: Hortus et pic Saint-Loup
+  date: 2022:04:04 14:34:31
+  image: IMG_6866.jpeg
+  lat: 43.80966
+  lon: 3.74206
+- alt: Claret
+  date: 2021:03:05 12:03:33
+  image: IMG_8180.jpeg
+  lat: 43.86905
+  lon: 3.85726
 p27:
 - alt: Perche
+  date: 2022:07:05 19:59:09
   image: IMG_7896.jpeg
-- alt: Vallée de l'Eure
-  image: IMG_7830.jpeg
-- alt: Vallée de l'Eure
+  lat: 48.39529
+  lon: 0.97461
+- alt: "Vall\xE9e de l'Eure"
+  date: 2022:07:05 10:24:16
   image: IMG_7837.jpeg
+  lat: 48.5937
+  lon: 1.57634
 - alt: Chartres
+  date: 2022:07:05 12:14:36
   image: IMG_7844.jpeg
-- alt: Chartres
-  image: IMG_7846.jpeg
-- alt: Entre forêts et champs
-  image: IMG_7924.jpeg
-- alt: Entre forêts et champs
-  image: IMG_7907.jpeg
-- alt: Entre forêts et champs
+  lat: 48.47798
+  lon: 1.51992
+- alt: "Entre for\xEAts et champs"
+  date: 2022:07:06 15:14:24
   image: IMG_7914.jpeg
-- alt: Dans les champs
-  image: IMG_7989.jpeg
-- alt: Montrésor
+  lat: 47.93365
+  lon: 0.85061
+- alt: "Montr\xE9sor"
+  date: 2022:07:07 18:41:26
   image: IMG_7987.jpeg
-- alt: Chenonceau
-  image: IMG_7973.jpeg
+  lat: 47.15486
+  lon: 1.20442
 - alt: Dans les champs
+  date: 2022:07:08 07:03:33
   image: IMG_8015.jpeg
+  lat: 46.96011
+  lon: 1.25058
 - alt: Dans les champs
+  date: 2022:07:08 08:02:05
   image: IMG_8019.jpeg
+  lat: 46.87987
+  lon: 1.2847
 - alt: La Brenne
+  date: 2022:07:08 11:30:32
   image: IMG_8047.jpeg
+  lat: 46.71991
+  lon: 1.33562
 - alt: Saint-Gaultier
+  date: 2022:07:08 13:40:42
   image: IMG_8058.jpeg
+  lat: 46.63533
+  lon: 1.42661
 - alt: Creuse
+  date: 2022:07:08 18:54:52
   image: IMG_8103.jpeg
-- alt: Après Guéret
-  image: IMG_8131.jpeg
+  lat: 46.43924
+  lon: 1.60752
 - alt: Le Cantal
+  date: 2022:07:10 17:50:49
   image: IMG_8209.jpeg
+  lat: 45.37223
+  lon: 2.51293
 - alt: Le Cantal
+  date: 2022:07:10 16:39:47
   image: IMG_8185-1.jpeg
+  lat: 45.45503
+  lon: 2.4294
 - alt: Le Cantal
-  image: IMG_8250.jpeg
-- alt: Le Cantal
+  date: 2022:07:11 17:30:55
   image: IMG_8359.jpeg
+  lat: 44.81571
+  lon: 2.75419
 - alt: Le Cantal
+  date: 2022:07:11 14:50:43
   image: IMG_8347.jpeg
-- alt: Espalion
-  image: IMG_8376.jpeg
-- alt: Sainte-Eulalie-d’Olt
+  lat: 45.01787
+  lon: 2.73045
+- alt: "Sainte-Eulalie-d\u2019Olt"
+  date: 2022:07:12 10:49:07
   image: IMG_8390.jpeg
-- alt: Espalion
-  image: IMG_8383.jpeg
+  lat: 44.4652
+  lon: 2.94845
 - alt: Aveyron
+  date: 2022:07:12 19:06:53
   image: IMG_8425.jpeg
-- alt: Étang de Thau et Sète
+  lat: 44.07849
+  lon: 3.05814
+- alt: "\xC9tang de Thau et S\xE8te"
+  date: 2022:07:13 14:54:10
   image: IMG_8482.jpeg
+  lat: 43.444
+  lon: 3.68614
