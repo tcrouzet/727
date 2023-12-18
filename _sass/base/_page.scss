@@ -89,13 +89,17 @@ h6 {
     margin-bottom: 15px;
   }
   h3.section-subheading {
-    font-size: 16px;
+    font-size: 1.1rem;
     font-weight: 400;
     font-style: italic;
-    margin-bottom: 75px;
+    margin-bottom: 2rem;
     text-transform: none;
     @include serif-font;
   }
+}
+
+.col-md-4{
+  margin-top: 1rem;
 }
 
 // Highlight color customization

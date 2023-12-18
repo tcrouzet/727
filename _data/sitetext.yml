@@ -54,13 +54,13 @@ fr: &DEFAULT_FR
         subtitle: 8 mai 2024
         desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un 727. Plus de 25 % de singles."
         link: /727-Grand-Depart/
-        icon: fas fa-mountain
+        icon: fa fa-map
         buttontext: Inscription
       - title: "28 septembre 2024"
         subtitle: 28 septembre 2024
         desc: "Inaugurée en 2023, la version gravel du 727 revient, avec de magnifiques pistes et paysages."
         link: /g727-Grand-Depart/
-        icon: fas fa-route
+        icon: fa fa-road
         buttontext: Inscription
 
   about:
@@ -124,13 +124,13 @@ fr: &DEFAULT_FR
         subtitle: "Livre d'or"
         desc: "Partagez vos histoires sur les 727, commentez, questionnez…"
         link: /forum/
-        icon: fas fa-book-open
+        icon: fa fa-commenting
         buttontext: Partager
       - title: "Groupe Facebook"
         subtitle: Groupe Facebook
         desc: "On s'y retrouve, on y discute, on y partage les news…"
         link: https://www.facebook.com/groups/727tour
-        icon: fab fa-facebook-f
+        icon: fa fa-facebook
         buttontext: Partager
 
   news:
@@ -142,31 +142,31 @@ fr: &DEFAULT_FR
         subtitle: "Photos"
         desc: "Les 727 en images…"
         link: /diaporama/
-        icon: fas fa-book-open
+        icon: fa fa-camera-retro
         buttontext: Consulter
       - title: "Articles"
         subtitle: Articles
         desc: "Comme si vous y étiez…"
         link: /articles/
-        icon: fab fa-facebook-f
+        icon: fa  fa-font
         buttontext: Consulter
       - title: "Vidéos"
         subtitle: Vidéos
         desc: "Récits…"
         link: /videos/
-        icon: fab fa-facebook-f
+        icon: fa fa-youtube
         buttontext: Consulter
       - title: "Recos"
         subtitle: Recos
         desc: "Les 727 ne cessent d'évoluer…"
         link: /news/
-        icon: fab fa-facebook-f
+        icon: fa fa-wrench
         buttontext: Consulter
       - title: "Météo"
         subtitle: Météo
         desc: "Les prévisions…"
         link: /weather/
-        icon: fab fa-facebook-f
+        icon: fa fa-sun-o
         buttontext: Consulter
 
   portfolio:
