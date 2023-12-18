@@ -70,6 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let currentSlide{{ dindex }} = 0;
     let map{{ dindex }};
     let markers{{ dindex }} = [];
+    let isMapExpanded{{ dindex }} = false;
 
     function showSlide{{ dindex }}(index) {
         const image = images{{ dindex }}[index];
@@ -121,9 +122,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
         markers{{ dindex }}.forEach(marker => {
             marker.on('click', function() {
+                if (isMapExpanded{{ dindex }}) {
+                    toggleMapSize(); // Réduire la carte si elle est agrandie
+                }
                 showSlide{{ dindex }}(this.myIndex);
             });
         });
+
+        map{{ dindex }}.on('click', function(e) {
+            if (e.originalEvent.target === this._container) { // Vérifier si le clic est sur le fond de la carte
+                toggleMapSize();
+            }
+        });
+
     }
 
     function adjustSlideshowSize() {
@@ -153,23 +164,40 @@ document.addEventListener('DOMContentLoaded', function() {
 
     }
 
+    function toggleMapSize() {
+        const mapContainer = document.getElementById('map{{ dindex }}');
+
+        if (isMapExpanded{{ dindex }}) {
+            mapContainer.classList.remove('expanded');
+        } else {
+            mapContainer.classList.add('expanded');
+        }
+
+        isMapExpanded{{ dindex }} = !isMapExpanded{{ dindex }};
+        map{{ dindex }}.invalidateSize(); // Avertir Leaflet du changement de taille
+    }
+
     document.getElementById('prev{{ dindex }}').addEventListener('click', () => {
+        if (isMapExpanded{{ dindex }}) {
+           toggleMapSize(); // Réduire la carte si elle est agrandie
+        }
         currentSlide{{ dindex }} = currentSlide{{ dindex }} - 1 < 0 ? images{{ dindex }}.length - 1 : currentSlide{{ dindex }} - 1;
         showSlide{{ dindex }}(currentSlide{{ dindex }});
     });
 
     document.getElementById('next{{ dindex }}').addEventListener('click', () => {
+        if (isMapExpanded{{ dindex }}) {
+           toggleMapSize(); // Réduire la carte si elle est agrandie
+        }
         currentSlide{{ dindex }} = (currentSlide{{ dindex }} + 1) % images{{ dindex }}.length;
         showSlide{{ dindex }}(currentSlide{{ dindex }});
     });
+
 
     window.addEventListener('load', adjustSlideshowSize);
     window.addEventListener('resize', adjustSlideshowSize);
 
 });
-
-
-
 
 </script>
 
@@ -211,6 +239,14 @@ document.addEventListener('DOMContentLoaded', function() {
     width: 30%;
     height: 20%;
     z-index: 3;
+}
+
+#slideshow{{ dindex }} .map-container.expanded {
+    position: absolute;
+    width: 100%; /* Prend toute la largeur du diaporama */
+    height: 100%; /* Prend toute la hauteur du diaporama */
+    top: 0;
+    left: 0;
 }
 
 </style>
