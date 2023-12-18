@@ -105,6 +105,11 @@
   <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
   <link href="{{ site.url }}{{ site.baseurl }}/assets/css/agency.css?v={{ site.time | date: '%s' }}" rel="stylesheet" />
 
+  {% if page.leaflet %}
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  {% endif %}
+
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" %}
   <style>
