@@ -1,3 +1,4 @@
+#Import from WordPress, utilisé à l'installaton
 import os
 import re
 import shutil

@@ -1,3 +1,5 @@
+#Utilisé lors de la création
+
 import os
 
 source_folder= os.path.expanduser(f"~/Documents/GitHub/727/_posts/")

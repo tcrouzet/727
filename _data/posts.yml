@@ -1802,33 +1802,102 @@
 - image: IMG_3204.jpeg
   lat: 43.26751
   lon: 3.19411
+- image: IMG_3101.jpeg
+  lat: 43.37908
+  lon: 2.44342
 - image: IMG_3205.jpeg
   lat: 43.26913
   lon: 3.19721
+- image: IMG_3090.jpeg
+  lat: ''
+  lon: ''
 - image: IMG_3182.jpeg
   lat: 43.08286
   lon: 3.06861
+- image: IMG_3097.jpeg
+  lat: 43.38039
+  lon: 2.44419
+- image: IMG_3078.jpeg
+  lat: ''
+  lon: ''
+- image: IMG_3081.jpeg
+  lat: 43.42418
+  lon: 2.42323
+- image: IMG_3146.jpeg
+  lat: ''
+  lon: ''
+- image: IMG_3074.jpeg
+  lat: 43.4501
+  lon: 2.43929
+- image: IMG_3059.jpeg
+  lat: 43.41901
+  lon: 2.44698
+- image: IMG_3075.jpeg
+  lat: ''
+  lon: ''
 - image: IMG_3188.jpeg
   lat: ''
   lon: ''
+- image: IMG_3080.jpeg
+  lat: 43.42428
+  lon: 2.42329
+- image: IMG_3056.jpeg
+  lat: 43.2332
+  lon: 2.37419
+- image: IMG_3152.jpeg
+  lat: 43.15128
+  lon: 2.62272
 - image: IMG_3191.jpeg
+  lat: ''
+  lon: ''
+- image: IMG_3129.jpeg
   lat: ''
   lon: ''
 - image: IMG_3200.jpeg
   lat: 43.1057
   lon: 3.08415
+- image: IMG_3095.jpeg
+  lat: 43.38037
+  lon: 2.4442
 - image: IMG_3187.jpeg
   lat: 43.08118
   lon: 3.06858
+- image: IMG_3060.jpeg
+  lat: 43.41931
+  lon: 2.463
+- image: IMG_3099.jpeg
+  lat: ''
+  lon: ''
 - image: IMG_3164.jpeg
   lat: 43.02941
   lon: 2.8602
 - image: IMG_3165.jpeg
   lat: 43.02864
   lon: 2.86415
+- image: IMG_3077.jpeg
+  lat: 43.44291
+  lon: 2.44421
+- image: IMG_3124.jpeg
+  lat: 43.20657
+  lon: 2.44937
 - image: IMG_3169.jpeg
   lat: 43.05081
   lon: 3.05813
+- image: IMG_3082.jpeg
+  lat: 43.42419
+  lon: 2.42327
+- image: IMG_3112.jpeg
+  lat: ''
+  lon: ''
+- image: IMG_3158.jpeg
+  lat: 43.1553
+  lon: 2.62617
+- image: IMG_3089.jpeg
+  lat: 43.402
+  lon: 2.44142
+- image: IMG_3115.jpeg
+  lat: 43.26254
+  lon: 2.46611
 - image: IMG_3197.jpeg
   lat: ''
   lon: ''
@@ -1838,12 +1907,24 @@
 - image: IMG_3181.jpeg
   lat: 43.0841
   lon: 3.06907
+- image: IMG_3092.jpeg
+  lat: 43.38233
+  lon: 2.44523
 - image: IMG_3207.jpeg
   lat: ''
   lon: ''
+- image: IMG_3084.jpeg
+  lat: 43.4226
+  lon: 2.42166
 - image: IMG_3179.jpeg
   lat: 43.06145
   lon: 3.0357
+- image: IMG_3143.jpeg
+  lat: 43.14569
+  lon: 2.61862
+- image: IMG_3159.jpeg
+  lat: 43.09147
+  lon: 2.72627
 '2023-09-14':
 - image: IMG_3249.jpeg
   lat: 43.63213
@@ -2109,3 +2190,25 @@
 - image: IMG_3860.jpeg
   lat: 43.58825
   lon: 3.44595
+'2024-01-03':
+- image: IMG_4257.jpeg
+  lat: 43.44039
+  lon: 3.48399
+- image: IMG_4282.jpeg
+  lat: 43.45684
+  lon: 3.44733
+- image: IMG_4267.jpeg
+  lat: 43.44105
+  lon: 3.47003
+- image: IMG_4252.jpeg
+  lat: 43.43993
+  lon: 3.48483
+- image: IMG_4278.jpeg
+  lat: 43.45505
+  lon: 3.44703
+- image: IMG_4274.jpeg
+  lat: 43.44004
+  lon: 3.46367
+- image: IMG_4262.jpeg
+  lat: 43.4431
+  lon: 3.47454

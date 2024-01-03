@@ -1,3 +1,4 @@
+#Met à jour images.yml, use once ou if change
 import os
 import yaml
 from datetime import datetime
@@ -91,5 +92,5 @@ for key in yml_data:
     yml_data[key] = temp_list
 
 print(yml_data)
-write_yaml(yml_file, yml_data)
+#write_yaml(yml_file, yml_data)
         
