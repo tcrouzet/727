@@ -1,6 +1,3 @@
-# pip install Pillow
-
-
 import os
 import yaml
 from datetime import datetime

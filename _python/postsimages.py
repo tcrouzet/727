@@ -1,8 +1,5 @@
-# pip install Pillow
-
 
 import os
-import shutil
 import yaml
 from datetime import datetime
 from PIL import Image
