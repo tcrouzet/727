@@ -97,6 +97,7 @@ for root, dirs, files in os.walk(source_folder):
 layout: page
 title: "Reco du {date_fr}"
 permalink: /posts/{subdir}/
+leaflet: true
 ---
 {{% include slideshow.html %}}"""
             with open(markdown_file, 'w') as file:
