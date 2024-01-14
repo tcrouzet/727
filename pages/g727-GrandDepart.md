@@ -9,7 +9,7 @@ header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
 header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024"
-header_date: 2024-09-28T07:30:00
+header_date: '2024-09-28T07:30:00Z'
 comments: false
 ---
 
