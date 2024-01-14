@@ -29,7 +29,7 @@ Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la
 
 Je ne suis pas fan des évènements bikepacking payants (et surtout hors de prix), mais l'organisation d'une randonnée avec plus d'une poignée de participants implique de souscrire une assurance tout simplement pour assurer l'organisateur contre les assurances individuelles des participants, au cas où elles se retourneraient contre lui suite à un accident. À l'ECP, nous nous assurons via la FFVélo. Voilà pourquoi la participation est payante. Nous tenons à offrir tous les services des épreuves onéreuses, et même davantage, pour seulement 35 €.
 
-* Hébergement pour dérouler votre matelas et sac de couchage la veille du Grand Départ. Elle sera ouverte à partir de 19 heures le 7 mai (l’adresse dépendra du nombre de participants). 
+* Hébergement pour dérouler votre matelas et sac de couchage la veille du Grand Départ. Une salle sera ouverte à partir de 19 heures le 7 mai (l’adresse dépendra du nombre de participants). 
 * Veillée d'armes la veille du Grand Départ au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8). C'est toujours un bon moment et l'occasion de faire connaissance. Lors de l'inscription, vous pouvez réserver une pizza ou un bon plat de pâtes au Kosi, restaurant voisin du café (vous paierez directement au restaurateur).
 * Petit-déjeuner frugal le jour du départ au Grand Café. Il sera servi au café entre 6h30 et 7h30, heure du grand départ, le 8 mai.
 * Pot au retour au Grand Café (ouvert de 6h30 et 20h, fermé le lundi et le dimanche après-midi… mais exceptionnellement ouvert pour nos arrivées le dimanche 13 mai).
@@ -39,7 +39,7 @@ Je ne suis pas fan des évènements bikepacking payants (et surtout hors de prix
 * Par souci de sobriété écologique, nous évitons les goodies et autres babioles.
 * Et bien sûr, une trace aux petits oignons, enrichie d'une multitude de points d'intérêt, notamment les points d'eau.
 
-Comme les 727/i727 ne sont pas des compétitions et n'impliquent pas des points de contrôle pour valider vos passages avec des horaires butoirs, ils favorisent la constitution de groupes par affinité et niveau. C'est une des grandes particularités de l'épreuve. Elle favorise la fraternité, du fait même de son mode d'organisation. Bien sûr, rien ne vous empêche de rouler seul à votre rythme.
+Comme les 727/i727 ne sont pas des compétitions et n'impliquent pas des points de contrôle pour valider vos passages avec des horaires butoirs,  des groupes se forment par affinité et niveau. C'est une des grandes particularités de l'épreuve. Elle favorise la fraternité, du fait même de son mode d'organisation. Bien sûr, rien ne vous empêche de rouler seul à votre rythme.
 
 Une fois inscrit, vous recevrez des informations détaillées et le lien d’un groupe Telegram où nous échangerons avant le Grand Départ et tout au long de la randonnée (nous utilisons Telegram de préférence à WhatsApp parce que c'est une solution open source, qui par ailleurs sert de support à Geogram).
 
