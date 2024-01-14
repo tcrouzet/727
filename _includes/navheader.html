@@ -16,6 +16,38 @@
       {%- assign text = page.header_title | default: site.data.sitetext[site.locale].header.text -%}
       {%- if text -%}
         <h2>{{ text }}</h2>
+        <div id="countdown">   </div>
+      {%- endif -%}
+
+      {%- assign date = page.header_date | default: null -%}
+      {%- if date -%}
+        <script>
+function countdown(targetDate) {
+    const target = new Date(targetDate);
+
+    // Fonction pour mettre à jour le compte à rebours
+    function updateCountdown() {
+        const now = new Date();
+        const difference = target - now;
+
+        // Calcul du temps restant
+        const days = Math.floor(difference / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((difference / (1000 * 60 * 60)) % 24);
+        const minutes = Math.floor((difference / 1000 / 60) % 60);
+        const seconds = Math.floor((difference / 1000) % 60).toString().padStart(2, '0');
+
+        // Affichage du temps restant
+        document.getElementById("countdown").innerHTML = days + " jours " + hours + "h" + minutes + ":" + seconds;
+    }
+
+    // Mise à jour toutes les secondes
+    setInterval(updateCountdown, 1000);
+}
+
+// Lancement du compte à rebours
+countdown("{{ date }}");
+
+        </script>
       {%- endif -%}
 
       {%- assign button_text = site.data.sitetext[site.locale].header.button -%}

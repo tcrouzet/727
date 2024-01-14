@@ -44,7 +44,7 @@ div.intro-text h2 {
   font-size: 5rem;
   font-weight: 700;
   margin-top: 2.5rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
   @include heading-font;
 }
 
@@ -76,6 +76,11 @@ ul.social-buttons {
       }
     }
   }
+}
+
+#countdown{
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 1.5rem;
 }
 
 @media (min-width: 768px) {

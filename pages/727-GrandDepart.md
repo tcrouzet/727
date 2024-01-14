@@ -9,6 +9,7 @@ header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
 header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/i727-2024-1"
+header_date: 2024-05-08T07:30:00
 comments: false
 ---
 
