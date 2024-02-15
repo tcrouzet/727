@@ -54,7 +54,7 @@ for root, dirs, files in os.walk(source_folder):
     for filename in files:
         if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp')):
             source_path = os.path.join(root, filename)
-
+            
             exif_data = get_exif_data(source_path)
             geotags = get_geotagging(exif_data)
             exif_date = exif_data.get('DateTime')
