@@ -2127,9 +2127,6 @@
   lat: ''
   lon: ''
 '2023-11-16':
-- image: IMG_3875.jpeg
-  lat: 43.60704
-  lon: 3.40134
 - image: IMG_3880.jpeg
   lat: 43.60349
   lon: 3.37877
@@ -2145,9 +2142,6 @@
 - image: IMG_3853.jpeg
   lat: 43.58526
   lon: 3.44755
-- image: IMG_3865.jpeg
-  lat: 43.61832
-  lon: 3.39747
 - image: IMG_3873.jpeg
   lat: 43.61026
   lon: 3.40088
@@ -2347,9 +2341,6 @@
 - image: IMG_4564.jpeg
   lat: 43.6801
   lon: 3.34551
-- image: IMG_4592.jpeg
-  lat: 43.77483
-  lon: 3.44886
 - image: IMG_4571.jpeg
   lat: 43.69416
   lon: 3.31466
@@ -2362,9 +2353,6 @@
 - image: IMG_4557.jpeg
   lat: 43.65873
   lon: 3.32306
-- image: IMG_4594.jpeg
-  lat: 43.77484
-  lon: 3.44893
 - image: IMG_4582.jpeg
   lat: 43.75548
   lon: 3.37684
@@ -2420,9 +2408,6 @@
 - image: IMG_4750.jpeg
   lat: 43.77914
   lon: 3.75739
-- image: IMG_4767.jpeg
-  lat: 43.70753
-  lon: 3.5571
 - image: IMG_4740.jpeg
   lat: 43.75421
   lon: 3.74278
@@ -2436,6 +2421,9 @@
 - image: IMG_4892.jpeg
   lat: 43.48522
   lon: 3.61454
+- image: IMG_4902.jpeg
+  lat: 43.42441
+  lon: 3.51145
 - image: IMG_4866.jpeg
   lat: 43.48867
   lon: 3.64556
@@ -2469,3 +2457,70 @@
 - image: IMG_4891.jpeg
   lat: 43.48512
   lon: 3.61466
+'2024-02-29':
+- image: IMG_4979.jpeg
+  lat: 43.49779
+  lon: 2.88379
+- image: IMG_5021.jpeg
+  lat: 43.56085
+  lon: 2.94626
+- image: IMG_5037.jpeg
+  lat: 43.58109
+  lon: 3.02839
+- image: IMG_5006.jpeg
+  lat: 43.52553
+  lon: 2.93347
+- image: IMG_5047.jpeg
+  lat: 43.60392
+  lon: 3.04624
+- image: IMG_5030.jpeg
+  lat: 43.57663
+  lon: 3.01844
+- image: IMG_5031.jpeg
+  lat: 43.57627
+  lon: 3.01784
+- image: IMG_4987.jpeg
+  lat: 43.50136
+  lon: 2.90008
+- image: IMG_5011.jpeg
+  lat: 43.53969
+  lon: 2.94175
+- image: IMG_5028.jpeg
+  lat: 43.56121
+  lon: 2.94493
+- image: IMG_4984.jpeg
+  lat: 43.50227
+  lon: 2.89896
+- image: IMG_5032.jpeg
+  lat: 43.57722
+  lon: 3.02342
+- image: IMG_4988.jpeg
+  lat: 43.50138
+  lon: 2.90005
+- image: IMG_5049.jpeg
+  lat: 43.59901
+  lon: 3.13828
+- image: IMG_4993.jpeg
+  lat: 43.51921
+  lon: 2.93065
+- image: IMG_5013.jpeg
+  lat: 43.54683
+  lon: 2.93615
+- image: IMG_5044.jpeg
+  lat: 43.57895
+  lon: 3.04436
+- image: IMG_5034.jpeg
+  lat: 43.58106
+  lon: 3.0269
+- image: IMG_5018.jpeg
+  lat: 43.56351
+  lon: 2.92647
+- image: IMG_4982.jpeg
+  lat: 43.50224
+  lon: 2.89889
+- image: IMG_4994.jpeg
+  lat: 43.51926
+  lon: 2.9306
+- image: IMG_5039.jpeg
+  lat: 43.58096
+  lon: 3.02807
