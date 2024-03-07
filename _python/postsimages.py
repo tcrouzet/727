@@ -108,3 +108,4 @@ with open(yml_file, "w") as file:
     yaml.dump(yml_data, file, default_flow_style=False)
 
 print("New posts",count_newpost)
+
