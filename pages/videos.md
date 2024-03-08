@@ -6,6 +6,10 @@ comments: false
 ---
 
 
+### i727 2024 diaporama
+
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/KQYF0Ujdgek?si=rOy8LUxQizznwolM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ### 727 teaser par Julien Spira
 
 <div class="video"><iframe class="video" src="https://www.youtube.com/embed/N3Sw130kj1o?si=bAfq-sYp6jxFlPzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
