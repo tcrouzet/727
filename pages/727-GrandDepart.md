@@ -21,13 +21,9 @@ Pourquoi rouler un i727 en mai ? Parce que c'est la plus belle des saisons pour
 
 ![Poster i727](/images/727gd/poster02.jpg)
 
-La cinquième édition de la randonnée partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 8 mai 2024 à 7h30 et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/).
+La cinquième édition de la randonnée partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 8 mai 2024 à 7h30. Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
-Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
-
-![i727 à la carte](/images/727gd/i727-alacarte.jpg)
-
-Je ne suis pas fan des évènements bikepacking payants (et surtout hors de prix), mais l'organisation d'une randonnée avec plus d'une poignée de participants implique de souscrire une assurance tout simplement pour assurer l'organisateur contre les assurances individuelles des participants, au cas où elles se retourneraient contre lui suite à un accident. À l'ECP, nous nous assurons via la FFVélo. Voilà pourquoi la participation est payante. Nous tenons à offrir tous les services des épreuves onéreuses, et même davantage, pour seulement 35 €.
+[L'inscription ne coûte que 35 €](https://tcrouzet.com/2024/02/15/pourquoi-seulement-35-e-pour-un-727/) parce que les randonnées 727 sont organisées par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/). Cette somme forfaitaire, en plus de couvrir l'assurance pour protége l'ECP, permet d'offrir tous les services des épreuves onéreuses, et même davantage.
 
 * Hébergement pour dérouler votre matelas et sac de couchage la veille du Grand Départ. Une salle sera ouverte à partir de 19 heures le 7 mai (l’adresse dépendra du nombre de participants). 
 * Veillée d'armes la veille du Grand Départ au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8). C'est toujours un bon moment et l'occasion de faire connaissance. Lors de l'inscription, vous pouvez réserver une pizza ou un bon plat de pâtes au Kosi, restaurant voisin du café (vous paierez directement au restaurateur).
@@ -41,7 +37,7 @@ Je ne suis pas fan des évènements bikepacking payants (et surtout hors de prix
 
 Comme les 727/i727 ne sont pas des compétitions et n'impliquent pas des points de contrôle pour valider vos passages avec des horaires butoirs,  des groupes se forment par affinité et niveau. C'est une des grandes particularités de l'épreuve. Elle favorise la fraternité, du fait même de son mode d'organisation. Bien sûr, rien ne vous empêche de rouler seul à votre rythme.
 
-Une fois inscrit, vous recevrez des informations détaillées et le lien d’un groupe Telegram où nous échangerons avant le Grand Départ et tout au long de la randonnée (nous utilisons Telegram de préférence à WhatsApp parce que c'est une solution open source, qui par ailleurs sert de support à Geogram).
+Une fois inscrit, vous recevrez des informations détaillées et le lien d’un groupe [Telegram](https://telegram.org/) où nous échangerons avant le Grand Départ et tout au long de la randonnée (nous utilisons [Telegram Messenger](https://telegram.org/) de préférence à WhatsApp parce que c'est une solution open source, qui par ailleurs sert de support à Geogram).
 
 ### Résumé du règlement
 
