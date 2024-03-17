@@ -154,7 +154,7 @@ img::-moz-selection {
   padding-right: var(--page-guter);
 }
 
-.post ul{
+.post ul,.post ol{
   max-width: var(--width-ch);
   text-align: justify;
   margin-top: var(--margin-top-post);
