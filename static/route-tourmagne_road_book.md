@@ -1,3 +1,5 @@
+# Challenge du Tourmagne
+
 197 communes
 
 1. Melun km0 0.7km
@@ -18,7 +20,7 @@
 
 9. Saint-Mammès km27 0.7km
 
-10. Moret-Loing-et-Orvanne km28 5.4km
+10. [Moret-Loing-et-Orvanne](https://moret-loing-et-orvanne.fr/) km28 5.4km
 
 11. Montigny-sur-Loing km35 2.9km
 
@@ -126,7 +128,7 @@
 
 63. Coulanges-lès-Nevers km252 0.6km
 
-64. Nevers km252 7.0km
+64. [Nevers](http://www.ville-nevers.fr/) km252 7.0km
 
 65. Saint-Éloi km259 2.2km
 
@@ -148,7 +150,7 @@
 
 74. Neuvy km314 3.3km
 
-75. Moulins km318 2.8km
+75. [Moulins](https://www.ville-moulins.fr/) km318 2.8km
 
 76. Bressolles km320 6.6km
 
@@ -166,7 +168,7 @@
 
 83. Saulcet km352 4.1km
 
-84. Saint-Pourçain-sur-Sioule km356 4.7km
+84. [Saint-Pourçain-sur-Sioule](https://www.ville-saint-pourcain-sur-sioule.com/) km356 4.7km
 
 85. Bayet km361 5.6km
 
@@ -210,7 +212,7 @@
 
 105. Chamalières km456 1.4km
 
-106. Clermont-Ferrand km457 8.9km
+106. [Clermont-Ferrand](https://clermont-ferrand.fr/) km457 8.9km
 
 107. Cournon-d'Auvergne km466 6.7km
 
@@ -330,7 +332,7 @@
 
 165. Chastel-Nouvel km759 9.2km
 
-166. Mende km771 10km
+166. [Mende](https://www.mende.fr/) km771 10km
 
 167. Brenoux km781 6.1km
 
