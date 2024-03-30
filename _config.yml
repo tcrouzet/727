@@ -48,6 +48,3 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
-
-exclude:
-  - static
