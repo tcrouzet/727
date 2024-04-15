@@ -54,8 +54,8 @@ fr: &DEFAULT_FR
     - title: "Contact"
       section: contact
       subnav:  # Ajout d'un sous-menu
-              - title: "Livre d'or"
-                url: "/forum/"
+              - title: "Nous écrire"
+                url: "/#contact"
               - title: "Groupe Facebook"
                 url: "https://www.facebook.com/groups/727tour"
               - title: "Partenaires"
