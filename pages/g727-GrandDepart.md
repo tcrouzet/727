@@ -13,7 +13,7 @@ header_date: '2024-09-28T07:30:00Z'
 comments: false
 ---
 
-Le [g727](/g727/) est pensé pour que les gravels expriment au meilleur d'eux-mêmes. [La trace](/g727/) est disponible gratuitement, mais si vous voulez la rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est une bonne occasion pour rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
+Le [g727](/g727/), c'est gravel. [Le tour](/g727/) est disponible gratuitement, mais si vous voulez le rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est l'occasion de rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
 
 <p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024" class="hotlink">Inscrivez-vous au g727 2024 sur helloasso (35 €) >>></a> (99 places)</p>
 
@@ -25,9 +25,9 @@ Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la
 
 Pour 35 €, vous bénéficierez d’un hébergement pour dérouler votre matelas et sac de couchage la veille du grand départ, d’un petit déjeuner frugal et d’un pot au retour, le tout servi au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8) (ouvert entre 7h et 20h). La veille du départ, vous pourrez manger à la pizzeria voisine et vous retrouver au café à partir de 18h. 
 
-L'ECP réservera des pizzas ou autre au restaurant voisin. Ce sera l'occasion de nous rencontrer. L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de participants). Vous pourrez y entrer avec vos vélos et y dormir à l'abri avec votre matelas et sac de couchage.
+L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de participants). Vous pourrez y entrer avec vos vélos et y dormir à l'abri avec votre matelas et sac de couchage.
 
-Le petit-déjeuner sera servi au café entre 6h45 et 7h45, heure du grand départ, le 28 septembre. Ceux venus en train pourront y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
+Le petit-déjeuner sera servi au café entre 7h et 7h45, heure du grand départ, le 28 septembre. Ceux venus en train pourront y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
 
 La durée du tour dépendra de la forme de chacun. La plupart des participants ont bouclé l'édition 2023 en cinq jours. Il n'y a pas de limite de temps, sinon d'arriver à Poussan quand le café est ouvert pour profiter du pot finisher.
 
