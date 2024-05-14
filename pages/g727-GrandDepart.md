@@ -13,25 +13,21 @@ header_date: '2024-09-28T07:30:00Z'
 comments: false
 ---
 
-Le [g727](/g727/) est pensé pour que les gravels y tirent le meilleur d'eux-même. [La trace](/g727/) est disponible gratuitement en ITT, mais si vous voulez la rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est une bonne occasion pour rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
+Le [g727](/g727/) est pensé pour que les gravels y tirent le meilleur d'eux-même. [La trace](/g727/) est disponible gratuitement, mais si vous voulez la rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est une bonne occasion pour rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
 
 <p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024" class="hotlink">Inscrivez-vous au g727 2024 sur helloasso (35 €) >>></a> (99 places)</p>
 
-Le g727 est une aventure bikepacking autour du département de l’Hérault. Ce n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme.
+Le g727 est une aventure bikepacking autour du département de l’Hérault. Ce n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme. Si 727 km c'est trop long pour vous, des short cuts permettront de réduire la distance totale à 600 km et 450 km.
 
-![g727 map](/images/727gd/g727map.jpg)
-
-Le g727 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 28 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/).
+Le g727 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 28 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/), qui prend en charge l'assurance.
 
 Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
-Depuis le premier 727, je fait payer une assurance, tout simplement pour m’assurer contre les assurances individuelles des participants, au cas où, suite à un accident, elles se retourneraient un des participants ou un des membres de l'ECP. Désormais, nous assurons via la FFVélo.
+Pour 35 €, vous bénéficierez d’un hébergement pour dérouler votre matelas et sac de couchage la veille du grand départ, d’un petit déjeuner frugal et d’un pot au retour, le tout servi au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8) (ouvert entre 7h et 20h). Le veille du départ vous pourrez manger à la pizzeria voisine et vous retrouver au café à partir de 18h. 
 
-Pour 35 €, vous bénéficierez en prime d’un hébergement pour dérouler votre matelas et sac de couchage la veille du grand départ, d’un petit déjeuner frugal et d’un pot au retour, le tout servi au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8) (ouvert de 6h30 et 20h, fermé le lundi et le dimanche après-midi). Le veille du départ vous pourrez manger à la pizzeria voisine et vous retrouver au café. 
+L'ECP réservera des pizzas ou autre au restaurant voisin. Ce sera l'occasion de nous rencontrer. L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de participants). Vous pourrez y entrer avec vos vélos et y dormir à l'abri avec votre matelas et sac de couchage.
 
-Le 27 septembre, on se retrouvera à partir de 18h au Grand Café. L'ECP réservera des pizzas ou autre au restaurant voisin. Ce sera l'occasion de nous rencontrer. L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de participants). Vous pourrez y entrer avec vos vélos et y dormir à l'abri avec votre matelas et sac de couchage.
-
-Le petit-déjeuner sera servi au café entre 6h30 et 8h, heure du grand départ, le 28 septembre. Ceux venus en train pourrons y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
+Le petit-déjeuner sera servi au café entre 6h45 et 7h45, heure du grand départ, le 28 septembre. Ceux venus en train pourront y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
 
 La durée du tour dépendra de la forme de chacun. La plupart des participants ont bouclé l'édition 2023 en cinq jours. Il n'y a pas de limite de temps, sinon d'arrivée à Poussan quand le café est ouvert pour profiter du pot finisher.
 
