@@ -24,7 +24,13 @@ def get_geotagging(exif_data):
         for tag in gps_info.keys():
             decoded = GPSTAGS.get(tag, tag)
             geotagging[decoded] = gps_info[tag]
-
+            
+        #IMG_5889.jpeg
+    # if not geotagging['GPSLatitude']:
+    #     print(geotagging)
+    #     exit()
+    #     return None
+        
         return geotagging
     return None
 
@@ -74,6 +80,10 @@ for root, dirs, files in os.walk(source_folder):
  
         exif_data = get_exif_data(filepath)
         geotags = get_geotagging(exif_data)
+
+        if geotags is None:
+            continue
+
         exif_date = exif_data.get('DateTime')
 
         coords = ("", "")

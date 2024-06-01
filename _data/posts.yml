@@ -204,10 +204,6 @@
 - image: IMG_8332.jpeg
   lat: 43.73661
   lon: 4.1208
-'2021-05-19':
-- image: Depart.jpeg
-  lat: ''
-  lon: ''
 '2021-05-20':
 - image: IMG_9464.jpeg
   lat: 43.36106
@@ -215,9 +211,6 @@
 - image: IMG_9472.jpeg
   lat: 43.34497
   lon: 3.57147
-- image: IMG_9468.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9491.jpeg
   lat: 43.28684
   lon: 3.36521
@@ -243,9 +236,6 @@
 - image: IMG_9594.jpeg
   lat: 43.54584
   lon: 2.78729
-- image: IMG_9516.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9561.jpeg
   lat: 43.48257
   lon: 2.65919
@@ -267,15 +257,9 @@
 - image: IMG_9570.jpeg
   lat: 43.49339
   lon: 2.66689
-- image: IMG_9524.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9587.jpeg
   lat: 43.57196
   lon: 2.74413
-- image: IMG_9568.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9533.jpeg
   lat: 43.40844
   lon: 2.5944
@@ -300,9 +284,6 @@
 - image: IMG_9562.jpeg
   lat: 43.48258
   lon: 2.65912
-- image: IMG_9519.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9606.jpeg
   lat: 43.55835
   lon: 2.80238
@@ -325,15 +306,9 @@
 - image: IMG_9669.jpeg
   lat: 43.71984
   lon: 3.07985
-- image: IMG_9619.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9662.jpeg
   lat: 43.69543
   lon: 3.05331
-- image: IMG_9654.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9639.jpeg
   lat: 43.69923
   lon: 2.93081
@@ -349,9 +324,6 @@
 - image: IMG_9631.jpeg
   lat: 43.60134
   lon: 2.88588
-- image: IMG_9626.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9688.jpeg
   lat: 43.77221
   lon: 3.09011
@@ -374,15 +346,9 @@
 - image: IMG_9727.jpeg
   lat: 43.88869
   lon: 3.44174
-- image: IMG_9747.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9769.jpeg
   lat: 43.80236
   lon: 3.57346
-- image: IMG_9817.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_9732.jpeg
   lat: 43.87936
   lon: 3.46656
@@ -429,14 +395,6 @@
 - image: IMG_9850.jpeg
   lat: 43.71719
   lon: 4.15167
-'2021-05-25':
-- image: plage.jpeg
-  lat: ''
-  lon: ''
-'2021-05-27':
-- image: rescapes.jpeg
-  lat: ''
-  lon: ''
 '2021-09-01':
 - image: IMG_1965.jpeg
   lat: 43.48649
@@ -610,18 +568,12 @@
 - image: IMG_2701.jpeg
   lat: 43.57301
   lon: 3.17998
-- image: IMG_2594.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2606.jpeg
   lat: 43.44606
   lon: 2.80282
 - image: IMG_2597.jpeg
   lat: 43.43904
   lon: 2.78713
-- image: IMG_2667.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2631.jpeg
   lat: 43.48489
   lon: 2.87144
@@ -643,25 +595,13 @@
 - image: IMG_2637.jpeg
   lat: 43.52346
   lon: 2.85148
-- image: IMG_2676.jpeg
-  lat: ''
-  lon: ''
 '2021-10-09':
-- image: IMG_2842.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2711.jpeg
   lat: 43.64383
   lon: 3.23132
 - image: IMG_2794.jpeg
   lat: 43.74027
   lon: 3.48424
-- image: IMG_2782.jpeg
-  lat: ''
-  lon: ''
-- image: IMG_2777.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2833.jpeg
   lat: 43.73825
   lon: 3.53015
@@ -674,9 +614,6 @@
 - image: IMG_2755.jpeg
   lat: 43.66359
   lon: 3.37967
-- image: IMG_2827.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2734.jpeg
   lat: 43.66757
   lon: 3.35759
@@ -686,9 +623,6 @@
 - image: IMG_2754.jpeg
   lat: 43.66469
   lon: 3.3744
-- image: IMG_2800.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2733.jpeg
   lat: 43.66751
   lon: 3.35761
@@ -755,9 +689,6 @@
 - image: IMG_6631.jpeg
   lat: 43.50494
   lon: 2.85012
-- image: IMG_6646.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_6543.jpeg
   lat: 43.38794
   lon: 2.84541
@@ -837,9 +768,6 @@
 - image: IMG_6648.jpeg
   lat: 43.63585
   lon: 3.23039
-- image: IMG_6659.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_6706.jpeg
   lat: 43.6647
   lon: 3.37441
@@ -917,9 +845,6 @@
 - image: IMG_6945.jpeg
   lat: 43.65488
   lon: 3.76923
-- image: IMG_6934.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_6955.jpeg
   lat: 43.51412
   lon: 3.71273
@@ -1377,12 +1302,6 @@
 - image: IMG_2029.jpeg
   lat: 43.52058
   lon: 2.93778
-- image: IMG_2033.jpeg
-  lat: ''
-  lon: ''
-- image: IMG_2043.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2037.jpeg
   lat: 43.53295
   lon: 2.93565
@@ -1390,27 +1309,15 @@
   lat: 43.55311
   lon: 2.79424
 '2023-05-19':
-- image: IMG_2068.jpeg
-  lat: ''
-  lon: ''
-- image: IMG_2072.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2063.jpeg
   lat: 43.42512
   lon: 2.46382
 - image: IMG_2058.jpeg
   lat: 43.55206
   lon: 2.79153
-- image: IMG_2078.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2082.jpeg
   lat: 43.27705
   lon: 2.45068
-- image: IMG_2061.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2076.jpeg
   lat: 43.3188
   lon: 2.43653
@@ -1424,9 +1331,6 @@
 - image: IMG_2183.jpeg
   lat: 43.01223
   lon: 3.06247
-- image: IMG_2101.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2117.jpeg
   lat: 43.13312
   lon: 2.70344
@@ -1469,9 +1373,6 @@
 - image: IMG_2122.jpeg
   lat: 43.11218
   lon: 2.74823
-- image: IMG_2088.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2118.jpeg
   lat: 43.13311
   lon: 2.70346
@@ -1484,9 +1385,6 @@
 - image: IMG_2119.jpeg
   lat: 43.13316
   lon: 2.70348
-- image: IMG_2089.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2174.jpeg
   lat: 42.98986
   lon: 2.886
@@ -1548,18 +1446,12 @@
 - image: IMG_2347.jpeg
   lat: 43.89806
   lon: 3.49847
-- image: IMG_2384.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2329.jpeg
   lat: 43.90985
   lon: 3.48337
 - image: IMG_2328.jpeg
   lat: 43.90983
   lon: 3.48333
-- image: IMG_2390.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_2345.jpeg
   lat: 43.90179
   lon: 3.48662
@@ -1569,9 +1461,6 @@
 - image: IMG_2358.jpeg
   lat: 43.88572
   lon: 3.5134
-- image: IMG_2303.jpeg
-  lat: ''
-  lon: ''
 '2023-06-20':
 - image: IMG_2462.jpeg
   lat: 43.67029
@@ -1717,30 +1606,18 @@
 - image: IMG_3101.jpeg
   lat: 43.37908
   lon: 2.44342
-- image: IMG_3090.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3097.jpeg
   lat: 43.38039
   lon: 2.44419
-- image: IMG_3078.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3081.jpeg
   lat: 43.42418
   lon: 2.42323
-- image: IMG_3146.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3074.jpeg
   lat: 43.4501
   lon: 2.43929
 - image: IMG_3059.jpeg
   lat: 43.41901
   lon: 2.44698
-- image: IMG_3075.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3080.jpeg
   lat: 43.42428
   lon: 2.42329
@@ -1750,18 +1627,12 @@
 - image: IMG_3152.jpeg
   lat: 43.15128
   lon: 2.62272
-- image: IMG_3129.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3095.jpeg
   lat: 43.38037
   lon: 2.4442
 - image: IMG_3060.jpeg
   lat: 43.41931
   lon: 2.463
-- image: IMG_3099.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3077.jpeg
   lat: 43.44291
   lon: 2.44421
@@ -1771,9 +1642,6 @@
 - image: IMG_3082.jpeg
   lat: 43.42419
   lon: 2.42327
-- image: IMG_3112.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3158.jpeg
   lat: 43.1553
   lon: 2.62617
@@ -1796,9 +1664,6 @@
   lat: 43.09147
   lon: 2.72627
 '2023-09-09':
-- image: IMG_3208.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3204.jpeg
   lat: 43.26751
   lon: 3.19411
@@ -1808,36 +1673,21 @@
 - image: IMG_3205.jpeg
   lat: 43.26913
   lon: 3.19721
-- image: IMG_3090.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3182.jpeg
   lat: 43.08286
   lon: 3.06861
 - image: IMG_3097.jpeg
   lat: 43.38039
   lon: 2.44419
-- image: IMG_3078.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3081.jpeg
   lat: 43.42418
   lon: 2.42323
-- image: IMG_3146.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3074.jpeg
   lat: 43.4501
   lon: 2.43929
 - image: IMG_3059.jpeg
   lat: 43.41901
   lon: 2.44698
-- image: IMG_3075.jpeg
-  lat: ''
-  lon: ''
-- image: IMG_3188.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3080.jpeg
   lat: 43.42428
   lon: 2.42329
@@ -1847,12 +1697,6 @@
 - image: IMG_3152.jpeg
   lat: 43.15128
   lon: 2.62272
-- image: IMG_3191.jpeg
-  lat: ''
-  lon: ''
-- image: IMG_3129.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3200.jpeg
   lat: 43.1057
   lon: 3.08415
@@ -1865,9 +1709,6 @@
 - image: IMG_3060.jpeg
   lat: 43.41931
   lon: 2.463
-- image: IMG_3099.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3164.jpeg
   lat: 43.02941
   lon: 2.8602
@@ -1886,9 +1727,6 @@
 - image: IMG_3082.jpeg
   lat: 43.42419
   lon: 2.42327
-- image: IMG_3112.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3158.jpeg
   lat: 43.1553
   lon: 2.62617
@@ -1898,9 +1736,6 @@
 - image: IMG_3115.jpeg
   lat: 43.26254
   lon: 2.46611
-- image: IMG_3197.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3178.jpeg
   lat: 43.06138
   lon: 3.03577
@@ -1910,9 +1745,6 @@
 - image: IMG_3092.jpeg
   lat: 43.38233
   lon: 2.44523
-- image: IMG_3207.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3084.jpeg
   lat: 43.4226
   lon: 2.42166
@@ -1979,18 +1811,12 @@
 - image: IMG_3330.jpeg
   lat: 43.6582
   lon: 3.17106
-- image: IMG_3311.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3294.jpeg
   lat: 43.91331
   lon: 3.49381
 - image: IMG_3304.jpeg
   lat: 43.77885
   lon: 3.44103
-- image: IMG_3298.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3308.jpeg
   lat: 43.73963
   lon: 3.45216
@@ -2001,9 +1827,6 @@
 - image: IMG_3376.jpeg
   lat: 43.54584
   lon: 2.74544
-- image: IMG_3392.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3367.jpeg
   lat: 43.55315
   lon: 2.79411
@@ -2016,18 +1839,9 @@
 - image: IMG_3349.jpeg
   lat: 43.65339
   lon: 2.94189
-- image: IMG_3348.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3363.jpeg
   lat: 43.60243
   lon: 2.85573
-- image: IMG_3380.jpeg
-  lat: ''
-  lon: ''
-- image: IMG_3342.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3381.jpeg
   lat: 43.47927
   lon: 2.53496
@@ -2065,9 +1879,6 @@
 - image: IMG_3448.jpeg
   lat: 43.32656
   lon: 2.4369
-- image: IMG_3452.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_3430.jpeg
   lat: 43.35553
   lon: 2.43413
@@ -2123,9 +1934,6 @@
 - image: IMG_3499.jpeg
   lat: 43.10807
   lon: 3.08791
-- image: IMG_3509.jpeg
-  lat: ''
-  lon: ''
 '2023-11-16':
 - image: IMG_3880.jpeg
   lat: 43.60349
@@ -2679,18 +2487,12 @@
 - image: IMG_5831.jpeg
   lat: 43.03057
   lon: 2.46534
-- image: IMG_5889.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_5885.jpeg
   lat: 42.90001
   lon: 2.74316
 - image: IMG_5892.jpeg
   lat: 42.94354
   lon: 2.83858
-- image: IMG_5806.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_5781.jpeg
   lat: 43.16649
   lon: 2.28005
@@ -2733,9 +2535,6 @@
 - image: IMG_5814.jpeg
   lat: 43.07313
   lon: 2.42232
-- image: IMG_5921.jpeg
-  lat: ''
-  lon: ''
 - image: IMG_5833.jpeg
   lat: 43.03057
   lon: 2.46535
