@@ -11,7 +11,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url    : "https://727bikepackink.fr" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://727bikepacking.fr" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : 727 bikepacking series
