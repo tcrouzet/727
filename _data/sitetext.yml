@@ -19,7 +19,7 @@ fr: &DEFAULT_FR
     button2: Participer
     buttonlink2: "#gd"
     background: /assets/img/sete-bleu.jpeg
-    copyright: "Thierry Crouzet/ECP"
+    copyright: "727bikepacking.fr"
     copyrightlink: "https://727bikepacking.fr"
     copyrightlicence: "(cc)"
     contacturl: "/#contact"
@@ -215,6 +215,9 @@ fr: &DEFAULT_FR
       - title: "FFVélo"
         url: https://ffcyclo.org/
         logo: images/partners/logo-ffv.jpg
+      - title: "Zéfal"
+        url: https://www.zefal.com/
+        logo: images/partners/logo_zefal_2020.png      
       - title: "Geogram"
         url: https://geo.zefal.com/
         logo: images/partners/logo-geogram-small.png
