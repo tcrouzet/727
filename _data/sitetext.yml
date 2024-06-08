@@ -11,7 +11,7 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: 8 mai et 28 septembre 2024
+    title: 28 septembre 2024 et 10 mai 2025
     titlelink: "#gd"
     text: Gravel ou VTT
     button: Découvrir
@@ -20,7 +20,7 @@ fr: &DEFAULT_FR
     buttonlink2: "#gd"
     background: /assets/img/sete-bleu.jpeg
     copyright: "Thierry Crouzet/ECP"
-    copyrightlink: "https://tcrouzet.com"
+    copyrightlink: "https://727bikepacking.fr"
     copyrightlicence: "(cc)"
     contacturl: "/#contact"
 
@@ -29,14 +29,14 @@ fr: &DEFAULT_FR
     text: "Deux parcours VTT, un gravel, de nombreuses variantes"
     section: top
     list:
-      - title: "727"
+      - title: "o727"
         subtitle: VTT
-        desc: "Exploration des frontières de l'Hérault. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
+        desc: "La trace originelle. Exploration des frontières de l'Hérault. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
         link: /727
         icon: fab fa-markdown
       - title: "i727"
         subtitle: VTT
-        desc: "Sans jamais croiser le 727, cette randonnée explore les coins les plus secrets de l'Hérault, en passant par le fameux lac du Salagou."
+        desc: "Sans jamais croiser le o727, cette randonnée explore les coins les plus secrets de l'Hérault, en passant par le fameux lac du Salagou."
         link: /i727
         icon: fas fa-laptop
       - title: "g727"
@@ -50,15 +50,15 @@ fr: &DEFAULT_FR
     text: "Deux départs groupés chaque année"
     section: gd
     list:
-      - title: "8 mai 2024"
-        subtitle: 8 mai 2024
-        desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un 727. Plus de 25 % de singles."
+      - title: "10 mai 2025"
+        subtitle: 10 mai 2025
+        desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un o727. Plus de 25 % de singles."
         link: /727-Grand-Depart/
         icon: fa fa-map
         buttontext: Inscription
       - title: "28 septembre 2024"
         subtitle: 28 septembre 2024
-        desc: "Inaugurée en 2023, la version gravel du 727 revient, avec de magnifiques pistes et paysages."
+        desc: "Inaugurée en 2023, la version gravel revient, avec de magnifiques pistes et paysages. Pure expérience gravel."
         link: /g727-Grand-Depart/
         icon: fa fa-road
         buttontext: Inscription
@@ -105,13 +105,18 @@ fr: &DEFAULT_FR
         alt: ""
       - title: "Professionnalisation"
         year: "Avril 2023"
-        desc: "Je m'associe à ECP (l'entente cycliste poussannaise) et à la mairie de Poussan pour offrir les mêmes prestations que les évènements bien plus honéreux. La FFVélo nous assure. Temps dantesque encore une fois. Décision de partir en mai en 2024."
+        desc: "Je m'associe à ECP (l'entente cycliste poussannaise) et à la mairie de Poussan pour offrir les mêmes prestations que les évènements bien plus honéreux. La FFVélo nous assure. Temps dantesque encore une fois. Décision de partir en mai à partir de 2024."
         image: images/timeline/2023-1.jpg
         alt: ""
       - title: "Premier g727"
         year: "Septembre 2023"
         desc: "Beaucoup de bikepackers me demandaient une trace moins VTT, je suis allé chercher des pistes dans le Gard, le Tarn et l'Aude."
         image: images/timeline/2023-2.jpg
+        alt: ""
+      - title: "i727 2024"
+        year: "Mai"
+        desc: "Temps sublime pour cette édition. Partir en mai était le bon choix même si les évènements bikepacking se bousculent en mai."
+        image: images/timeline/2024-i727.jpg
         alt: ""
     end: "À vous<br>d'écrire<br>la suite!"
 
@@ -120,12 +125,6 @@ fr: &DEFAULT_FR
     text: "Partager, questionner, préparer…"
     section: forum
     list:
-      - title: "Livre d'or"
-        subtitle: "Livre d'or"
-        desc: "Partagez vos histoires sur les 727, commentez, questionnez…"
-        link: /forum/
-        icon: fa fa-commenting
-        buttontext: Partager
       - title: "Groupe Facebook"
         subtitle: Groupe Facebook
         desc: "On s'y retrouve, on y discute, on y partage les news…"
@@ -217,7 +216,7 @@ fr: &DEFAULT_FR
         url: https://ffcyclo.org/
         logo: images/partners/logo-ffv.jpg
       - title: "Geogram"
-        url: https://geogram.tcrouzet.com/
+        url: https://geo.zefal.com/
         logo: images/partners/logo-geogram-small.png
       #- title: "Département de l'Hérault"
       #  url: https://github.com/raviriley/agency-jekyll-theme
