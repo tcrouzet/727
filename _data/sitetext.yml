@@ -217,9 +217,9 @@ fr: &DEFAULT_FR
         logo: images/partners/logo-ffv.jpg
       - title: "Zéfal"
         url: https://www.zefal.com/
-        logo: images/partners/logo_zefal_2020.png      
+        logo: images/partners/logo_zefal.png
       - title: "Geogram"
-        url: https://geo.zefal.com/
+        url: https://github.com/tcrouzet/geogram
         logo: images/partners/logo-geogram-small.png
       #- title: "Département de l'Hérault"
       #  url: https://github.com/raviriley/agency-jekyll-theme
