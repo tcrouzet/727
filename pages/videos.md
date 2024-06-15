@@ -5,6 +5,9 @@ permalink: /videos/
 comments: false
 ---
 
+### g727 2024 entre Carcassonne et Leucate
+
+<div class="video"><iframe src="https://www.youtube.com/embed/Kq6eWIJrdWQ?si=kWcwmMkaWBdjmG1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### i727 2024 diaporama
 
