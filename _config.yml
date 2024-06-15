@@ -14,7 +14,7 @@
 url    : "https://727bikepacking.fr" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 727 bikepacking series
+title      : 727bikepacking.fr
 email      : tc@tcrouzet.com
 description: "Les 727 sont des randonnées bikepacking gravel ou VTT en Occitanie, notamment dans l'Hérault."
 keywords   : "bikepacking,France,gravel,vtt,voyage à vélo,Hérault,Occitanie,cyclotourisme"
