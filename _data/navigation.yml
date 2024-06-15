@@ -13,7 +13,7 @@ fr: &DEFAULT_FR
     - title: "Itinéraires"
       section: top
       subnav:  # Ajout d'un sous-menu
-              - title: "727 vtt"
+              - title: "o727 vtt"
                 url: "/727/"
               - title: "i727 vtt"
                 url: "/i727/"
@@ -34,7 +34,7 @@ fr: &DEFAULT_FR
                 url: "https://www.helloasso.com/associations/ec-poussan/evenements/g727-2024"
               - title: "Accès"
                 url: "/access/"
-              - title: "Règlement 727/i727"
+              - title: "Règlement o727/i727"
                 url: "/727rules/"
               - title: "Règlement g727"
                 url: "/g727rules/"
