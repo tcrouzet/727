@@ -3,26 +3,101 @@
   image: /posts/2023-09-23/IMG_3262.jpeg
   lat: 43.49787
   lon: 3.68382
+- alt: Balaruc-le-Vieux
+  date: 2024:06:04 17:06:38
+  image: /posts/2024-06-04/IMG_5940.jpeg
+  lat: 43.47161
+  lon: 3.70985
+- alt: Balaruc-le-Vieux
+  date: 2024:06:04 17:09:02
+  image: /posts/2024-06-04/IMG_5941.jpeg
+  lat: 43.47057
+  lon: 3.70908
 - alt: Gigean
-  date: 2023:05:29 17:15:13
-  image: /g727/IMG_2211.jpeg
-  lat: 43.49775
-  lon: 3.73761
+  date: 2024:06:04 17:22:59
+  image: /posts/2024-06-04/IMG_5948.jpeg
+  lat: 43.47969
+  lon: 3.72833
 - alt: Gigean
-  date: 2021:10:10 12:28:38
-  image: /posts/2021-10-10/IMG_2877.jpeg
-  lat: 43.49711
-  lon: 3.7384
+  date: 2024:06:04 17:22:55
+  image: /posts/2024-06-04/IMG_5947.jpeg
+  lat: 43.4797
+  lon: 3.7283
 - alt: Gigean
-  date: 2023:05:29 17:19:02
-  image: /posts/2023-05-29/IMG_2213.jpeg
-  lat: 43.50018
-  lon: 3.74103
+  date: 2024:06:04 17:28:00
+  image: /posts/2024-06-04/IMG_5949.jpeg
+  lat: 43.48185
+  lon: 3.73484
+- alt: Frontignan
+  date: 2024:06:04 17:32:11
+  image: /posts/2024-06-04/IMG_5950.jpeg
+  lat: 43.48215
+  lon: 3.74791
+- alt: Frontignan
+  date: 2021:10:10 13:59:48
+  image: /posts/2021-10-10/IMG_2892.jpeg
+  lat: 43.48216
+  lon: 3.7492
+- alt: Frontignan
+  date: 2021:10:10 13:59:50
+  image: /posts/2021-10-10/IMG_2894.jpeg
+  lat: 43.48216
+  lon: 3.7492
+- alt: Frontignan
+  date: 2023:01:16 15:49:00
+  image: /posts/2023-01-16/IMG_0767.jpeg
+  lat: 43.48217
+  lon: 3.74897
+- alt: Frontignan
+  date: 2024:06:04 17:33:46
+  image: /posts/2024-06-04/IMG_5955.jpeg
+  lat: 43.4825
+  lon: 3.75032
+- alt: Vic-la-Gardiole
+  date: 2023:01:04 14:14:19
+  image: /g727/IMG_0622.jpeg
+  lat: 43.49058
+  lon: 3.75888
+- alt: Vic-la-Gardiole
+  date: 2022:04:05 15:44:36
+  image: /posts/2022-04-05/IMG_6960.jpeg
+  lat: 43.49056
+  lon: 3.75888
+- alt: Vic-la-Gardiole
+  date: 2022:04:05 15:44:36
+  image: /727/10-Gardiole.jpeg
+  lat: 43.49056
+  lon: 3.75888
+- alt: Fabrègues
+  date: 2024:06:04 17:43:13
+  image: /posts/2024-06-04/IMG_5959.jpeg
+  lat: 43.49687
+  lon: 3.75262
+- alt: Fabrègues
+  date: 2024:06:04 17:45:14
+  image: /posts/2024-06-04/IMG_5961.jpeg
+  lat: 43.502
+  lon: 3.75524
+- alt: Fabrègues
+  date: 2023:01:16 15:33:06
+  image: /posts/2023-01-16/IMG_0764.jpeg
+  lat: 43.50289
+  lon: 3.75385
 - alt: Mireval
-  date: 2023:02:12 13:21:23
-  image: /g727/IMG_1041.jpeg
-  lat: 43.51414
-  lon: 3.79452
+  date: 2024:06:04 18:13:44
+  image: /posts/2024-06-04/IMG_5991.jpeg
+  lat: 43.51828
+  lon: 3.77711
+- alt: Mireval
+  date: 2024:06:04 18:15:04
+  image: /posts/2024-06-04/IMG_5993.jpeg
+  lat: 43.51884
+  lon: 3.77908
+- alt: Mireval
+  date: 2024:06:04 18:31:01
+  image: /posts/2024-06-04/IMG_5996.jpeg
+  lat: 43.51095
+  lon: 3.79306
 - alt: Mireval
   date: 2023:07:26 14:42:25
   image: /posts/2023-07-26/IMG_2888.jpeg
@@ -39,6 +114,11 @@
   lat: 43.50734
   lon: 3.8363
 - alt: Villeneuve-lès-Maguelone
+  date: 2024:05:23 16:24:47
+  image: /posts/2024-05-23/IMG_5744.jpeg
+  lat: 43.50765
+  lon: 3.83681
+- alt: Villeneuve-lès-Maguelone
   date: 2023:07:26 14:39:09
   image: /posts/2023-07-26/IMG_2881.jpeg
   lat: 43.50757
@@ -53,211 +133,41 @@
   image: /posts/2023-07-26/IMG_2880.jpeg
   lat: 43.50991
   lon: 3.84688
+- alt: Villeneuve-lès-Maguelone
+  date: 2024:05:23 16:12:24
+  image: /posts/2024-05-23/IMG_5738.jpeg
+  lat: 43.51231
+  lon: 3.86394
+- alt: Villeneuve-lès-Maguelone
+  date: 2024:05:23 16:12:30
+  image: /posts/2024-05-23/IMG_5740.jpeg
+  lat: 43.51234
+  lon: 3.86393
+- alt: Palavas-les-Flots
+  date: 2020:09:25 10:01:13
+  image: /727/IMG_3416.jpeg
+  lat: 43.53478
+  lon: 3.91957
 - alt: Lattes
   date: 2023:07:26 13:56:35
   image: /posts/2023-07-26/IMG_2868.jpeg
   lat: 43.56284
   lon: 3.91622
-- alt: Lattes
-  date: 2023:07:26 13:44:04
-  image: /posts/2023-07-26/IMG_2865.jpeg
-  lat: 43.55181
-  lon: 3.95008
-- alt: Pérols
-  date: 2023:07:26 13:32:55
-  image: /posts/2023-07-26/IMG_2863.jpeg
-  lat: 43.55154
-  lon: 3.96813
-- alt: La Grande-Motte
-  date: 2023:01:18 11:26:14
-  image: /posts/2023-01-18/IMG_0787.jpeg
-  lat: 43.55998
-  lon: 4.0382
-- alt: La Grande-Motte
-  date: 2023:01:18 11:25:26
-  image: /posts/2023-01-18/IMG_0786.jpeg
-  lat: 43.56038
-  lon: 4.03809
-- alt: La Grande-Motte
-  date: 2023:09:23 10:57:14
-  image: /posts/2023-09-23/IMG_3266.jpeg
-  lat: 43.55999
-  lon: 4.08216
-- alt: La Grande-Motte
-  date: 2023:07:26 11:29:03
-  image: /posts/2023-07-26/IMG_2862.jpeg
-  lat: 43.55992
-  lon: 4.08246
-- alt: La Grande-Motte
-  date: 2023:09:23 11:11:28
-  image: /posts/2023-09-23/IMG_3269.jpeg
-  lat: 43.55811
-  lon: 4.09264
-- alt: La Grande-Motte
-  date: 2023:01:18 14:43:28
-  image: /posts/2023-01-18/IMG_0855.jpeg
-  lat: 43.5546
-  lon: 4.09894
-- alt: La Grande-Motte
-  date: 2023:01:18 14:43:21
-  image: /posts/2023-01-18/IMG_0854.jpeg
-  lat: 43.55465
-  lon: 4.09896
-- alt: Le Grau-du-Roi
-  date: 2023:01:18 12:05:32
-  image: /posts/2023-01-18/IMG_0800.jpeg
-  lat: 43.55667
-  lon: 4.12434
-- alt: Aigues-Mortes
-  date: 2023:07:26 10:55:24
-  image: /posts/2023-07-26/IMG_2858.jpeg
-  lat: 43.56033
-  lon: 4.1441
-- alt: Aigues-Mortes
-  date: 2023:07:26 10:55:20
-  image: /posts/2023-07-26/IMG_2857.jpeg
-  lat: 43.56041
-  lon: 4.14413
-- alt: Aigues-Mortes
-  date: 2023:01:18 12:37:52
-  image: /posts/2023-01-18/IMG_0810.jpeg
-  lat: 43.57413
-  lon: 4.16334
-- alt: Aigues-Mortes
-  date: 2022:12:06 14:16:45
-  image: /g727/AigesMortes.jpeg
-  lat: 43.568
-  lon: 4.19063
-- alt: Aigues-Mortes
-  date: 2022:12:06 14:16:45
-  image: /posts/2022-12-06/IMG_0392.jpeg
-  lat: 43.568
-  lon: 4.19063
-- alt: Aigues-Mortes
-  date: 2022:12:06 14:16:45
-  image: /727/AigesMortes.jpeg
-  lat: 43.568
-  lon: 4.19063
-- alt: Saint-Laurent-d'Aigouze
-  date: 2023:07:26 09:44:57
-  image: /posts/2023-07-26/IMG_2853.jpeg
-  lat: 43.58748
-  lon: 4.21552
-- alt: Vauvert
-  date: 2023:09:14 11:37:04
-  image: /posts/2023-09-14/IMG_3248.jpeg
-  lat: 43.63123
-  lon: 4.27668
-- alt: Vauvert
-  date: 2023:09:14 11:36:09
-  image: /posts/2023-09-14/IMG_3246.jpeg
-  lat: 43.63116
-  lon: 4.27656
-- alt: Vauvert
-  date: 2023:09:14 11:38:37
-  image: /posts/2023-09-14/IMG_3249.jpeg
-  lat: 43.63213
-  lon: 4.27802
-- alt: Le Cailar
-  date: 2023:09:14 11:54:56
-  image: /posts/2023-09-14/IMG_3251.jpeg
-  lat: 43.66051
-  lon: 4.25143
-- alt: Gallargues-le-Montueux
-  date: 2023:09:14 12:36:57
-  image: /posts/2023-09-14/IMG_3255.jpeg
-  lat: 43.7085
-  lon: 4.16236
-- alt: Villetelle
-  date: 2022:12:06 12:28:17
-  image: /posts/2022-12-06/IMG_0375.jpeg
-  lat: 43.71673
-  lon: 4.15204
-- alt: Villetelle
-  date: 2020:09:25 12:51:49
-  image: /727/IMG_3451.jpeg
-  lat: 43.71663
-  lon: 4.15194
-- alt: Villetelle
-  date: 2021:05:24 11:38:35
-  image: /posts/2021-05-24/IMG_9850.jpeg
-  lat: 43.71719
-  lon: 4.15167
-- alt: Gallargues-le-Montueux
-  date: 2023:06:02 09:20:48
-  image: /g727/IMG_2239.jpeg
-  lat: 43.71784
-  lon: 4.15223
-- alt: Aubais
-  date: 2023:05:03 16:16:00
-  image: /g727/IMG_1876.jpeg
-  lat: 43.73976
-  lon: 4.12465
-- alt: Aubais
-  date: 2023:05:03 16:16:00
-  image: /posts/2023-05-03/IMG_1876.jpeg
-  lat: 43.73976
-  lon: 4.12465
-- alt: Sommières
-  date: 2023:05:03 16:00:41
-  image: /g727/IMG_1873.jpeg
-  lat: 43.76284
-  lon: 4.09444
-- alt: Sommières
-  date: 2023:05:03 16:00:41
-  image: /posts/2023-05-03/IMG_1873.jpeg
-  lat: 43.76284
-  lon: 4.09444
-- alt: Fontanès
-  date: 2023:06:02 11:10:33
-  image: /g727/IMG_2243.jpeg
-  lat: 43.84019
-  lon: 4.07798
-- alt: Fontanès
-  date: 2023:06:02 11:10:33
-  image: /posts/2023-06-02/IMG_2243.jpeg
-  lat: 43.84019
-  lon: 4.07798
-- alt: Sauve
-  date: 2023:09:23 17:05:03
-  image: /posts/2023-09-23/IMG_3277.jpeg
-  lat: 43.93555
-  lon: 3.95825
-- alt: Sauve
-  date: 2023:06:02 14:08:58
-  image: /g727/IMG_2259.jpeg
-  lat: 43.93979
-  lon: 3.95088
-- alt: Sauve
-  date: 2023:06:02 14:08:18
-  image: /g727/IMG_2257.jpeg
-  lat: 43.93982
-  lon: 3.95092
-- alt: Sauve
-  date: 2023:06:02 14:08:58
-  image: /posts/2023-06-02/IMG_2259.jpeg
-  lat: 43.93979
-  lon: 3.95088
-- alt: Saint-Hippolyte-du-Fort
-  date: 2023:06:02 14:59:29
-  image: /g727/IMG_2268.jpeg
-  lat: 43.94861
-  lon: 3.85077
-- alt: Saint-Hippolyte-du-Fort
-  date: 2023:06:02 15:01:10
-  image: /posts/2023-06-02/IMG_2272.jpeg
-  lat: 43.94692
-  lon: 3.84696
-- alt: Saint-Hippolyte-du-Fort
-  date: 2023:06:02 15:01:19
-  image: /posts/2023-06-02/IMG_2273.jpeg
-  lat: 43.94686
-  lon: 3.84693
-- alt: La Cadière-et-Cambo
-  date: 2023:06:02 15:54:08
-  image: /posts/2023-06-02/IMG_2278.jpeg
-  lat: 43.95645
-  lon: 3.79681
+- alt: Montaud
+  date: 2022:04:04 20:45:46
+  image: /posts/2022-04-04/IMG_6924.jpeg
+  lat: 43.74651
+  lon: 3.94175
+- alt: Claret
+  date: 2021:05:23 21:25:03
+  image: /posts/2021-05-23/IMG_9822.jpeg
+  lat: 43.87724
+  lon: 3.87107
+- alt: Claret
+  date: 2021:05:23 21:16:35
+  image: /posts/2021-05-23/IMG_9813.jpeg
+  lat: 43.87534
+  lon: 3.8687
 - alt: Saint-Laurent-le-Minier
   date: 2023:06:02 19:18:40
   image: /posts/2023-06-02/IMG_2290.jpeg
@@ -353,176 +263,66 @@
   image: /posts/2023-06-03/IMG_2358.jpeg
   lat: 43.88572
   lon: 3.5134
-- alt: Saint-Pierre-de-la-Fage
-  date: 2023:09:24 12:30:03
-  image: /posts/2023-09-24/IMG_3304.jpeg
-  lat: 43.77885
-  lon: 3.44103
-- alt: Saint-Privat
-  date: 2023:09:24 12:55:32
-  image: /posts/2023-09-24/IMG_3306.jpeg
-  lat: 43.74364
-  lon: 3.45783
-- alt: Saint-Saturnin-de-Lucian
-  date: 2022:04:03 16:24:48
-  image: /posts/2022-04-03/IMG_6741.jpeg
-  lat: 43.73515
-  lon: 3.45338
-- alt: Saint-Privat
-  date: 2023:09:24 13:18:35
-  image: /posts/2023-09-24/IMG_3308.jpeg
-  lat: 43.73963
-  lon: 3.45216
-- alt: Le Bosc
-  date: 2023:09:24 14:26:16
-  image: /posts/2023-09-24/IMG_3314.jpeg
-  lat: 43.67389
-  lon: 3.40702
-- alt: Lacoste
-  date: 2023:09:24 14:47:32
-  image: /posts/2023-09-24/IMG_3316.jpeg
-  lat: 43.65906
-  lon: 3.39896
-- alt: Lacoste
-  date: 2022:04:03 14:06:56
-  image: /posts/2022-04-03/IMG_6718.jpeg
-  lat: 43.65904
-  lon: 3.39901
-- alt: Clermont-l'Hérault
-  date: 2021:06:23 07:20:45
-  image: /i727/IMG_0353.jpeg
-  lat: 43.66163
-  lon: 3.39281
-- alt: Celles
-  date: 2023:07:02 11:25:37
-  image: /g727/IMG_2576.jpeg
-  lat: 43.66269
-  lon: 3.38094
-- alt: Celles
-  date: 2023:07:02 11:25:37
-  image: /posts/2023-07-02/IMG_2576.jpeg
-  lat: 43.66269
-  lon: 3.38094
-- alt: Celles
-  date: 2023:07:02 11:25:43
-  image: /posts/2023-07-02/IMG_2578.jpeg
-  lat: 43.66269
-  lon: 3.38093
-- alt: Celles
-  date: 2023:07:02 11:25:24
-  image: /posts/2023-07-02/IMG_2574.jpeg
-  lat: 43.66274
-  lon: 3.38099
-- alt: Celles
-  date: 2022:04:03 13:56:13
-  image: /posts/2022-04-03/IMG_6711.jpeg
-  lat: 43.66332
-  lon: 3.37993
-- alt: Celles
-  date: 2021:10:09 12:07:27
-  image: /posts/2021-10-09/IMG_2755.jpeg
-  lat: 43.66359
-  lon: 3.37967
-- alt: Celles
-  date: 2023:07:02 11:22:47
-  image: /posts/2023-07-02/IMG_2569.jpeg
-  lat: 43.66437
-  lon: 3.37521
-- alt: Celles
-  date: 2022:04:03 13:52:44
-  image: /posts/2022-04-03/IMG_6706.jpeg
-  lat: 43.6647
-  lon: 3.37441
-- alt: Celles
-  date: 2021:10:09 12:04:45
-  image: /posts/2021-10-09/IMG_2754.jpeg
-  lat: 43.66469
-  lon: 3.3744
-- alt: Celles
-  date: 2021:10:09 12:04:45
-  image: /i727/IMG_2754.jpeg
-  lat: 43.66469
-  lon: 3.3744
-- alt: Celles
-  date: 2023:07:02 11:18:38
-  image: /posts/2023-07-02/IMG_2563.jpeg
-  lat: 43.66609
-  lon: 3.36651
-- alt: Celles
-  date: 2023:07:02 11:18:53
-  image: /posts/2023-07-02/IMG_2565.jpeg
-  lat: 43.66604
-  lon: 3.36659
-- alt: Celles
-  date: 2023:07:02 11:15:05
-  image: /posts/2023-07-02/IMG_2562.jpeg
-  lat: 43.67017
-  lon: 3.35989
-- alt: Celles
-  date: 2022:04:03 12:19:08
-  image: /posts/2022-04-03/IMG_6679.jpeg
-  lat: 43.65864
-  lon: 3.3344
-- alt: Octon
-  date: 2023:07:02 10:47:18
-  image: /posts/2023-07-02/IMG_2561.jpeg
-  lat: 43.65345
-  lon: 3.32903
-- alt: Octon
-  date: 2023:07:02 08:57:30
-  image: /posts/2023-07-02/IMG_2545.jpeg
-  lat: 43.66018
-  lon: 3.26859
-- alt: La Tour-sur-Orb
-  date: 2023:09:24 17:54:22
-  image: /posts/2023-09-24/IMG_3330.jpeg
-  lat: 43.6582
-  lon: 3.17106
-- alt: La Tour-sur-Orb
-  date: 2023:07:02 09:35:58
-  image: /posts/2023-07-02/IMG_2552.jpeg
-  lat: 43.6582
-  lon: 3.17111
-- alt: Rosis
-  date: 2023:09:25 07:58:23
-  image: /posts/2023-09-25/IMG_3335.jpeg
-  lat: 43.66282
-  lon: 3.01628
-- alt: Rosis
-  date: 2023:06:20 09:01:27
-  image: /posts/2023-06-20/IMG_2467.jpeg
-  lat: 43.66352
-  lon: 3.01547
-- alt: Rosis
-  date: 2023:06:20 09:02:32
-  image: /g727/IMG_2471.jpeg
-  lat: 43.66426
-  lon: 3.01382
-- alt: Rosis
-  date: 2023:06:20 09:01:52
-  image: /posts/2023-06-20/IMG_2470.jpeg
-  lat: 43.66431
-  lon: 3.01392
-- alt: Rosis
-  date: 2023:06:20 09:02:32
-  image: /posts/2023-06-20/IMG_2471.jpeg
-  lat: 43.66426
-  lon: 3.01382
-- alt: Rosis
-  date: 2023:06:20 09:05:45
-  image: /posts/2023-06-20/IMG_2473.jpeg
-  lat: 43.6651
-  lon: 3.00877
-- alt: Rosis
-  date: 2023:06:20 09:19:27
-  image: /g727/IMG_2476.jpeg
-  lat: 43.66517
-  lon: 2.99917
-- alt: Rosis
-  date: 2023:06:20 09:19:27
-  image: /posts/2023-06-20/IMG_2476.jpeg
-  lat: 43.66517
-  lon: 2.99917
+- alt: Ceilhes-et-Rocozels
+  date: 2022:11:24 11:52:04
+  image: /posts/2022-11-24/IMG_0129.jpeg
+  lat: 43.80299
+  lon: 3.10373
+- alt: Avène
+  date: 2022:11:24 11:24:37
+  image: /posts/2022-11-24/IMG_0127.jpeg
+  lat: 43.78089
+  lon: 3.08385
+- alt: Avène
+  date: 2022:11:24 11:21:56
+  image: /posts/2022-11-24/IMG_0117.jpeg
+  lat: 43.77992
+  lon: 3.08429
+- alt: Avène
+  date: 2022:11:24 11:21:56
+  image: /727/IMG_0117.jpeg
+  lat: 43.77992
+  lon: 3.08429
+- alt: Avène
+  date: 2022:11:24 11:07:24
+  image: /posts/2022-11-24/IMG_0111.jpeg
+  lat: 43.77021
+  lon: 3.07773
+- alt: Avène
+  date: 2022:11:24 11:02:15
+  image: /posts/2022-11-24/IMG_0109.jpeg
+  lat: 43.76196
+  lon: 3.08621
+- alt: Avène
+  date: 2022:11:24 11:02:06
+  image: /posts/2022-11-24/IMG_0105.jpeg
+  lat: 43.76194
+  lon: 3.08623
+- alt: Avène
+  date: 2022:11:24 10:50:47
+  image: /posts/2022-11-24/IMG_0102.jpeg
+  lat: 43.7594
+  lon: 3.09345
+- alt: Avène
+  date: 2022:11:24 10:49:10
+  image: /posts/2022-11-24/IMG_0098.jpeg
+  lat: 43.75943
+  lon: 3.09339
+- alt: Avène
+  date: 2021:04:04 10:56:20
+  image: /727/IMG_8881.jpeg
+  lat: 43.71944
+  lon: 3.06448
+- alt: Saint-Gervais-sur-Mare
+  date: 2021:05:22 13:54:07
+  image: /posts/2021-05-22/IMG_9662.jpeg
+  lat: 43.69543
+  lon: 3.05331
+- alt: Saint-Geniès-de-Varensal
+  date: 2021:04:04 09:43:48
+  image: /727/IMG_8857.jpeg
+  lat: 43.69784
+  lon: 3.01602
 - alt: Castanet-le-Haut
   date: 2023:09:25 11:11:06
   image: /posts/2023-09-25/IMG_3349.jpeg
@@ -643,306 +443,156 @@
   image: /posts/2023-09-25/IMG_3390.jpeg
   lat: 43.47488
   lon: 2.50711
-- alt: Mazamet
-  date: 2023:09:08 11:36:57
-  image: /posts/2023-09-09/IMG_3074.jpeg
-  lat: 43.4501
-  lon: 2.43929
-- alt: Mazamet
-  date: 2023:09:08 11:36:57
-  image: /posts/2023-09-08/IMG_3074.jpeg
-  lat: 43.4501
-  lon: 2.43929
-- alt: Mazamet
-  date: 2023:09:08 11:41:55
-  image: /posts/2023-09-09/IMG_3077.jpeg
-  lat: 43.44291
-  lon: 2.44421
-- alt: Mazamet
-  date: 2023:09:08 11:41:55
-  image: /posts/2023-09-08/IMG_3077.jpeg
-  lat: 43.44291
-  lon: 2.44421
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:03:53
-  image: /posts/2023-09-09/IMG_3080.jpeg
-  lat: 43.42428
-  lon: 2.42329
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:03:53
-  image: /posts/2023-09-08/IMG_3080.jpeg
-  lat: 43.42428
-  lon: 2.42329
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:03:57
-  image: /posts/2023-09-09/IMG_3081.jpeg
-  lat: 43.42418
-  lon: 2.42323
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:04:08
-  image: /posts/2023-09-09/IMG_3082.jpeg
-  lat: 43.42419
-  lon: 2.42327
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:03:57
-  image: /posts/2023-09-08/IMG_3081.jpeg
-  lat: 43.42418
-  lon: 2.42323
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:04:08
-  image: /posts/2023-09-08/IMG_3082.jpeg
-  lat: 43.42419
-  lon: 2.42327
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:05:16
-  image: /posts/2023-09-09/IMG_3084.jpeg
-  lat: 43.4226
-  lon: 2.42166
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:05:16
-  image: /posts/2023-09-08/IMG_3084.jpeg
-  lat: 43.4226
-  lon: 2.42166
-- alt: Pradelles-Cabardès
-  date: 2023:09:25 19:14:15
-  image: /posts/2023-09-25/IMG_3397.jpeg
-  lat: 43.40195
-  lon: 2.44036
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:18:34
-  image: /posts/2023-09-09/IMG_3089.jpeg
-  lat: 43.402
-  lon: 2.44142
-- alt: Pradelles-Cabardès
-  date: 2023:09:08 12:18:34
-  image: /posts/2023-09-08/IMG_3089.jpeg
-  lat: 43.402
-  lon: 2.44142
-- alt: Pradelles-Cabardès
-  date: 2023:09:26 07:23:06
-  image: /posts/2023-09-26/IMG_3404.jpeg
-  lat: 43.38676
-  lon: 2.44468
-- alt: Cabrespine
-  date: 2023:09:08 12:45:24
-  image: /posts/2023-09-09/IMG_3097.jpeg
-  lat: 43.38039
-  lon: 2.44419
-- alt: Cabrespine
-  date: 2023:09:08 12:45:18
-  image: /posts/2023-09-09/IMG_3095.jpeg
-  lat: 43.38037
-  lon: 2.4442
-- alt: Cabrespine
-  date: 2023:09:08 12:45:24
-  image: /posts/2023-09-08/IMG_3097.jpeg
-  lat: 43.38039
-  lon: 2.44419
-- alt: Cabrespine
-  date: 2023:09:08 12:45:18
-  image: /posts/2023-09-08/IMG_3095.jpeg
-  lat: 43.38037
-  lon: 2.4442
-- alt: Cabrespine
-  date: 2023:09:08 12:47:54
-  image: /posts/2023-09-09/IMG_3101.jpeg
-  lat: 43.37908
-  lon: 2.44342
-- alt: Cabrespine
-  date: 2023:09:08 12:47:54
-  image: /posts/2023-09-08/IMG_3101.jpeg
-  lat: 43.37908
-  lon: 2.44342
-- alt: Cabrespine
-  date: 2023:09:08 12:47:54
-  image: /727gd/IMG_3101.jpeg
-  lat: 43.37908
-  lon: 2.44342
-- alt: Fournes-Cabardès
-  date: 2023:09:26 08:02:36
-  image: /posts/2023-09-26/IMG_3426 (1).jpeg
-  lat: 43.36496
-  lon: 2.436
-- alt: Fournes-Cabardès
-  date: 2023:09:26 08:02:36
-  image: /posts/2023-09-26/IMG_3426.jpeg
-  lat: 43.36496
-  lon: 2.436
-- alt: Trassanel
-  date: 2023:09:26 08:09:44
-  image: /posts/2023-09-26/IMG_3430.jpeg
-  lat: 43.35553
-  lon: 2.43413
-- alt: Trassanel
-  date: 2023:09:26 08:13:30
-  image: /posts/2023-09-26/IMG_3435.jpeg
-  lat: 43.34776
-  lon: 2.43429
-- alt: Villeneuve-Minervois
-  date: 2023:09:26 08:30:04
-  image: /posts/2023-09-26/IMG_3448.jpeg
-  lat: 43.32656
-  lon: 2.4369
-- alt: Villeneuve-Minervois
-  date: 2023:09:26 08:31:34
-  image: /posts/2023-09-26/IMG_3450.jpeg
-  lat: 43.32326
-  lon: 2.43703
-- alt: Villeneuve-Minervois
-  date: 2023:09:26 08:31:34
-  image: /727gd/IMG_3450.jpeg
-  lat: 43.32326
-  lon: 2.43703
-- alt: Villeneuve-Minervois
-  date: 2023:05:19 19:35:33
-  image: /posts/2023-05-19/IMG_2076.jpeg
-  lat: 43.3188
-  lon: 2.43653
-- alt: Villeneuve-Minervois
-  date: 2023:05:19 19:40:20
-  image: /g727/IMG_2080.jpeg
-  lat: 43.31163
-  lon: 2.43554
-- alt: Bagnoles
-  date: 2023:09:08 14:29:10
-  image: /posts/2023-09-09/IMG_3115.jpeg
-  lat: 43.26254
-  lon: 2.46611
-- alt: Bagnoles
-  date: 2023:09:08 14:29:10
-  image: /posts/2023-09-08/IMG_3115.jpeg
-  lat: 43.26254
-  lon: 2.46611
-- alt: Trèbes
-  date: 2023:09:08 15:20:32
-  image: /posts/2023-09-09/IMG_3124.jpeg
-  lat: 43.20657
-  lon: 2.44937
-- alt: Trèbes
-  date: 2023:09:08 15:20:32
-  image: /posts/2023-09-08/IMG_3124.jpeg
-  lat: 43.20657
-  lon: 2.44937
-- alt: Trèbes
-  date: 2023:05:20 09:30:25
-  image: /posts/2023-05-20/IMG_2092.jpeg
-  lat: 43.20663
-  lon: 2.44926
-- alt: Puichéric
-  date: 2023:05:20 10:15:47
-  image: /g727/IMG_2095.jpeg
-  lat: 43.22856
-  lon: 2.60064
-- alt: Moux
-  date: 2023:05:20 10:43:23
-  image: /posts/2023-05-20/IMG_2099.jpeg
-  lat: 43.19016
-  lon: 2.65821
-- alt: Conilhac-Corbières
-  date: 2023:05:20 11:34:17
-  image: /posts/2023-05-20/IMG_2108.jpeg
-  lat: 43.17302
-  lon: 2.71355
-- alt: Fabrezan
-  date: 2023:05:20 12:17:43
-  image: /posts/2023-05-20/IMG_2113.jpeg
-  lat: 43.14306
-  lon: 2.68571
-- alt: Fabrezan
-  date: 2023:05:20 14:02:06
-  image: /posts/2023-05-20/IMG_2117.jpeg
-  lat: 43.13312
-  lon: 2.70344
-- alt: Fabrezan
-  date: 2023:05:20 14:02:15
-  image: /posts/2023-05-20/IMG_2118.jpeg
-  lat: 43.13311
-  lon: 2.70346
-- alt: Fabrezan
-  date: 2023:05:20 14:02:26
-  image: /posts/2023-05-20/IMG_2119.jpeg
-  lat: 43.13316
-  lon: 2.70348
-- alt: Fabrezan
-  date: 2023:05:20 14:24:41
-  image: /posts/2023-05-20/IMG_2122.jpeg
-  lat: 43.11218
-  lon: 2.74823
-- alt: Thézan-des-Corbières
-  date: 2023:05:20 14:25:50
-  image: /g727/IMG_2128.jpeg
-  lat: 43.11151
-  lon: 2.74968
-- alt: Thézan-des-Corbières
-  date: 2023:05:20 14:25:50
-  image: /posts/2023-05-20/IMG_2128.jpeg
-  lat: 43.11151
-  lon: 2.74968
-- alt: Thézan-des-Corbières
-  date: 2023:05:20 14:28:42
-  image: /posts/2023-05-20/IMG_2132.jpeg
-  lat: 43.10818
-  lon: 2.7552
-- alt: Thézan-des-Corbières
-  date: 2023:05:20 14:55:02
-  image: /posts/2023-05-20/IMG_2137.jpeg
-  lat: 43.08556
-  lon: 2.7672
-- alt: Fontjoncouse
-  date: 2023:05:20 16:16:13
-  image: /posts/2023-05-20/IMG_2145.jpeg
-  lat: 43.03039
-  lon: 2.80546
-- alt: Durban-Corbières
-  date: 2023:05:20 16:19:19
-  image: /posts/2023-05-20/IMG_2148.jpeg
-  lat: 43.02766
-  lon: 2.80921
-- alt: Durban-Corbières
-  date: 2023:09:26 16:50:37
-  image: /posts/2023-09-26/IMG_3455.jpeg
-  lat: 43.0235
-  lon: 2.81314
-- alt: Durban-Corbières
-  date: 2023:09:26 16:56:04
-  image: /posts/2023-09-26/IMG_3458.jpeg
-  lat: 43.01315
-  lon: 2.81736
-- alt: Villesèque-des-Corbières
-  date: 2023:09:09 07:59:02
-  image: /posts/2023-09-09/IMG_3164.jpeg
-  lat: 43.02941
-  lon: 2.8602
-- alt: Villesèque-des-Corbières
-  date: 2023:09:26 17:49:44
-  image: /posts/2023-09-26/IMG_3471.jpeg
-  lat: 43.02962
-  lon: 2.86281
-- alt: Villesèque-des-Corbières
-  date: 2023:09:09 08:06:36
-  image: /posts/2023-09-09/IMG_3165.jpeg
-  lat: 43.02864
-  lon: 2.86415
-- alt: Villesèque-des-Corbières
-  date: 2023:09:26 18:03:55
-  image: /posts/2023-09-26/IMG_3474.jpeg
-  lat: 43.01644
-  lon: 2.86734
-- alt: Roquefort-des-Corbières
-  date: 2023:05:20 17:47:31
-  image: /posts/2023-05-20/IMG_2174.jpeg
-  lat: 42.98986
-  lon: 2.886
-- alt: Roquefort-des-Corbières
-  date: 2023:09:27 07:10:54
-  image: /posts/2023-09-27/IMG_3481.jpeg
-  lat: 42.98961
-  lon: 2.88627
-- alt: Roquefort-des-Corbières
-  date: 2023:05:20 17:47:51
-  image: /posts/2023-05-20/IMG_2177.jpeg
-  lat: 42.98966
-  lon: 2.88634
+- alt: Carcassonne
+  date: 2024:05:31 12:19:14
+  image: /posts/2024-05-31/IMG_5773.jpeg
+  lat: 43.20619
+  lon: 2.36232
+- alt: Carcassonne
+  date: 2024:05:31 12:14:03
+  image: /posts/2024-05-31/IMG_5768.jpeg
+  lat: 43.20716
+  lon: 2.36592
+- alt: Greffeil
+  date: 2024:05:31 15:11:40
+  image: /posts/2024-05-31/IMG_5805.jpeg
+  lat: 43.08713
+  lon: 2.39534
+- alt: Greffeil
+  date: 2024:05:31 15:11:37
+  image: /posts/2024-05-31/IMG_5804.jpeg
+  lat: 43.08716
+  lon: 2.39537
+- alt: Greffeil
+  date: 2024:05:31 15:30:52
+  image: /posts/2024-05-31/IMG_5808.jpeg
+  lat: 43.0728
+  lon: 2.41169
+- alt: Greffeil
+  date: 2024:05:31 15:43:45
+  image: /posts/2024-05-31/IMG_5814.jpeg
+  lat: 43.07313
+  lon: 2.42232
+- alt: Labastide-en-Val
+  date: 2024:05:31 16:44:18
+  image: /posts/2024-05-31/IMG_5822.jpeg
+  lat: 43.03456
+  lon: 2.47564
+- alt: Labastide-en-Val
+  date: 2024:05:31 16:45:17
+  image: /posts/2024-05-31/IMG_5825.jpeg
+  lat: 43.03269
+  lon: 2.47389
+- alt: Labastide-en-Val
+  date: 2024:05:31 16:46:01
+  image: /posts/2024-05-31/IMG_5827.jpeg
+  lat: 43.03195
+  lon: 2.47396
+- alt: Lairière
+  date: 2024:05:31 16:48:40
+  image: /posts/2024-05-31/IMG_5831.jpeg
+  lat: 43.03057
+  lon: 2.46534
+- alt: Lairière
+  date: 2024:05:31 16:48:46
+  image: /posts/2024-05-31/IMG_5833.jpeg
+  lat: 43.03057
+  lon: 2.46535
+- alt: Lairière
+  date: 2024:05:31 16:55:20
+  image: /posts/2024-05-31/IMG_5836.jpeg
+  lat: 43.02887
+  lon: 2.47591
+- alt: Vignevieille
+  date: 2024:05:31 17:16:09
+  image: /posts/2024-05-31/IMG_5840.jpeg
+  lat: 43.02886
+  lon: 2.53474
+- alt: Vignevieille
+  date: 2024:05:31 17:20:59
+  image: /posts/2024-05-31/IMG_5844.jpeg
+  lat: 43.02842
+  lon: 2.54367
+- alt: Vignevieille
+  date: 2024:05:31 17:39:03
+  image: /posts/2024-05-31/IMG_5848.jpeg
+  lat: 43.0125
+  lon: 2.54439
+- alt: Termes
+  date: 2024:05:31 18:24:48
+  image: /posts/2024-05-31/IMG_5860.jpeg
+  lat: 42.99661
+  lon: 2.583
+- alt: Termes
+  date: 2024:05:31 18:27:14
+  image: /posts/2024-05-31/IMG_5865.jpeg
+  lat: 42.99736
+  lon: 2.58812
+- alt: Félines-Termenès
+  date: 2024:05:31 19:05:52
+  image: /posts/2024-05-31/IMG_5868.jpeg
+  lat: 42.98921
+  lon: 2.61364
+- alt: Palairac
+  date: 2024:06:01 06:18:36
+  image: /posts/2024-05-31/IMG_5881.jpeg
+  lat: 42.96945
+  lon: 2.66089
+- alt: Tuchan
+  date: 2024:06:01 06:48:36
+  image: /posts/2024-05-31/IMG_5883.jpeg
+  lat: 42.90926
+  lon: 2.72279
+- alt: Tuchan
+  date: 2024:06:01 07:14:26
+  image: /posts/2024-05-31/IMG_5885.jpeg
+  lat: 42.90001
+  lon: 2.74316
+- alt: Tuchan
+  date: 2024:06:01 07:14:31
+  image: /posts/2024-05-31/IMG_5888.jpeg
+  lat: 42.89997
+  lon: 2.74317
+- alt: Embres-et-Castelmaure
+  date: 2024:06:01 08:02:30
+  image: /posts/2024-05-31/IMG_5892.jpeg
+  lat: 42.94354
+  lon: 2.83858
+- alt: Leucate
+  date: 2024:06:01 09:55:48
+  image: /posts/2024-05-31/IMG_5909.jpeg
+  lat: 42.91099
+  lon: 3.01823
+- alt: Leucate
+  date: 2024:06:01 09:57:51
+  image: /posts/2024-05-31/IMG_5913.jpeg
+  lat: 42.90941
+  lon: 3.01917
+- alt: Leucate
+  date: 2024:06:01 10:53:46
+  image: /posts/2024-05-31/IMG_5918.jpeg
+  lat: 42.91521
+  lon: 3.05884
+- alt: Leucate
+  date: 2024:06:01 10:53:57
+  image: /posts/2024-05-31/IMG_5920.jpeg
+  lat: 42.91528
+  lon: 3.05884
+- alt: Leucate
+  date: 2022:08:28 08:20:16
+  image: /cote-sud/IMG_9019.jpeg
+  lat: 42.92804
+  lon: 3.04295
+- alt: Leucate
+  date: 2022:08:28 09:28:40
+  image: /cote-sud/IMG_9022.jpeg
+  lat: 42.92917
+  lon: 3.03916
+- alt: Leucate
+  date: 2022:02:08 08:44:32
+  image: /cote-sud/IMG_5932.jpeg
+  lat: 42.95107
+  lon: 3.03834
 - alt: Port-la-Nouvelle
   date: 2023:09:09 10:08:18
   image: /posts/2023-09-09/IMG_3169.jpeg
@@ -998,11 +648,31 @@
   image: /cote-sud/IMG_9040.jpeg
   lat: 43.10901
   lon: 3.09013
+- alt: Gruissan
+  date: 2023:05:21 09:23:18
+  image: /posts/2023-05-21/IMG_2192.jpeg
+  lat: 43.14621
+  lon: 3.0947
 - alt: Narbonne
-  date: 2023:09:27 09:14:06
-  image: /posts/2023-09-27/IMG_3502.jpeg
-  lat: 43.15604
-  lon: 3.16532
+  date: 2024:06:06 10:20:16
+  image: /posts/2024-06-06/IMG_6010.jpeg
+  lat: 43.16784
+  lon: 3.11914
+- alt: Narbonne
+  date: 2024:06:06 10:28:24
+  image: /posts/2024-06-06/IMG_6014.jpeg
+  lat: 43.17881
+  lon: 3.13298
+- alt: Narbonne
+  date: 2024:06:06 10:28:12
+  image: /posts/2024-06-06/IMG_6012.jpeg
+  lat: 43.17877
+  lon: 3.13298
+- alt: Fleury
+  date: 2024:06:06 11:22:16
+  image: /posts/2024-06-06/IMG_6020.jpeg
+  lat: 43.19271
+  lon: 3.18729
 - alt: Fleury
   date: 2023:09:27 09:50:40
   image: /posts/2023-09-27/IMG_3520.jpeg
@@ -1013,26 +683,26 @@
   image: /posts/2023-09-27/IMG_3529.jpeg
   lat: 43.20613
   lon: 3.22547
-- alt: Lespignan
-  date: 2021:02:17 10:47:01
-  image: /posts/2021-02-17/IMG_7737.jpeg
-  lat: 43.26207
-  lon: 3.18597
 - alt: Vendres
-  date: 2023:09:09 15:09:15
-  image: /posts/2023-09-09/IMG_3204.jpeg
-  lat: 43.26751
-  lon: 3.19411
+  date: 2024:06:06 12:08:29
+  image: /posts/2024-06-06/IMG_6022.jpeg
+  lat: 43.22836
+  lon: 3.23607
 - alt: Vendres
-  date: 2023:09:09 15:11:19
-  image: /posts/2023-09-09/IMG_3205.jpeg
-  lat: 43.26913
-  lon: 3.19721
+  date: 2024:06:06 12:18:29
+  image: /posts/2024-06-06/IMG_6026.jpeg
+  lat: 43.24897
+  lon: 3.24448
 - alt: Vendres
-  date: 2023:09:27 11:04:59
-  image: /posts/2023-09-27/IMG_3534.jpeg
-  lat: 43.2832
-  lon: 3.21293
+  date: 2021:02:11 14:43:47
+  image: /posts/2021-02-11/IMG_7657.jpeg
+  lat: 43.24892
+  lon: 3.24446
+- alt: Vendres
+  date: 2021:02:11 14:39:38
+  image: /posts/2021-02-11/IMG_7655.jpeg
+  lat: 43.25208
+  lon: 3.25457
 - alt: Sérignan
   date: 2021:02:11 15:50:56
   image: /posts/2021-02-11/IMG_7677.jpeg
@@ -1079,52 +749,17 @@
   lat: 43.38021
   lon: 3.62277
 - alt: Sète
-  date: 2021:05:24 18:20:58
-  image: /posts/2021-05-24/IMG_9888 (1).jpeg
-  lat: 43.40205
-  lon: 3.68575
-- alt: Sète
-  date: 2021:05:24 18:20:58
-  image: /posts/2021-05-24/IMG_9888.jpeg
-  lat: 43.40205
-  lon: 3.68575
-- alt: Sète
-  date: 2021:05:24 18:21:09
-  image: /posts/2021-05-24/IMG_9889.jpeg
-  lat: 43.40208
-  lon: 3.68579
-- alt: Fabrègues
-  date: 2023:01:16 15:33:06
-  image: /posts/2023-01-16/IMG_0764.jpeg
-  lat: 43.50289
-  lon: 3.75385
-- alt: Vic-la-Gardiole
-  date: 2023:01:04 14:14:19
-  image: /g727/IMG_0622.jpeg
-  lat: 43.49058
-  lon: 3.75888
-- alt: Vic-la-Gardiole
-  date: 2022:04:05 15:44:36
-  image: /posts/2022-04-05/IMG_6960.jpeg
-  lat: 43.49056
-  lon: 3.75888
-- alt: Vic-la-Gardiole
-  date: 2022:04:05 15:44:36
-  image: /727/10-Gardiole.jpeg
-  lat: 43.49056
-  lon: 3.75888
+  date: 2021:05:20 07:42:03
+  image: /posts/2021-05-20/IMG_9458.jpeg
+  lat: 43.42283
+  lon: 3.67403
 - alt: Frontignan
-  date: 2021:10:10 13:59:48
-  image: /posts/2021-10-10/IMG_2892.jpeg
-  lat: 43.48216
-  lon: 3.7492
+  date: 2024:06:10 16:44:46
+  image: /posts/2024-06-10/IMG_6034.jpeg
+  lat: 43.44462
+  lon: 3.73109
 - alt: Frontignan
-  date: 2021:10:10 13:59:50
-  image: /posts/2021-10-10/IMG_2894.jpeg
-  lat: 43.48216
-  lon: 3.7492
-- alt: Frontignan
-  date: 2023:01:16 15:49:00
-  image: /posts/2023-01-16/IMG_0767.jpeg
-  lat: 43.48217
-  lon: 3.74897
+  date: 2024:06:10 17:20:40
+  image: /posts/2024-06-10/IMG_6052.jpeg
+  lat: 43.46119
+  lon: 3.71836

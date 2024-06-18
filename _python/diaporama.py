@@ -1,3 +1,5 @@
+# python3 _python/diaporama.py
+
 import os
 import yaml
 from datetime import datetime
