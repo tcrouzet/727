@@ -33,6 +33,10 @@ La durée du tour dépendra de la forme de chacun. La plupart des participants o
 
 Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons échanger. Il nous servira aussi à suivre le g727 en direct grâce à l'appli [Geogram](https://geo.zefal.com/).
 
+### Cerise sur le gâteau
+
+Zefal offrira au participant ayant publié la photo la plus likée sur [Geogram](https://geo.zefal.com/) un cadeau bikepacking.
+
 ### Météo/équipement
 
 Quelle météo s’attendre fin septembre début octobre dans l’Hérault ? Nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
