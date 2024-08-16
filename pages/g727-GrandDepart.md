@@ -45,7 +45,7 @@ En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi.
 
 Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
-### Résumé du règlement
+### Règlement
 
 Voici un résumé du [règlement](/g727rules/) :
 
