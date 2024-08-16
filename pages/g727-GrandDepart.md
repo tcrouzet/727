@@ -27,15 +27,23 @@ Pour 35 €, vous bénéficierez d’un hébergement pour dérouler votre matel
 
 L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de participants). Vous pourrez y entrer avec vos vélos et y dormir à l'abri avec votre matelas et sac de couchage.
 
-Le petit-déjeuner sera servi au café entre 7h et 7h45, heure du grand départ, le 28 septembre. Ceux venus en train pourront y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
+Le petit-déjeuner sera servi au café entre 7h et 8h, heure du grand départ, le 28 septembre. Ceux venus en train pourront y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
 
 La durée du tour dépendra de la forme de chacun. La plupart des participants ont bouclé l'édition 2023 en cinq jours. Il n'y a pas de limite de temps, sinon d'arriver à Poussan quand le café est ouvert pour profiter du pot finisher.
 
-Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons échanger. Il nous servira aussi à suivre le g727 en direct grâce à l'appli [Geogram](https://geogram.tcrouzet.com/g727_2024).
+Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons échanger. Il nous servira aussi à suivre le g727 en direct grâce à l'appli [Geogram](https://geo.zefal.com/).
+
+### Météo/équipeùment
+
+Quelle météo s’attendre fin septembre début octobre dans l’Hérault ? Nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
+
+En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi. Les températures nocturnes peuvent passer sous les 10°C dans les hauts cantons. Des valeurs conformes aux valeurs attendue.
+
+Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle.
 
 ### Résumé du règlement
 
-[Je vous invite à prendre connaissance du règlement de la randonnée.](https://tcrouzet.com/g727-reglement/) Voici un résumé.
+[Prennez connaissance du règlement de la randonnée.](/g727rules/) Voici un résumé.
 
 * L'inscription n'est pas remboursable, mais elle est transférable à un autre participant (le g727 est organisé par des bénévoles et gérer les remboursements est une prise de tête).
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes physiques ou mécaniques.

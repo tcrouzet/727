@@ -6,7 +6,7 @@ permalink: /weather/
 
 La météo est généralement clémente dans l'Hérault, mais on n'est pas sous les tropiques. Nous avons eu de la neige en avril 2022, avant le retour du beau temps. Sur les hauteurs de l'Espinouse et du Larzac les températures peuvent passer au-dessous de zéro durant la nuit entre octobre et avril.
 
-Sur [AccuWeather](https://www.accuweather.com/), l'onglet Mensuel propose des statistiques jour par jour tout au long de l'année, très utiles pour anticiper l'équipement nécessaire avant de l'ajuster dans les jours qui précèdent le départ. Propose aussi les heures de lever et de coucher du soleil.
+Sur [AccuWeather](https://www.accuweather.com/), l'onglet Mensuel propose des statistiques jour par jour tout au long de l'année, très utiles pour anticiper l'équipement nécessaire avant de l'ajuster dans les jours qui précèdent le départ. Propose aussi les heures de lever et de coucher du soleil. Sur [infoclimat](https://www.infoclimat.fr/climatologie-mensuelle/07641/septembre/2023/sete.html), on peut retrouver l'historique des données météo.
 
 Quelques sites proposent des tendances à trois ou quatre semaines, comme [Lameteo.org](https://www.lameteo.org/index.php/dans-trois-et-quatre-semaines) ou [MeteoContact.fr](https://www.meteocontact.fr/previsions/france/tendance-3-semaines).
 
@@ -55,3 +55,4 @@ En été, les massifs sont très secs et risquent d'être fermés. Les cartes so
 * [Gard](https://www.risque-prevention-incendie.fr/gard/)
 
 * [Aude](https://www.risque-prevention-incendie.fr/aude/)
+
