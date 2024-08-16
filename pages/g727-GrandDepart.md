@@ -33,13 +33,13 @@ La durée du tour dépendra de la forme de chacun. La plupart des participants o
 
 Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons échanger. Il nous servira aussi à suivre le g727 en direct grâce à l'appli [Geogram](https://geo.zefal.com/).
 
-### Météo/équipeùment
+### Météo/équipement
 
 Quelle météo s’attendre fin septembre début octobre dans l’Hérault ? Nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
 
-En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi. Les températures nocturnes peuvent passer sous les 10°C dans les hauts cantons. Des valeurs conformes aux valeurs attendue.
+En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi. Les températures nocturnes peuvent passer sous les 10°C dans les hauts cantons. Des valeurs conformes aux valeurs attendues.
 
-Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle.
+Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
 ### Résumé du règlement
 
