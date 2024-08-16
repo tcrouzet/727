@@ -23,7 +23,7 @@ Le g727 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) l
 
 Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
-Pour 35 €, vous bénéficierez d’un hébergement pour dérouler votre matelas et sac de couchage la veille du grand départ, d’un petit déjeuner frugal et d’un pot au retour, le tout servi au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8) (ouvert entre 7h et 20h). La veille du départ, vous pourrez manger à la pizzeria voisine et vous retrouver au café à partir de 18h. 
+Pour 35 €, vous bénéficierez d’un hébergement pour dérouler votre matelas et sac de couchage la veille du grand départ, d’un petit-déjeuner frugal et d’un pot au retour, le tout servi au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8) (ouvert entre 7h et 20h). La veille du départ, vous pourrez manger à la pizzeria voisine et vous retrouver au café à partir de 18h. 
 
 L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de participants). Vous pourrez y entrer avec vos vélos et y dormir à l'abri avec votre matelas et sac de couchage.
 
@@ -47,7 +47,7 @@ Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préfé
 
 ### Résumé du règlement
 
-[Prennez connaissance du règlement de la randonnée.](/g727rules/) Voici un résumé.
+Voici un résumé du [règlement](/g727rules/) :
 
 * L'inscription n'est pas remboursable, mais elle est transférable à un autre participant (le g727 est organisé par des bénévoles et gérer les remboursements est une prise de tête).
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes physiques ou mécaniques.
