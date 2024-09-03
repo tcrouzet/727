@@ -45,11 +45,9 @@ En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi.
 
 Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
-### Règlement
-
-Voici un résumé du [règlement](/g727rules/) :
+### Résumé du [règlement](/g727rules/)
 
 * L'inscription n'est pas remboursable, mais elle est transférable à un autre participant (le g727 est organisé par des bénévoles et gérer les remboursements est une prise de tête).
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes physiques ou mécaniques.
-* Vous emportez l’équipement minimum listé dans le règlement.
+* Vous emportez l’équipement minimum listé dans le [règlement](/g727rules/).
 * Si on trouve assez souvent de l’eau sur la trace, il peut être difficile de se ravitailler. Les commerces ferment le plus souvent entre midi et 16 heures, n’ouvrent pas le dimanche après-midi, parfois pas le lundi. Il est conseillé de transporter de quoi s’alimenter durant 36 heures.
