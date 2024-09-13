@@ -28,10 +28,13 @@ Sur VisuGPX, un outil permet de compter le nombre de points d'une trace.
 
  Pour générer un GPX, exportez le calque qui vous intéresse au format KML, puis [convertissez-le en GPX](https://www.gpsvisualizer.com/convert_input). Exportez et convertissez de même les POI, notamment les points d'eau. Pour exporter une seule trace, créez un nouveau calque, déplacez dedans la trace à exporter.
 
- Il est possible d'envoyer un ficheir KML avec les traces et les POI sur des app cartographiques. Par exemple, [MapOut](https://mapout.app/) sur iPhone. (Si vous connaissez une app Android du même type, ça m'intéresse). 
+ Il est possible d'envoyer un ficheir KML avec les traces et les POI sur des app cartographiques. Par exemple, [MapOut](https://mapout.app/) sur iPhone. (Si vous connaissez une app Android du même type, ça m'intéresse).
+
+ Vous pouvez vous contenter de GoogleMap sur mobile (connexion quasi indispensable).
 
  Plus d'infos:
 
  * [Préparer son GPS pour le bikepacking](https://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/)
  * [Comment installer une trace sur Garmin](https://tcrouzet.com/2023/02/10/comment-installer-une-trace-sur-garmin/)
  * [Garmin : au-delà de 8000 points, votre trace n'est plus valable](https://tcrouzet.com/2021/10/03/quand-la-trace-perd-des-points-sur-les-gps-garmin/)
+ * [VisuGPX mode ligne, très utile pour les POI](https://tcrouzet.com/2024/09/10/visugpx-horsligne/)
