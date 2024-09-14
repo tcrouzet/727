@@ -36,5 +36,5 @@ Sur VisuGPX, un outil permet de compter le nombre de points d'une trace.
 
  * [Préparer son GPS pour le bikepacking](https://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/)
  * [Comment installer une trace sur Garmin](https://tcrouzet.com/2023/02/10/comment-installer-une-trace-sur-garmin/)
+ * [Mode hors ligne, très utile pour les POI](https://tcrouzet.com/2024/09/10/visugpx-horsligne/)
  * [Garmin : au-delà de 8000 points, votre trace n'est plus valable](https://tcrouzet.com/2021/10/03/quand-la-trace-perd-des-points-sur-les-gps-garmin/)
- * [VisuGPX mode ligne, très utile pour les POI](https://tcrouzet.com/2024/09/10/visugpx-horsligne/)
