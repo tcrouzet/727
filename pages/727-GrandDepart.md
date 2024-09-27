@@ -23,23 +23,23 @@ La sixième édition de la randonnée partira du village de [Poussan](https://fr
 
 [L'inscription ne coûte que 35 €](https://tcrouzet.com/2024/02/15/pourquoi-seulement-35-e-pour-un-727/) parce que les randonnées 727 sont organisées par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/). Cette somme forfaitaire, en plus de couvrir l'assurance pour protége l'ECP, permet d'offrir tous les services des épreuves onéreuses, et même davantage.
 
-* Hébergement pour dérouler votre matelas et sac de couchage la veille du Grand Départ. Une salle sera ouverte à partir de 19 heures le 7 mai (l’adresse dépendra du nombre de participants). 
-* Veillée d'armes la veille du Grand Départ au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8). C'est toujours un bon moment et l'occasion de faire connaissance. Lors de l'inscription, vous pouvez réserver une pizza ou un bon plat de pâtes au Kosi, restaurant voisin du café (vous paierez directement au restaurateur).
-* Petit-déjeuner frugal le jour du départ au Grand Café. Il sera servi au café entre 6h30 et 7h30, heure du grand départ, le 8 mai.
-* Pot au retour au Grand Café (ouvert de 6h30 et 20h, fermé le lundi et le dimanche après-midi… mais exceptionnellement ouvert pour nos arrivées le dimanche 13 mai).
+* Hébergement pour dérouler votre matelas et sac de couchage la veille du Grand Départ. 
+* Veillée d'armes la veille du Grand Départ au [Grand Café Beau Séjour, 21 boulevard Riverain](https://goo.gl/maps/8cLge9FWtqnJ5QyH8). C'est toujours un bon moment et l'occasion de faire connaissance. Lors de l'inscription, vous pouvez réserver une pizza ou un bon plat de pâtes au restaurant voisin du café (vous paierez directement au restaurateur).
+* Collation le jour du départ au Grand Café. Elle sera servie entre 7h00 et 8h00, heure du grand départ, le 10 mai.
+* Pot au retour au Grand Café (ouvert de 7h00 et 20h, fermé le lundi et le dimanche après-midi…).
 * Dépôt de vos affaires au Grand Café durant l'épreuve pour ceux qui arrivent en train.
-* Tracking et historique illustré avec [Geogram](https://geogram.tcrouzet.com/).
-* Douches aux vestiaires du stade à l'arrivée.
+* Tracking et historique illustré avec [Geogram](https://geo.zefal.com/).
+* Douches aux vestiaires du stade ou du gymnase à l'arrivée.
 * Par souci de sobriété écologique, nous évitons les goodies et autres babioles.
 * Et bien sûr, une trace aux petits oignons, enrichie d'une multitude de points d'intérêt, notamment les points d'eau.
 
-Comme les 727/i727 ne sont pas des compétitions et n'impliquent pas des points de contrôle pour valider vos passages avec des horaires butoirs,  des groupes se forment par affinité et niveau. C'est une des grandes particularités de l'épreuve. Elle favorise la fraternité, du fait même de son mode d'organisation. Bien sûr, rien ne vous empêche de rouler seul à votre rythme.
+Comme les 727 ne sont pas des compétitions et n'impliquent pas des points de contrôle pour valider vos passages avec des horaires butoirs,  des groupes se forment par affinité et niveau. C'est une des grandes particularités de l'épreuve. Elle favorise la fraternité, du fait même de son mode d'organisation. Bien sûr, rien ne vous empêche de rouler seul à votre rythme.
 
 Une fois inscrit, vous recevrez des informations détaillées et le lien d’un groupe [Telegram](https://telegram.org/) où nous échangerons avant le Grand Départ et tout au long de la randonnée (nous utilisons [Telegram Messenger](https://telegram.org/) de préférence à WhatsApp parce que c'est une solution open source, qui par ailleurs sert de support à Geogram).
 
 ### Résumé du règlement
 
-[Je vous invite à prendre connaissance du règlement de la randonnée.](https://tcrouzet.com/727-reglement/) Il y est notamment question du matériel nécessaire minimal et du bon usage du groupe Telegram. Voici un résumé.
+[Je vous invite à prendre connaissance du règlement de la randonnée.](727rules/) Il y est notamment question du matériel nécessaire minimal et du bon usage du groupe Telegram. Voici un résumé.
 
 * L'inscription n'est pas remboursable, mais elle est transférable à un autre participant de la même édition.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes.

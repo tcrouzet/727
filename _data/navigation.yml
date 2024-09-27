@@ -26,7 +26,7 @@ fr: &DEFAULT_FR
       subnav:  # Ajout d'un sous-menu
               - title: "o727 2025 vtt"
                 url: "/727-Grand-Depart/"
-              - title: "g727 2025V gravel"
+              - title: "g727 2025 gravel"
                 url: "/g727-Grand-Depart/"
               - title: "Helloasso o727 (35 €)"
                 url: "https://www.helloasso.com/associations/ec-poussan/evenements/o727-2025"
