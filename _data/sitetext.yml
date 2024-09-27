@@ -11,9 +11,9 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: 28 septembre 2024 et 10 mai 2025
+    title: 10 mai 2025 et 27 septembre 2025
     titlelink: "#gd"
-    text: Gravel ou VTT
+    text: VTT ou gravel
     button: Découvrir
     buttonlink: "#top"
     button2: Participer
@@ -56,9 +56,9 @@ fr: &DEFAULT_FR
         link: /727-Grand-Depart/
         icon: fa fa-map
         buttontext: Inscription
-      - title: "28 septembre 2024"
-        subtitle: 28 septembre 2024
-        desc: "Inaugurée en 2023, la version gravel revient, avec de magnifiques pistes et paysages. Pure expérience gravel."
+      - title: "27 septembre 2025"
+        subtitle: 27 septembre 2025
+        desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs."
         link: /g727-Grand-Depart/
         icon: fa fa-road
         buttontext: Inscription
