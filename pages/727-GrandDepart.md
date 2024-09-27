@@ -8,7 +8,7 @@ header_text: "Grand Départ du o727"
 header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
-header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/i727-2024-1"
+header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/o727-2025"
 header_date: '2025-05-10T06:00:00'
 comments: false
 ---

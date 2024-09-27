@@ -51,7 +51,7 @@ Le participant concède à l’organisateur ainsi qu’aux autres participants l
 
 ### Équipement minimum obligatoire
 En avril, mai ou septembre, dans l’Hérault, il peut faire chaud, même très chaud, mais aussi frisquet dans les hauts cantons. Le participant doit disposer d’un kit matériel minimal.
-- Des pneus tubeless de 42 mm sur les 727 gravel (de préférence 50 mm) et de 2.1 mm minimum sur les 727 VTT (2.35 conseillés).
+- Des pneus tubeless de 42 mm sur les 727 gravel et de 2.1 mm minimum sur les 727 VTT.
 - Casque, gants, lunettes.
 - Éclairage avant et arrière pour le repérage de nuit (50 lumens minimum).
 - Une frontale pour le bivouac ou en cas d’être forcé de rouler de nuit (800 lumens minimum).
