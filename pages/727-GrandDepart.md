@@ -3,25 +3,23 @@ layout: post
 title: "727 bikepacking vtt"
 permalink: /727-Grand-Depart/
 background: /images/727gd/IMG_3101.jpeg
-header_title: "8 mai 2024"
-header_text: "Grand Départ du i727"
+header_title: "10 mai 2025"
+header_text: "Grand Départ du o727"
 header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
 header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/i727-2024-1"
-header_date: '2024-05-08T07:30:00'
+header_date: '2025-05-10T06:00:00'
 comments: false
 ---
 
-Chaque année depuis 2020, nous nous élançons en groupe pour un [727](/727/) (les années impaires) ou un [i727](/i727/) (les années paires), des aventures VTT en bikepacking autour et dans le département de l’Hérault. Les 727/i727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenues. Participer à un [Grand Départ](http://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est l'occasion de rencontrer d'autres bikepackers, de partager des moments mémorables avec eux, de se motiver et aussi de débuter pour ceux qui découvrent la discipline (on a presque tous commencé ainsi).
+Chaque année depuis 2020, nous nous élançons en groupe pour un [o727](/727/) (les années impaires) ou un [i727](/i727/) (les années paires), des aventures VTT en bikepacking autour et dans le département de l’Hérault. Les o727/i727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenues. Participer à un [Grand Départ](http://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est l'occasion de rencontrer d'autres bikepackers, de partager des moments mémorables avec eux, de se motiver et aussi de débuter pour ceux qui découvrent la discipline (on a presque tous commencé ainsi).
 
-<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/i727-2024-1" class="hotlink">Inscrivez-vous au i727 2024 sur helloasso (35 €) >>></a> (99 places...)</p>
+<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/o727-2025" class="hotlink">Inscrivez-vous au o727 2025 sur helloasso (35 €) >>></a> (99 places...)</p>
 
-Pourquoi rouler un i727 en mai ? Parce que c'est la plus belle des saisons pour en prendre plein les yeux dans des paysages sauvages, sans cesse changeants, loin des grandes villes, avec des villages parmi les plus beaux de France et des chemins mémorables. L'Hérault ne se limite pas à ses plages.
+Pourquoi rouler un 727 VTT en mai ? Parce que c'est la plus belle des saisons pour en prendre plein les yeux dans des paysages sauvages, sans cesse changeants, loin des grandes villes, avec des villages parmi les plus beaux de France et des chemins mémorables. L'Hérault ne se limite pas à ses plages.
 
-![Poster i727](/images/727gd/poster02.jpg)
-
-La cinquième édition de la randonnée partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 8 mai 2024 à 7h30. Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
+La sixième édition de la randonnée partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 10 mai 2025 à 8h. Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
 [L'inscription ne coûte que 35 €](https://tcrouzet.com/2024/02/15/pourquoi-seulement-35-e-pour-un-727/) parce que les randonnées 727 sont organisées par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/). Cette somme forfaitaire, en plus de couvrir l'assurance pour protége l'ECP, permet d'offrir tous les services des épreuves onéreuses, et même davantage.
 

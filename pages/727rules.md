@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Règlement du 727/i727"
+title: "Règlement o727/i727"
 permalink: /727rules/
 comments: false
 ---
 
 ### Présentation
-Les 727/i727 sont des randonnées VTT longue distance qui partent de Poussan et contournent le département de l’Hérault dans le sens horaire avant de revenir à Poussan. L’organisateur est l’ECP (Entente Cycliste Poussanaise), une association affiliée notamment à la [FFVélo](https://ffvelo.fr/), qui prend en charge l’assurance de l’évènement
+Les 727 sont des randonnées VTT longue distance qui partent de Poussan, se promènent le département de l’Hérault et autour avant de revenir à Poussan. L’organisateur est l’ECP (Entente Cycliste Poussanaise), une association affiliée notamment à la [FFVélo](https://ffvelo.fr/), qui prend en charge l’assurance de l’évènement
 
 Les 727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenus. Le but est de profiter des paysages, des chemins, des compagnons de route ainsi que des innombrables merveilles culturelles et géologiques de la région.
 
@@ -32,7 +32,7 @@ Thierry Crouzet est le référent i727 pour l’ECP.
 - Le participant indique s’il a besoin d’un hébergement sommaire la veille du départ.
 - Le participant indique s’il souhaite dîner à Poussan la veille du départ (prix non compris dans l’inscription - l’organisateur se contente de réserver pour le participant).
 - Une fois inscrit, le participant reçoit un lien pour rejoindre le groupe Telegram i727. Le groupe servira à préparer la randonnée et, durant la randonnée, à échanger des informations pratiques, par exemple sur l’état des chemins. Il servira aussi à se géolocaliser pour que les participants puissent se repérer les uns aux autres. Il est impératif de rejoindre ce groupe une dizaine de jours avant le départ au plus tard. Telegram a été choisi de préférence à Whatsapp parce que c’est une solution libre qui fonctionne sur tout type de machine, notamment Linux.
-- Au plus tard une semaine avant le départ, l’organisateur communiquera la trace définitive de la randonnée sur le Telegram i727. [La trace provisoire est disponible sur le site 727.](https://727.tcrouzet.com)
+- Au plus tard une semaine avant le départ, l’organisateur communiquera la trace définitive de la randonnée sur le Telegram i727. [La trace provisoire est disponible sur le site 727.](https://727bikepacking.fr)
 
 ### La randonnée
 - Sur le i727, la solidarité et l’entraide sont les bienvenus.
