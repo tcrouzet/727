@@ -34,10 +34,8 @@ fr: &DEFAULT_FR
                 url: "https://www.helloasso.com/associations/ec-poussan/evenements/g727-2025"
               - title: "Accès"
                 url: "/access/"
-              - title: "Règlement o727/i727"
+              - title: "Règlement des 727"
                 url: "/727rules/"
-              - title: "Règlement g727"
-                url: "/g727rules/"
     - title: "News"
       section: news
       subnav:  # Ajout d'un sous-menu

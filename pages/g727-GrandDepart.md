@@ -47,7 +47,7 @@ Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préfé
 
 ### Résumé du [règlement](/g727rules/)
 
-* L'inscription n'est pas remboursable, mais elle est transférable à un autre participant (le g727 est organisé par des bénévoles et gérer les remboursements est une prise de tête).
+* L'inscription n'est pas remboursable.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes physiques ou mécaniques.
-* Vous emportez l’équipement minimum listé dans le [règlement](/g727rules/).
+* Vous emportez l’équipement minimum listé dans le [règlement](/727rules/).
 * Si on trouve assez souvent de l’eau sur la trace, il peut être difficile de se ravitailler. Les commerces ferment le plus souvent entre midi et 16 heures, n’ouvrent pas le dimanche après-midi, parfois pas le lundi. Il est conseillé de transporter de quoi s’alimenter durant 36 heures.
