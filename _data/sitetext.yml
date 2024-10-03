@@ -118,6 +118,11 @@ fr: &DEFAULT_FR
         desc: "Temps sublime pour cette édition. Partir début mai était le bon choix même si les évènements bikepacking se bousculent à cette saison."
         image: images/timeline/2024-i727.jpg
         alt: ""
+      - title: "g727 #2"
+        year: "Septembre 2024"
+        desc: "82 inscrits, un record. 727 km devient la distance officielle des 727. Plus de nécessité de passer ou même de voir Sète au loin. "
+        image: images/timeline/2024-g727.jpg
+        alt: ""
     end: "À vous<br>d'écrire<br>la suite!"
 
   forum:
