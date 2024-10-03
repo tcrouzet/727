@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "727 bikepacking gravel Grand Départ"
+title: "Grand Départ g727 2025 bikepacking gravel"
 permalink: /g727-Grand-Depart/
 background: /images/727gd/IMG_3450.jpeg
 header_title: "27 septembre 2025"

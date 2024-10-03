@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "727 bikepacking vtt"
+title: "Grand Départ o727 2025 bikepacking vtt"
 permalink: /727-Grand-Depart/
 background: /images/727gd/IMG_3101.jpeg
 header_title: "10 mai 2025"
-header_text: "Grand Départ du o727"
+header_text: "Grand Départ du o727 2025"
 header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
