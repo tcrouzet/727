@@ -179,6 +179,14 @@ fr: &DEFAULT_FR
     section: portfolio
     closebutton: "Close Project"
     list:
+      - title: "g727 2024"
+        subtitle: "Un record : 82 inscrits"
+        link: https://tcrouzet.com/2024/10/03/g727-2024/
+        image: /images/posts/2024-10-02/1.jpeg
+      - title: "i727 2024"
+        subtitle: "Moments exceptionnels"
+        link: https://tcrouzet.com/2024/05/13/i727-2024-moments/
+        image: /images/portfolio/2024-05-12-062751.webp
       - title: "g727 2023"
         subtitle: "Une première lumineusement intense"
         link: https://tcrouzet.com/2023/09/28/g727-une-premiere-lumineusement-intense/
