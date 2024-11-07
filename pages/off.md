@@ -19,6 +19,7 @@ Je n'arrête pas de créer des traces VTT ou Gravel. [Vous pouvez suivre mes exp
 
 ### Gravel
 
+* [POU100](https://727bikepacking.fr/pou100/)
 * [Gravel Terres Rouges](https://tcrouzet.com/gravel-terres-rouges/) ([récit](https://tcrouzet.com/2021/12/31/prendre-son-temps-a-velo/))
 * [Tour du pays de Thau](https://www.utagawavtt.com/randonnee-vtt-gps/Tour-de-Sete-Agglopole-Pays-de-Thau-gravel-31075) ([récit](https//tcrouzet.com/2020/12/14/gravel-le-tour-de-sete-agglopole-mediterranee/))
 * [Lignes de désir sètoises](https://www.utagawavtt.com/randonnee-vtt-gps?topo=31074) ([récit](https://tcrouzet.com/2020/01/27/lignes-de-desir-a-sete/))

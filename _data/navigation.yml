@@ -24,10 +24,14 @@ fr: &DEFAULT_FR
     - title: "Grands Départs"
       section: gd
       subnav:  # Ajout d'un sous-menu
+              - title: "POU100 2025 gravel"
+                url: "/pou100/"
               - title: "o727 2025 vtt"
                 url: "/727-Grand-Depart/"
               - title: "g727 2025 gravel"
                 url: "/g727-Grand-Depart/"
+              - title: "Helloasso POU100 (25 €)"
+                url: "https://www.helloasso.com/associations/ec-poussan/evenements/100-miles-gravel-de-poussan"
               - title: "Helloasso o727 (35 €)"
                 url: "https://www.helloasso.com/associations/ec-poussan/evenements/o727-2025"
               - title: "Heloasso g727 (35 €)"
