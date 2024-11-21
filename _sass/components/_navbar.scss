@@ -98,14 +98,18 @@
 /* Media Query pour les vues étroites */
 @media (max-width: 1000px) {
 
-  #mainNav .navbar-nav{
-    width: 95%;
-  }
-
-  #mainNav .navbar-nav .nav-item .nav-sub-menu {
-    position: relative;
-    display: inline;
-    margin-top: 0;
+  #mainNav {
+    .navbar-nav {
+      width: 100%;
+      .nav-item {
+        .nav-sub-menu {
+          position: relative;
+          display: inline;
+          margin-top: 0;
+        }
+        padding-left: 1rem;
+      }
+    }
   }
 
   .navbar-collapse{
@@ -144,7 +148,6 @@
         .nav-link {
           padding: 1.1em 1em !important;
         }
-        
       }
 
     }
