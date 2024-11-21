@@ -1,5 +1,7 @@
 // Styling for the masthead
 header.masthead {
+  display: flex;
+  align-items: center;
   text-align: center;
   color: white;
   background-repeat: no-repeat;
@@ -8,7 +10,6 @@ header.masthead {
   background-size: cover;
   height: 100vh;
   background-color: $black;
-  position: relative;
 }
 
 header.masthead .overlay {
@@ -22,8 +23,7 @@ header.masthead .overlay {
 }
 
 div.intro-text {
-  padding-top: 30vh;
-  /*padding-bottom: 100px;*/
+  margin-top: 6rem;
   position: relative;
   z-index: 2;
 }
@@ -31,8 +31,7 @@ div.intro-text {
 div.intro-text h1 {
   font-size: 2.5em;
   font-style: italic;
-  /*line-height: 22px;
-  margin-bottom: 25px;*/
+  line-height: 2rem;
   @include serif-font;
   a, a:hover{
     color: white;
@@ -87,19 +86,13 @@ ul.social-buttons {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 30vh;
-      /*padding-bottom: 200px;*/
       h1 {
         font-size: 2.5rem;
-        /*line-height: 40px;*/
-        /*margin-bottom: 25px;*/
         @include serif-font;
       }
       h2 {
         font-size: 5rem;
         font-weight: 700;
-        /*line-height: 75px;
-        margin-bottom: 50px;*/
         @include heading-font;
       }
     }
@@ -108,11 +101,13 @@ ul.social-buttons {
 
 /* Media Query pour les vues étroites */
 @media (max-width: 1000px) {
-  div.intro-text h1 a{
+  header.masthead div.intro-text h1 a{
     font-size: 1.5rem;
   }
+
   header.masthead .intro-text h2{
     font-size: 2.5rem;
+    margin-bottom: 0;
   }
   .btn-xl {
     font-size: 1rem;

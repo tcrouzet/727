@@ -58,7 +58,7 @@ fr: &DEFAULT_FR
       subnav:  # Ajout d'un sous-menu
               - title: "Nous écrire"
                 url: "/#contact"
-              - title: "Groupe Facebook"
+              - title: "Facebook"
                 url: "https://www.facebook.com/groups/727tour"
               - title: "Partenaires"
                 url: "/#partners"

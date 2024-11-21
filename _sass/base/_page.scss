@@ -132,12 +132,15 @@ img::-moz-selection {
 
 .post p{
   max-width: var(--width-ch);
-  text-align: justify;
+  text-align: left;
   margin-top: var(--margin-top-post);
   margin-left: auto;
   margin-right: auto;
   padding-left: var(--page-guter);
   padding-right: var(--page-guter);
+  hyphens: auto;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .post h1{
