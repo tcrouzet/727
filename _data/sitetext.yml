@@ -11,7 +11,7 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: 10 mai et 27 septembre 2025
+    title: 8 mai et 27 septembre 2025
     titlelink: "#gd"
     text: VTT ou gravel
     button: Découvrir
