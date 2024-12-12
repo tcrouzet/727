@@ -50,8 +50,8 @@ fr: &DEFAULT_FR
     text: "Deux départs groupés chaque année"
     section: gd
     list:
-      - title: "10 mai 2025"
-        subtitle: 10 mai 2025
+      - title: "8 mai 2025"
+        subtitle: 8 mai 2025
         desc: "Les années paires nous partons à VTT sur un i727, les années impaires sur un o727. Plus de 25 % de singles."
         link: /727-Grand-Depart/
         icon: fa fa-map
