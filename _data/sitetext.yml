@@ -120,8 +120,13 @@ fr: &DEFAULT_FR
         alt: ""
       - title: "g727 #2"
         year: "Septembre 2024"
-        desc: "82 inscrits, un record. 727 km devient la distance officielle des 727. Plus de nécessité de passer ou même de voir Sète au loin. "
+        desc: "82 inscrits, un record. 727 km devient la distance officielle des 727. Plus de nécessité de passer ou même de voir Sète au loin."
         image: images/timeline/2024-g727.jpg
+        alt: ""
+      - title: "FFV"
+        year: "Novembre 2024"
+        desc: "La FFV homologue les 727 dans son [catalogue des randonnées longues distances](https://ffvelo.fr/randonner-a-velo/ou-quand-pratiquer/les-evenements/) et reconnaît la qualité de nos traces."
+        image: images/partners/logo-ffv.jpg
         alt: ""
     end: "À vous<br>d'écrire<br>la suite!"
 

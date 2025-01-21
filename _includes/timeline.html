@@ -30,8 +30,8 @@
                 <li>
               {% endif %}
             {%- endif -%}
-              <div class="timeline-image">
-                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+              <div class="timeline-image"  id="te-{{ forloop.index }}">
+                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: }}">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">

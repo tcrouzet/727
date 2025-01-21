@@ -61,21 +61,7 @@ countdown("{{ date }}");
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{  page.header_button_link2 }}">{{ page.header_button_text2 }}</a>
       {%- endif -%}
 
-      {%- assign crunchifyURL = site.url | append: page.permalink | default: site.url -%}
-      {%- assign crunchify = crunchifyURL | url_encode -%}
-      {%- assign $crunchifyTitle = title | url_encode -%}
-
-      <ul class="list-inline social-buttons">
-        <li class="list-inline-item">
-          <a href="https://www.facebook.com/sharer/sharer.php?u={{crunchify}}"><i class="fa fa-facebook"></i></a>
-        </li>
-        <li class="list-inline-item">
-          <a href="https://twitter.com/intent/tweet?text={{crunchifyTitle}}&amp;url={{crunchify}}"><i class="fa fa-twitter"></i></a>
-        </li>
-        <li class="list-inline-item">
-          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{crunchify}}&amp;title={{crunchifyTitle}}"><i class="fa fa-linkedin"></i></a>
-        </li>
-      </ul>
+      <a href="/#te-10"><img src="/assets/img/longue_distance.png" style="width:10em;height: auto;display: block;margin:1rem auto 0 auto;"/></a>
 
     </div>
   </div>
