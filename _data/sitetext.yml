@@ -125,7 +125,7 @@ fr: &DEFAULT_FR
         alt: ""
       - title: "FFV"
         year: "Novembre 2024"
-        desc: "La FFV homologue les 727 dans son [catalogue des randonnées longues distances](https://ffvelo.fr/randonner-a-velo/ou-quand-pratiquer/les-evenements/) et reconnaît la qualité de nos traces."
+        desc: "La FFV labellise les 727 dans son [catalogue des randonnées longues distances](https://ffvelo.fr/randonner-a-velo/ou-quand-pratiquer/les-evenements/) et reconnaît la qualité de nos traces."
         image: images/partners/logo-ffv.jpg
         alt: ""
     end: "À vous<br>d'écrire<br>la suite!"

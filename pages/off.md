@@ -16,6 +16,7 @@ Je n'arrête pas de créer des traces VTT ou Gravel. [Vous pouvez suivre mes exp
 * [P27 - Paris Sète](/p27/) ([récit](https://tcrouzet.com/2022/07/15/une-traversee-de-la-france-a-vtt/))
 * [Géobike 2.0](https://tcrouzet.com/2021/08/30/bikepacking-sur-la-geobike-ressusciter-une-trace-mythique/)
 * [Méditerranée - Atlantique](https://www.google.com/maps/d/u/0/edit?mid=1_Z5YlQopu7BmxW612bFj7BwBWruvwyis&usp=sharing) ([récit](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt/))
+* [Vulcania](https://www.visugpx.com/8K7KWVZ1c5)
 
 ### Gravel
 
