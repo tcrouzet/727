@@ -23,7 +23,7 @@ header.masthead .overlay {
 }
 
 div.intro-text {
-  margin-top: 6rem;
+  margin-top: 0rem;
   position: relative;
   z-index: 2;
 }
@@ -43,7 +43,7 @@ div.intro-text h1 {
 div.intro-text h2 {
   font-size: 5rem;
   font-weight: 700;
-  margin-top: 2.5rem;
+  margin-top: 1rem;
   margin-bottom: 0rem;
   @include heading-font;
 }
