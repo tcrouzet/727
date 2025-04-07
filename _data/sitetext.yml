@@ -128,6 +128,11 @@ fr: &DEFAULT_FR
         desc: "La FFV labellise les 727 dans son [catalogue des randonnées longues distances](https://ffvelo.fr/randonner-a-velo/ou-quand-pratiquer/les-evenements/) et reconnaît la qualité de nos traces."
         image: images/partners/logo-ffv.jpg
         alt: ""
+      - title: "POU100"
+        year: "Avril 2025"
+        desc: "Premiers 100 m et 100 km de Poussan gravel. Beau succès avec 170 participants sur deux jours."
+        image: images/partners/logo-ffv.jpg
+        alt: ""
     end: "À vous<br>d'écrire<br>la suite!"
 
   forum:
