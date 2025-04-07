@@ -11,7 +11,7 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: 8 mai et 27 septembre 2025
+    title: 8 mai/27 septembre 2025, 4/5 avril 2026
     titlelink: "#gd"
     text: VTT ou gravel
     button: Découvrir
@@ -47,7 +47,7 @@ fr: &DEFAULT_FR
 
   gd:
     title: "Grands Départs"
-    text: "Deux départs groupés chaque année"
+    text: "Départs groupésannée"
     section: gd
     list:
       - title: "8 mai 2025"
@@ -60,6 +60,12 @@ fr: &DEFAULT_FR
         subtitle: 27 septembre 2025
         desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs."
         link: /g727-Grand-Depart/
+        icon: fa fa-road
+        buttontext: Inscription
+      - title: "4/5 avril 2026"
+        subtitle: 4/5 avril 2026
+        desc: "100m ou 100km gravel autour de Poussan sur des pistes roulantes et quelques singles pour se dégourdir les jamabes."
+        link: /pou100/
         icon: fa fa-road
         buttontext: Inscription
 
