@@ -44,10 +44,15 @@ fr: &DEFAULT_FR
         desc: "Aspiré par les chemins sauvages, le g727 s'étend au-delà de l'Hérault et traverse le Gard, le Tarn et l'Aude, offrant des vues à couper le souffle."
         link: /g727
         icon: fab fa-markdown
+      - title: "POU100"
+        subtitle: Gravel
+        desc: "Deux boucles gravel à effectuer sur une journées pour célébrer l'heure d'été et rouler du lever au coucher du soleil."
+        link: /pou100
+        icon: fab fa-markdown
 
   gd:
     title: "Grands Départs"
-    text: "Départs groupésannée"
+    text: "Quatre départs groupés chaque année"
     section: gd
     list:
       - title: "8 mai 2025"
@@ -64,7 +69,7 @@ fr: &DEFAULT_FR
         buttontext: Inscription
       - title: "4/5 avril 2026"
         subtitle: 4/5 avril 2026
-        desc: "100m ou 100km gravel autour de Poussan sur des pistes roulantes et quelques singles pour se dégourdir les jamabes."
+        desc: "100m ou 100km gravel autour de Poussan sur des pistes roulantes et quelques singles pour se dégourdir les jambes."
         link: /pou100/
         icon: fa fa-road
         buttontext: Inscription
