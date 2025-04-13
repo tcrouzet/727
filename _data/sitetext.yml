@@ -151,12 +151,12 @@ fr: &DEFAULT_FR
     text: "Partager, questionner, préparer…"
     section: forum
     list:
-      - title: "Groupe Facebook"
-        subtitle: Groupe Facebook
+      - title: "Newsletter Substack"
+        subtitle: Newsletter Substack
         desc: "On s'y retrouve, on y discute, on y partage les news…"
-        link: https://www.facebook.com/groups/727tour
-        icon: fa fa-facebook
-        buttontext: Partager
+        link: https://727bikepacking.substack.com/
+        icon: fa fa-envelope
+        buttontext: Discuter
 
   news:
     title: "News"
