@@ -16,7 +16,7 @@ Quelques sites proposent des tendances à trois ou quatre semaines, comme [Lamet
 
 * Au sud-ouest, Bize Minervois ([Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-308676/)).
 
-* Au sud-ouest, Port-la-Nouvelle([Météo France](https://meteofrance.com/previsions-meteo-france/port-la-nouvelle/11210), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-216797/previsions-meteo-port-la-nouvelle-aujourdhui)).
+* Au sud-ouest, Port-la-Nouvelle ([Météo France](https://meteofrance.com/previsions-meteo-france/port-la-nouvelle/11210), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-216797/previsions-meteo-port-la-nouvelle-aujourdhui)).
 
 * Au sud-ouest, Caunes-Minervois ([Météo France](https://meteofrance.com/previsions-meteo-france/caunes-minervois/11160), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-308705/previsions-meteo-caunes-minervois-aujourdhui), [Weather Underground](https://www.wunderground.com/weather/fr/caunes-minervois), [AccuWeather](https://www.accuweather.com/fr/fr/caunes-minervois/139456/daily-weather-forecast/139456)).
 
@@ -26,7 +26,7 @@ Quelques sites proposent des tendances à trois ou quatre semaines, comme [Lamet
 
 * À l'ouest, Labastide-Rouairoux ([Météo France](https://meteofrance.com/previsions-meteo-france/labastide-rouairoux/81270), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-216248/previsions-meteo-labastide-rouairoux-aujourdhui), [AccuWeather](https://www.accuweather.com/fr/fr/labastide-rouairoux/1-149973_3_al/weather-forecast/1-149973_3_al)).
 
-* À l'ouest, Saint-Amans-Soult([Météo France](https://meteofrance.com/previsions-meteo-france/saint-amans-soult/81240), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-309175/previsions-meteo-saint-amans-soult-aujourdhui)).
+* À l'ouest, Saint-Amans-Soult ([Météo France](https://meteofrance.com/previsions-meteo-france/saint-amans-soult/81240), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-309175/previsions-meteo-saint-amans-soult-aujourdhui)).
 
 * Au nord, La Salvetat sur Agout ([Météo France](https://meteofrance.com/previsions-meteo-france/la-salvetat-sur-agout/34330), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-285052/previsions-meteo-la-salvetat-sur-agout-aujourdhui), [AccuWeather](https://www.accuweather.com/fr/fr/la-salvetat-sur-agout/149317/weather-forecast/149317)), souvent le secteur le plus froid du tour, d'autant qu'on gagne encore 400 mètres d'altitude avant d'atteindre les sommets de l'Espinouse.
 
