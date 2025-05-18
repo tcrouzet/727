@@ -29,19 +29,15 @@ L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de 
 
 La collation sera servie au café entre 7h et 8h, heure du grand départ. Ceux venus en train pourront y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
 
-La durée du tour dépendra de la forme de chacun. La plupart des participants ont bouclé l'édition 2023 en cinq jours. Il n'y a pas de limite de temps, sinon d'arriver à Poussan quand le café est ouvert pour profiter du pot finisher.
+La durée du tour dépendra de la forme de chacun. La plupart des participants ont bouclé les éditions 2023 et 2024 en cinq jours. Il n'y a pas de limite de temps, sinon d'arriver à Poussan quand le café est ouvert pour profiter du pot finisher.
 
 Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons échanger. Il nous servira aussi à suivre le g727 en direct grâce à l'appli [Geogram](https://geo.zefal.com/).
-
-### Cerise sur le gâteau
-
-Zefal offrira au participant ayant publié la photo la plus likée sur [Geogram](https://geo.zefal.com/) un cadeau bikepacking.
 
 ### Météo/équipement
 
 Quelle météo s’attendre fin septembre début octobre dans l’Hérault ? Nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
 
-En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi. Les températures nocturnes peuvent passer sous les 10°C dans les hauts cantons. Des valeurs conformes aux valeurs attendues.
+En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi. Les températures nocturnes peuvent passer sous les 10°C dans les hauts cantons. Des valeurs conformes aux valeurs attendues. En revanche en 2024, nous avons connu un matin glacial à Montdartier.
 
 Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
