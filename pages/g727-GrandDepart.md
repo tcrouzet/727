@@ -19,6 +19,8 @@ Le [g727](/g727/), c'est gravel. [Le tour](/g727/) est disponible gratuitement, 
 
 Le g727 est une aventure bikepacking autour du département de l’Hérault. Ce n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme. Si 727 km c'est trop long pour vous, des shortcuts permettront de réduire la distance totale à environ 250, 450 ou 550 km.
 
+![g727 2025](/images/g727/g727map2025.webp)
+
 Le g727 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le samedi 27 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/), qui prend en charge l'assurance.
 
 Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
