@@ -41,5 +41,4 @@ Pensée pour le VTT, parce que je trouve le VTT plus confort pour le voyage à v
 
 ### Liens
 
-
 * [Récits, photos…](https://tcrouzet.com/tag/cotesud/)
