@@ -28,11 +28,11 @@ Quelques sites proposent des tendances à trois ou quatre semaines, comme [Lamet
 
 * À l'ouest, Saint-Amans-Soult ([Météo France](https://meteofrance.com/previsions-meteo-france/saint-amans-soult/81240), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-309175/previsions-meteo-saint-amans-soult-aujourdhui)).
 
-* Au nord, La Salvetat sur Agout ([Météo France](https://meteofrance.com/previsions-meteo-france/la-salvetat-sur-agout/34330), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-285052/previsions-meteo-la-salvetat-sur-agout-aujourdhui), [AccuWeather](https://www.accuweather.com/fr/fr/la-salvetat-sur-agout/149317/weather-forecast/149317)), souvent le secteur le plus froid du tour, d'autant qu'on gagne encore 400 mètres d'altitude avant d'atteindre les sommets de l'Espinouse.
+* Au nord, La Salvetat sur Agout ([Météo France](https://meteofrance.com/previsions-meteo-france/la-salvetat-sur-agout/34330), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-285052/previsions-meteo-la-salvetat-sur-agout-aujourdhui), [AccuWeather](https://www.accuweather.com/fr/fr/la-salvetat-sur-agout/149317/weather-forecast/149317)), souvent le secteur le plus froid, d'autant qu'on gagne encore 400 mètres d'altitude avant d'atteindre les sommets de l'Espinouse.
 
 * Plus au nord, Saint-Affrique ([Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-214480/previsions-meteo-saint-affrique-samedi-prochain)).
 
-* Castanet-le-Haut ([Météo France](https://meteofrance.com/previsions-meteo-france/castanet-le-haut/34610), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-853281/previsions-meteo-castanet-le-haut-aujourdhui)).
+* Castanet-le-Haut, sous la ferme du Devès ([Météo France](https://meteofrance.com/previsions-meteo-france/castanet-le-haut/34610), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-853281/previsions-meteo-castanet-le-haut-aujourdhui)).
 
 * Vallée de l'Orb, Bédarieux ([Météo France](https://meteofrance.com/previsions-meteo-france/bedarieux/34600)).
 
