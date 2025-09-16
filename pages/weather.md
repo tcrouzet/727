@@ -42,6 +42,8 @@ Quelques sites proposent des tendances à trois ou quatre semaines, comme [Lamet
 
 * Au pied du Larzac, Saint-Jean-de-Buèges ([Météo France](https://meteofrance.com/previsions-meteo-france/saint-jean-de-bueges/34380), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-285158/previsions-meteo-saint-jean-de-bueges-aujourdhui)).
 
+* Sommet du Larzac, Mondartier, souvent le plus froid sur g727 ([chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-284833/previsions-meteo-montdardier-aujourdhui))
+
 * Au nord-est, Ganges ([météo France](https://meteofrance.com/previsions-meteo-france/ganges/34190), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-216507/previsions-meteo-ganges-aujourdhui)).
 
 * À l'est, Claret ([Météo France](https://meteofrance.com/previsions-meteo-france/claret/34270), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-285017/previsions-meteo-claret-aujourdhui), [AccuWeather](https://www.accuweather.com/fr/fr/claret/139508/weather-forecast/139508)).
@@ -49,6 +51,8 @@ Quelques sites proposent des tendances à trois ou quatre semaines, comme [Lamet
 * À l'est, Saint-Mathieu-de-Tréviers ([Météo France](https://meteofrance.com/previsions-meteo-france/saint-mathieu-de-treviers/34270)).
 
 * Au sud-est, Aigues-Mortes ([Météo France](https://meteofrance.com/previsions-meteo-france/aigues-mortes/30220), [Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-215703/previsions-meteo-aigues-mortes-mercredi)).
+
+* Avignon ([Chaîne Météo](https://www.lachainemeteo.com/meteo-france/ville-6759/previsions-meteo-avignon-aujourdhui))
 
 ### Risques incendie
 
