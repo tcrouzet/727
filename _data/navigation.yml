@@ -40,6 +40,8 @@ fr: &DEFAULT_FR
                 url: "/access/"
               - title: "Règlement des 727"
                 url: "/727rules/"
+              - title: "Règlement des POU100"
+                url: "/pou100_rules/"
     - title: "News"
       section: news
       subnav:  # Ajout d'un sous-menu
