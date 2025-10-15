@@ -11,7 +11,7 @@
 # -----------------
 fr: &DEFAULT_FR
   header:
-    title: 4/5 avri, 8 mai et 26 septembre 2026
+    title: 4/5 avril, 8 mai et 26 septembre 2026
     titlelink: "#gd"
     text: VTT ou gravel
     button: Découvrir
@@ -26,19 +26,14 @@ fr: &DEFAULT_FR
 
   services:
     title: "Itinéraires"
-    text: "Deux parcours VTT, un gravel, de nombreuses variantes"
+    text: "Parcours VTT et gravel, de nombreuses variantes"
     section: top
     list:
-      - title: "o727"
-        subtitle: VTT
-        desc: "La trace originelle. Exploration des frontières de l'Hérault. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
+      - title: "727"
+        subtitle: VTT/gravel
+        desc: "Trace VTT dans l'Hérault, doublée d'une variante gravel à partir de 2026. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
         link: /727
         icon: fab fa-markdown
-      - title: "i727"
-        subtitle: VTT
-        desc: "Sans jamais croiser le o727, cette randonnée explore les coins les plus secrets de l'Hérault, en passant par le fameux lac du Salagou."
-        link: /i727
-        icon: fas fa-laptop
       - title: "g727"
         subtitle: Gravel
         desc: "Aspiré par les chemins sauvages, le g727 s'étend au-delà de l'Hérault et traverse le Gard, le Tarn et l'Aude, offrant des vues à couper le souffle."
@@ -46,7 +41,7 @@ fr: &DEFAULT_FR
         icon: fab fa-markdown
       - title: "POU100"
         subtitle: Gravel
-        desc: "Deux boucles gravel à effectuer sur une journées pour célébrer l'heure d'été et rouler du lever au coucher du soleil."
+        desc: "Des boucles gravel à effectuer sur une journées pour célébrer l'heure d'été et rouler du lever au coucher du soleil."
         link: /pou100
         icon: fab fa-markdown
 
@@ -55,9 +50,15 @@ fr: &DEFAULT_FR
     text: "Quatre départs groupés chaque année"
     section: gd
     list:
+      - title: "4/5 avril 2026"
+        subtitle: 4/5 avril 2026
+        desc: "100m, 100 ou 250km gravel autour de Poussan sur des pistes roulantes et quelques singles pour se dégourdir les jambes."
+        link: /pou100/
+        icon: fa fa-road
+        buttontext: Inscription
       - title: "8 mai 2026"
         subtitle: 8 mai 2026
-        desc: "Chaque année nous inaugurons un parcours VTT. Plus de 25 % de singles."
+        desc: "Chaque année nous inaugurons un parcours VTT et gravel. Plus de 25 % de singles. ezn 2026, une variante gravel."
         link: /727-Grand-Depart/
         icon: fa fa-map
         buttontext: Inscription
@@ -65,12 +66,6 @@ fr: &DEFAULT_FR
         subtitle: 26 septembre 2025
         desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs."
         link: /g727-Grand-Depart/
-        icon: fa fa-road
-        buttontext: Inscription
-      - title: "4/5 avril 2026"
-        subtitle: 4/5 avril 2026
-        desc: "100m, 100 ou 250km gravel autour de Poussan sur des pistes roulantes et quelques singles pour se dégourdir les jambes."
-        link: /pou100/
         icon: fa fa-road
         buttontext: Inscription
 
