@@ -5,7 +5,7 @@ permalink: /pou100_rules/
 comments: false
 ---
 
-## Présentation
+### Présentation
 
 Les POU100 sont des randonnées gravel et VTT longue distance qui partent de Poussan, s’enfoncent dans le département de l’Hérault et reviennent à Poussan. L’organisateur est l’ECP (Entente Cycliste Poussanaise), une association affiliée notamment à la [FFVélo](https://ffvelo.fr/), qui prend en charge l’assurance de l’évènement
 
@@ -13,7 +13,7 @@ Non compétitives, ces randonnées veulent promouvoir la fraternité, la bienvei
 
 Les départs sont donnés de Poussan après une collation servie à tous les participants. Une verre est offert lors du retour à Poussan.
 
-## Conditions de participation
+### Conditions de participation
 
 * Randonnées ne veut pas dire promenade de santé. Certains sentiers parfois pentus, voire vertigineux. Ainsi, le participant a conscience que l’épreuve exige une excellente condition physique, qu’elle est potentiellement dangereuse et qu’il risque d’être confronté à des conditions climatiques et géologiques difficiles.  
 * Le participant a conscience que sa sécurité dépend uniquement de sa capacité à s’adapter aux problèmes rencontrés (manque d’eau, manque de nourriture, inondations, éboulements, incendies…).  
@@ -25,7 +25,7 @@ Les départs sont donnés de Poussan après une collation servie à tous les par
 * Le participant doit être majeur le jour du départ (sauf pour la version junior).  
 * Le participant atteste sur l’honneur être en condition physique suffisante pour effectuer la randonnée et avoir pris connaissance des points développés ci avant.
 
-## Inscription
+### Inscription
 
 * Le participant valide l’inscription au moment du paiement et, par la, accepte ce règlement.  
 * Le participant communique à l’organisateur son nom, prénom, téléphone, email, date de naissance. Ces informations seront éventuellement transmises à l’assurance de l’organisateur en cas de problème.  
@@ -33,7 +33,7 @@ Les départs sont donnés de Poussan après une collation servie à tous les par
 * Une fois inscrit, le participant reçoit un lien pour rejoindre le groupe Telegram POU100. Le groupe servira à préparer la randonnée et, durant la randonnée, à échanger des informations pratiques, par exemple sur l’état des chemins. Il servira aussi à se géolocaliser pour que les participants puissent se repérer les uns aux autres. Il est impératif de rejoindre ce groupe une dizaine de jours avant le départ au plus tard. Telegram a été choisi de préférence à Whatsapp parce que c’est une solution libre qui fonctionne sur tout type de machine, notamment Linux.  
 * Au plus tard une semaine avant le départ, l’organisateur communiquera la trace définitive de la randonnée sur Telegram.
 
-## Les randonnées
+### Les randonnées
 
 * La solidarité et l’entraide sont les bienvenus.  
 * Certains secteurs sont techniques et il est déconseillé de les rouler la nuit.  
@@ -45,7 +45,7 @@ Les départs sont donnés de Poussan après une collation servie à tous les par
 * Par tous les moyens, le participant vient en aide à un autre participant qui aurait des difficultés médicales ou mécaniques.  
 * La trace a été reconnue plusieurs fois, mais il est possible que depuis les dernières reconnaissances des intempéries aient endommagé des chemins, que des arbres se soient abattus, que des propriétaires aient interdit des passages jusque là autorisés aux cyclistes. Le participant qui arrive le premier sur une difficulté en informe les autres participants et l’organisateur sur Telegram. L’organisateur tentera alors de proposer un autre itinéraire.
 
-## Équipement minimum obligatoire
+### Équipement minimum obligatoire
 
 En avril, dans l’Hérault, il peut faire chaud, même très chaud, mais aussi. Le participant doit disposer d’un kit matériel minimal.
 
@@ -57,6 +57,6 @@ En avril, dans l’Hérault, il peut faire chaud, même très chaud, mais aussi.
 * Une trousse à outils avec au minimum chambre à air, rustines, pompe, attache rapide, patte de dérailleur, multitools.  
 * De quoi transporter au minimum 1,5 litre d’eau.
 
-## Droit à l’image
+### Droit à l’image
 
 Le participant concède à l’organisateur ainsi qu’aux autres participants le droit d’exploiter de façon directe ou sous forme dérivée des photos ou des vidéos où il apparaît.
