@@ -97,29 +97,28 @@ fr: &DEFAULT_FR
         desc: "Nous partons à deux, sens antihoraire, mais une météo hivernale sur le Larzac et L'Espinouse nous pousse à l'abandon le troisième jour. Je comprends que le sens horaire est plus favorable."
         image: images/timeline/2020.jpg
         alt: Larzac
-      - title: "Premier Grand Départ"
+      - title: "727 #1"
         year: "Avril 2021"
-        desc: "La veillée d'armes est une façon de célébrer le bikepacking tout en se faisant de nouveaux amis. Le GTH devient le 727, pour Sète à Sète, 7 to 7 en anglais, donc 727 (j'avais zappé que la GTH était déjà [la Grande Traversée de l'Hérault](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/))"
+        desc: "Le GTH devient le 727, pour Sète à Sète, 7 to 7 en anglais, donc 727 (j'avais zappé que la GTH était déjà [la Grande Traversée de l'Hérault](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/))"
         image: images/timeline/2021.jpg
         alt: ""
-        # you can enforce the alignment
         #align: right
-      - title: "Premier i727"
+      - title: "727 #2"
         year: "Avril 2022"
         desc: "Nous inaugurons la trace i727, dans des conditions dantesques, vent violent dans le nez le premier jour, neige le lendemain."
         image: images/timeline/2022.jpg
         alt: ""
-      - title: "Professionnalisation"
+      - title: "727 #3"
         year: "Avril 2023"
-        desc: "Je m'associe à ECP (l'entente cycliste poussannaise) et à la mairie de Poussan pour offrir les mêmes prestations que les évènements bien plus onéreux. La FFVélo nous assure. Temps dantesque encore une fois. Décision de partir en mai à partir de 2024."
+        desc: "Professionnalisation. Je m'associe à ECP (l'entente cycliste poussannaise) et à la mairie de Poussan pour offrir les mêmes prestations que les évènements bien plus onéreux. La FFVélo nous assure. Temps dantesque encore une fois. Décision de partir en mai à partir de 2024."
         image: images/timeline/2023-1.jpg
         alt: ""
-      - title: "Premier g727"
+      - title: "g727 #1"
         year: "Septembre 2023"
         desc: "Beaucoup de bikepackers me demandaient une trace moins VTT, je suis allé chercher des pistes dans le Gard, le Tarn et l'Aude."
         image: images/timeline/2023-2.jpg
         alt: ""
-      - title: "i727 #2"
+      - title: "727 #4"
         year: "Mai 2024"
         desc: "Temps sublime pour cette édition. Partir début mai était le bon choix même si les évènements bikepacking se bousculent à cette saison."
         image: images/timeline/2024-i727.jpg
@@ -134,19 +133,24 @@ fr: &DEFAULT_FR
         desc: "La FFV labellise les 727 dans son [catalogue des randonnées longues distances](https://ffvelo.fr/randonner-a-velo/ou-quand-pratiquer/les-evenements/) et reconnaît la qualité de nos traces."
         image: images/partners/logo-ffv.jpg
         alt: ""
-      - title: "POU100"
+      - title: "POU100 #1"
         year: "Avril 2025"
         desc: "Premiers 100 m et 100 km de Poussan gravel. Beau succès avec 170 participants sur deux jours."
         image: images/timeline/POU100-2025.jpg
+        alt: ""
+      - title: "727 #5"
+        year: "Mai 2025"
+        desc: "Nouveau parcours, sous pluies torrentielles. On s'en souviendra longtemps."
+        image: images/timeline/727-2025.jpg
         alt: ""
       - title: "g727 #3"
         year: "Septembre 2025"
         desc: "94, inscrits ! Nous explorons les Alpilles, le Lubéron et le Gard sous un soleil sublime."
         image: images/timeline/g727-2025.jpg
         alt: ""
-      - title: "727 #5"
+      - title: "727 #6"
         year: "Mai 2026"
-        desc: "Exit les démonimations o727 ou i727. En mai, c'est 727 avec un parcours VTT et une variante gravel."
+        desc: "En mai, c'est désormais un parcours VTT avec des tonnes de singles et une variante gravel."
         image: images/timeline/727-2026.jpg
         alt: ""
     end: "À vous<br>d'écrire<br>la suite!"
