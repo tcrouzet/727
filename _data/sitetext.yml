@@ -36,12 +36,12 @@ fr: &DEFAULT_FR
         icon: fab fa-markdown
       - title: "g727"
         subtitle: Gravel
-        desc: "Aspiré par les chemins sauvages, le g727 s'étend au-delà de l'Hérault et explore chaque année de nouveaux territoires."
+        desc: "Attiré par les chemins sauvages, le g727 repousse les frontières de l'Hérault pour explorer chaque année de nouveaux territoires."
         link: /g727
         icon: fab fa-markdown
       - title: "POU100"
         subtitle: Gravel
-        desc: "Des boucles gravel à effectuer sur une ou deux journées pour célébrer l'heure d'été et rouler du lever au coucher du soleil."
+        desc: "Des boucles gravel d'une ou deux journées pour célébrer l'heure d'été et rouler du lever au coucher du soleil."
         link: /pou100
         icon: fab fa-markdown
 
@@ -54,19 +54,19 @@ fr: &DEFAULT_FR
         subtitle: 4/5 avril 2026
         desc: "100m, 100 ou 250km gravel autour de Poussan sur des pistes roulantes et quelques singles pour se dégourdir les jambes."
         link: /pou100/
-        icon: fa fa-biking-mountain
+        icon: fa fa-tree
         buttontext: Inscription
       - title: "8 mai 2026"
         subtitle: 8 mai 2026
-        desc: "Chaque année nous inaugurons un parcours VTT et gravel. Plus de 25 % de singles. en 2026, une variante gravel."
+        desc: "Chaque année nous inaugurons un parcours VTT et gravel. Plus de 25 % de singles. En 2026, une variante gravel."
         link: /727-Grand-Depart/
-        icon: fa fa-map
+        icon: fa fa-pagelines
         buttontext: Inscription
       - title: "26 septembre 2026"
-        subtitle: 26 septembre 2025
+        subtitle: 26 septembre 2026
         desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs hors asphalte."
         link: /g727-Grand-Depart/
-        icon: fa fa-road
+        icon: fa fa-leaf
         buttontext: Inscription
 
   about:
@@ -94,12 +94,12 @@ fr: &DEFAULT_FR
         alt: Sète
       - title: "Première tentative"
         year: "Septembre 2020"
-        desc: "Nous partons à deux, sens antihoraire, mais une météo hivernale sur le Larzac et L'Espinouse nous pousse à l'andandon le troisième jour. Je comprends que le sens horaire est plus favorable."
+        desc: "Nous partons à deux, sens antihoraire, mais une météo hivernale sur le Larzac et L'Espinouse nous pousse à l'abandon le troisième jour. Je comprends que le sens horaire est plus favorable."
         image: images/timeline/2020.jpg
         alt: Larzac
       - title: "Premier Grand Départ"
         year: "Avril 2021"
-        desc: "La veillées d'armes est une façon de célébrer le bikepacking tout en se faisant de nouveaux amis. Le GTH devient le 727, pour Sète à Sète, 7 to 7 en anglais, donc 727 (j'avais zappé que la GTH était déjà [la Grande Traversée de l'Hérault](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/))"
+        desc: "La veillée d'armes est une façon de célébrer le bikepacking tout en se faisant de nouveaux amis. Le GTH devient le 727, pour Sète à Sète, 7 to 7 en anglais, donc 727 (j'avais zappé que la GTH était déjà [la Grande Traversée de l'Hérault](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/))"
         image: images/timeline/2021.jpg
         alt: ""
         # you can enforce the alignment
@@ -111,7 +111,7 @@ fr: &DEFAULT_FR
         alt: ""
       - title: "Professionnalisation"
         year: "Avril 2023"
-        desc: "Je m'associe à ECP (l'entente cycliste poussannaise) et à la mairie de Poussan pour offrir les mêmes prestations que les évènements bien plus honéreux. La FFVélo nous assure. Temps dantesque encore une fois. Décision de partir en mai à partir de 2024."
+        desc: "Je m'associe à ECP (l'entente cycliste poussannaise) et à la mairie de Poussan pour offrir les mêmes prestations que les évènements bien plus onéreux. La FFVélo nous assure. Temps dantesque encore une fois. Décision de partir en mai à partir de 2024."
         image: images/timeline/2023-1.jpg
         alt: ""
       - title: "Premier g727"
@@ -138,6 +138,16 @@ fr: &DEFAULT_FR
         year: "Avril 2025"
         desc: "Premiers 100 m et 100 km de Poussan gravel. Beau succès avec 170 participants sur deux jours."
         image: images/timeline/POU100-2025.jpg
+        alt: ""
+      - title: "g727 #3"
+        year: "Septembre 2025"
+        desc: "94, inscrits ! Nous explorons les Alpilles, le Lubéron et le Gard sous un soleil sublime."
+        image: images/timeline/g727-2025.jpg
+        alt: ""
+      - title: "727 #5"
+        year: "Mai 2026"
+        desc: "Exit les démonimations o727 ou i727. En mai, c'est 727 avec un parcours VTT et une variante gravel."
+        image: images/timeline/727-2026.jpg
         alt: ""
     end: "À vous<br>d'écrire<br>la suite!"
 
