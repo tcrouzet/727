@@ -26,7 +26,7 @@ fr: &DEFAULT_FR
 
   services:
     title: "Itinéraires"
-    text: "Parcours VTT et gravel, de nombreuses variantes"
+    text: "Chaque année de nouveaux parcours VTT et gravel avec de nombreuses variantes"
     section: top
     list:
       - title: "727"
@@ -36,12 +36,12 @@ fr: &DEFAULT_FR
         icon: fab fa-markdown
       - title: "g727"
         subtitle: Gravel
-        desc: "Aspiré par les chemins sauvages, le g727 s'étend au-delà de l'Hérault et traverse le Gard, le Tarn et l'Aude, offrant des vues à couper le souffle."
+        desc: "Aspiré par les chemins sauvages, le g727 s'étend au-delà de l'Hérault et explore chaque année de nouveaux territoires."
         link: /g727
         icon: fab fa-markdown
       - title: "POU100"
         subtitle: Gravel
-        desc: "Des boucles gravel à effectuer sur une journées pour célébrer l'heure d'été et rouler du lever au coucher du soleil."
+        desc: "Des boucles gravel à effectuer sur une ou deux journées pour célébrer l'heure d'été et rouler du lever au coucher du soleil."
         link: /pou100
         icon: fab fa-markdown
 
@@ -54,17 +54,17 @@ fr: &DEFAULT_FR
         subtitle: 4/5 avril 2026
         desc: "100m, 100 ou 250km gravel autour de Poussan sur des pistes roulantes et quelques singles pour se dégourdir les jambes."
         link: /pou100/
-        icon: fa fa-road
+        icon: fa fa-biking-mountain
         buttontext: Inscription
       - title: "8 mai 2026"
         subtitle: 8 mai 2026
-        desc: "Chaque année nous inaugurons un parcours VTT et gravel. Plus de 25 % de singles. ezn 2026, une variante gravel."
+        desc: "Chaque année nous inaugurons un parcours VTT et gravel. Plus de 25 % de singles. en 2026, une variante gravel."
         link: /727-Grand-Depart/
         icon: fa fa-map
         buttontext: Inscription
       - title: "26 septembre 2026"
         subtitle: 26 septembre 2025
-        desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs."
+        desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs hors asphalte."
         link: /g727-Grand-Depart/
         icon: fa fa-road
         buttontext: Inscription
