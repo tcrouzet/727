@@ -1,27 +1,25 @@
 ---
 layout: post
-title: "Grand Départ g727 2025 bikepacking gravel"
+title: "Grand Départ g727 2026 bikepacking gravel"
 permalink: /g727-Grand-Depart/
 background: /images/727gd/IMG_3450.jpeg
-header_title: "27 septembre 2025"
+header_title: "26 septembre 2026"
 header_text: "Grand Départ du g727"
 header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
-header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/g727-2025"
-header_date: '2025-09-28T06:00:00Z'
+header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/g727-2026"
+header_date: '2026-09-26T06:00:00Z'
 comments: false
 ---
 
 Le [g727](/g727/), c'est gravel. [Le tour](/g727/) est disponible gratuitement, mais si vous voulez le rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est l'occasion de rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
 
-<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2025" class="hotlink">Inscrivez-vous au g727 2025 sur helloasso (35 €) >>></a> (99 places)</p>
+<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2026" class="hotlink">Inscrivez-vous au g727 2025 sur helloasso (35 €) >>></a> (99 places)</p>
 
 Le g727 est une aventure bikepacking autour du département de l’Hérault. Ce n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme. Si 727 km c'est trop long pour vous, des shortcuts permettront de réduire la distance totale à environ 250, 450 ou 550 km.
 
-![g727 2025](/images/g727/g727map2025.webp)
-
-Le g727 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le samedi 27 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/), qui prend en charge l'assurance.
+Le g727 2026 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le samedi 26 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/), qui prend en charge l'assurance.
 
 Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
@@ -31,7 +29,7 @@ L'hébergement sera ouvert un peu plus tard (l’adresse dépendra du nombre de 
 
 La collation sera servie au café entre 7h et 8h, heure du grand départ. Ceux venus en train pourront y laisser leurs affaires et les retrouver au retour. Tous les participants pourront se doucher aux vestiaires du stade à leur retour (du mardi au jeudi).
 
-La durée du tour dépendra de la forme de chacun. La plupart des participants ont bouclé les éditions 2023 et 2024 en cinq jours. Il n'y a pas de limite de temps, sinon d'arriver à Poussan quand le café est ouvert pour profiter du pot finisher.
+La durée du tour dépendra de la forme de chacun. La plupart des participants ont bouclé les précédentes éditions en cinq jours. Il n'y a pas de limite de temps, sinon d'arriver à Poussan quand le café est ouvert pour profiter du pot finisher.
 
 Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons échanger. Il nous servira aussi à suivre le g727 en direct grâce à l'appli [Geogram](https://geo.zefal.com/).
 

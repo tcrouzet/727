@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "Grand Départ o727 2025 bikepacking vtt"
+title: "Grand Départ 727 2026 bikepacking vtt et gravel"
 permalink: /727-Grand-Depart/
 background: /images/727gd/IMG_3101.jpeg
-header_title: "8 mai 2025"
-header_text: "Grand Départ du o727 2025"
+header_title: "8 mai 2026"
+header_text: "Grand Départ du 727 2026"
 header_button_text: "Découvrez"
 header_button_link: "#"
 header_button_text2: Helloasso
-header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/o727-2025"
-header_date: '2025-05-08T06:00:00'
+header_button_link2: "https://www.helloasso.com/associations/ec-poussan/evenements/727-2026-vtt-et-gravel"
+header_date: '2026-05-08T06:00:00'
 comments: false
 ---
 
-Chaque année depuis 2020, nous nous élançons en groupe pour un [o727](/727/) (les années impaires) ou un [i727](/i727/) (les années paires), des aventures VTT en bikepacking autour et dans le département de l’Hérault. Les o727/i727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenues. Participer à un [Grand Départ](/#gd) est l'occasion de rencontrer d'autres bikepackers, de partager des moments mémorables avec eux, de se motiver et aussi de débuter pour ceux qui découvrent la discipline (on a presque tous commencé ainsi).
+Chaque année depuis 2021, nous nous élançons en groupe pour un [727](/727/), une aventures VTT ou gravel en bikepacking autour et dans le département de l’Hérault. Les 727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenues. Participer à un [Grand Départ](/#gd) est l'occasion de rencontrer d'autres bikepackers, de partager des moments mémorables avec eux, de se motiver et aussi de débuter pour ceux qui découvrent la discipline (on a presque tous commencé ainsi).
 
-<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/o727-2025" class="hotlink">Inscrivez-vous au o727 2025 sur helloasso (35 €) >>></a> (99 places...)</p>
+<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/727-2026-vtt-et-gravel" class="hotlink">Inscrivez-vous au 727 2026 sur helloasso (35 €) >>></a> (99 places...)</p>
 
-Pourquoi rouler un 727 VTT en mai ? Parce que c'est la plus belle des saisons pour en prendre plein les yeux dans des paysages sauvages, sans cesse changeants, loin des grandes villes, avec des villages parmi les plus beaux de France et des chemins mémorables. L'Hérault ne se limite pas à ses plages.
+Pourquoi rouler un 727 en mai ? Parce que c'est la plus belle des saisons pour en prendre plein les yeux dans des paysages sauvages, sans cesse changeants, loin des grandes villes, avec des villages parmi les plus beaux de France et des chemins mémorables. L'Hérault ne se limite pas à ses plages.
 
-La sixième édition de la randonnée partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 8 mai 2025 à 8h. Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
+La sixième édition partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le 8 mai 2026 à 8h. Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
 [L'inscription ne coûte que 35 €](https://tcrouzet.com/2024/02/15/pourquoi-seulement-35-e-pour-un-727/) parce que les randonnées 727 sont organisées par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/). Cette somme forfaitaire, en plus de couvrir l'assurance pour protége l'ECP, permet d'offrir tous les services des épreuves onéreuses, et même davantage.
 
@@ -37,7 +37,7 @@ Comme les 727 ne sont pas des compétitions et n'impliquent pas des points de co
 
 Une fois inscrit, vous recevrez des informations détaillées et le lien d’un groupe [Telegram](https://telegram.org/) où nous échangerons avant le Grand Départ et tout au long de la randonnée (nous utilisons [Telegram Messenger](https://telegram.org/) de préférence à WhatsApp parce que c'est une solution open source, qui par ailleurs sert de support à Geogram).
 
-### Résumé du règlement
+### Résumé du [règlement](/g727rules/)
 
 * L'inscription n'est pas remboursable.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes.
