@@ -6,7 +6,7 @@ comments: false
 ---
 
 ### Présentation
-Les 727 sont des randonnées VTT ou gravel longue distance qui partent de Poussan, se promènent le département de l’Hérault et autour avant de revenir à Poussan. L’organisateur est l’ECP (Entente Cycliste Poussanaise), une association affiliée notamment à la [FFVélo](https://ffvelo.fr/), qui prend en charge l’assurance de l’évènement
+Les 727 sont des randonnées VTT ou gravel longue distance qui partent de Poussan, se promènent dans le département de l’Hérault et autour avant de revenir à Poussan. L’organisateur est l’ECP (Entente Cycliste Poussannaise), une association affiliée notamment à la [FFVélo](https://ffvelo.fr/), qui prend en charge l’assurance de l’évènement
 
 Les 727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenus. Le but est de profiter des paysages, des chemins, des compagnons de route ainsi que des innombrables merveilles culturelles et géologiques de la région.
 

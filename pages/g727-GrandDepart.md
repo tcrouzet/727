@@ -37,13 +37,13 @@ Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons
 
 Quelle météo s’attendre fin septembre début octobre dans l’Hérault ? Nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
 
-En 2023, sur le littoral, nous avions 17°C les matins et 24°C l’après-midi. Les températures nocturnes peuvent passer sous les 10°C dans les hauts cantons. Des valeurs conformes aux valeurs attendues. En revanche en 2024, nous avons connu un matin glacial à Montdartier.
-
 Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
 ### Résumé du [règlement](/g727rules/)
 
 * L'inscription n'est pas remboursable.
-* Vous devez assistance aux autres participants qui pourraient avoir des problèmes physiques ou mécaniques.
-* Vous emportez l’équipement minimum listé dans le [règlement](/727rules/).
+* Vous devez assistance aux autres participants qui pourraient avoir des problèmes.
+* Vous emportez l’équipement minimum listé dans [le règlement](727rules/).
+* Vous serez en totale autonomie, choisirez où vous ravitailler et où dormir : bivouac sauvage, camping, gîte, hôtel… Une seule contrainte : ne laissez aucune trace de votre passage dans la nature.
 * Si on trouve assez souvent de l’eau sur la trace, il peut être difficile de se ravitailler. Les commerces ferment le plus souvent entre midi et 16 heures, n’ouvrent pas le dimanche après-midi, parfois pas le lundi. Il est conseillé de transporter de quoi s’alimenter durant 36 heures.
+* Vous acceptez, en toute connaissance de cause et des conséquences envisageables, de décharger l’entière responsabilité délictuelle et/ou contractuelle de l’organisateur quant aux éventuels dommages que vous pourriez subir du fait de la randonnée et de son organisation. Vous renoncez dès lors à tout recours contre l’organisateur.
