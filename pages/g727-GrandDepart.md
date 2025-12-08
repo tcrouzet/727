@@ -13,11 +13,11 @@ header_date: '2026-09-26T06:00:00Z'
 comments: false
 ---
 
-Le [g727](/g727/), c'est gravel. [Le tour](/g727/) est disponible gratuitement, mais si vous voulez le rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/) est l'occasion de rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
+Le [g727](/g727/) est une avneture bikepacking gravel. [Le tour](/g727/) est disponible gratuitement, mais si vous voulez le rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/), donné le dernier samedi de septembre, est l'occasion de rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
 
 <p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2026" class="hotlink">Inscrivez-vous au g727 2025 sur helloasso (35 €) >>></a> (99 places)</p>
 
-Le g727 est une aventure bikepacking autour du département de l’Hérault. Ce n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme. Si 727 km c'est trop long pour vous, des shortcuts permettront de réduire la distance totale à environ 250, 450 ou 550 km.
+Le g727 n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme. Si 727 km c'est trop long pour vous, des shortcuts permettront de réduire la distance totale à environ 250, 450 ou 550 km.
 
 Le g727 2026 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le samedi 26 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/), qui prend en charge l'assurance.
 
@@ -35,9 +35,9 @@ Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons
 
 ### Météo/équipement
 
-Quelle météo s’attendre fin septembre début octobre dans l’Hérault ? Nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
+Fin septembre début octobre dans le Midi, nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
 
-Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster en fonction des prévisions ([voir la page dédiée](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
+Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster [en fonction des prévisions](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
 ### Résumé du [règlement](/g727rules/)
 
