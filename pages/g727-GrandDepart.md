@@ -13,13 +13,13 @@ header_date: '2026-09-26T06:00:00Z'
 comments: false
 ---
 
-Le [g727](/g727/) est une avneture bikepacking gravel. [Le tour](/g727/) est disponible gratuitement, mais si vous voulez le rouler en groupe, le [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/), donné le dernier samedi de septembre, est l'occasion de rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
+Les [g727](/g727/) sont des avnetures bikepacking gravel. Les traces sont disponibles gratuitement, mais si vous voulez rouler la dernière édition en groupe, participez au [Grand Départ](https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/), donné le dernier samedi de septembre. C'est l'occasion de rencontrer d'autres gravellistes tout en profitant de quelques services conviviaux.
 
-<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2026" class="hotlink">Inscrivez-vous au g727 2025 sur helloasso (35 €) >>></a> (99 places)</p>
+<p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/g727-2026" class="hotlink">Inscrivez-vous au g727 2026 sur helloasso (35 €) >>></a> (99 places)</p>
 
-Le g727 n’est pas une compétition, mais une randonnée, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme. Si 727 km c'est trop long pour vous, des shortcuts permettront de réduire la distance totale à environ 250, 450 ou 550 km.
+Les g727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenus. À chacun de s'y attaquer à son rythme. Si 727 km c'est trop long pour vous, des shortcuts permettent de réduire la distance à environ 250, 450 ou 550 km.
 
-Le g727 2026 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan) le samedi 26 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/), qui prend en charge l'assurance.
+Le g727 2026 partira du village de [Poussan](https://fr.wikipedia.org/wiki/Poussan), le samedi 26 septembre et sera organisée par l’ECP (Entente Cycliste Poussannaise), un club affilié à la [FFVélo](https://ffvelo.fr/), qui prend en charge l'assurance.
 
 Poussan se trouve non loin de la sortie 33 sur l’autoroute A9, à 11 km de la gare SNCF de Sète et 26 km de la gare de Montpellier. [On peut se garer gratuitement au parking du centre sportif.](/access/)
 
