@@ -13,7 +13,9 @@ fr: &DEFAULT_FR
     - title: "Itinéraires"
       section: top
       subnav:  # Ajout d'un sous-menu
-              - title: "727 vtt/gravel"
+              - title: "POU100 gravel"
+                url: "/pou100/"
+              - title: "727 vtt"
                 url: "/727/"
               - title: "g727 gravel"
                 url: "/g727/"
