@@ -30,7 +30,7 @@ fr: &DEFAULT_FR
     section: top
     list:
       - title: "727"
-        subtitle: VTT/gravel
+        subtitle: VTT
         desc: "Trace VTT dans l'Hérault. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
         link: /727
         icon: fab fa-markdown
