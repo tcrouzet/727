@@ -31,7 +31,7 @@ fr: &DEFAULT_FR
     list:
       - title: "727"
         subtitle: VTT/gravel
-        desc: "Trace VTT dans l'Hérault, doublée d'une variante gravel à partir de 2026. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
+        desc: "Trace VTT dans l'Hérault. Entre plages et montagnes, garrigues et forêts, des singles et encore des singles."
         link: /727
         icon: fab fa-markdown
       - title: "g727"
@@ -58,13 +58,13 @@ fr: &DEFAULT_FR
         buttontext: Inscription
       - title: "8 mai 2026"
         subtitle: 8 mai 2026
-        desc: "Chaque année nous inaugurons un parcours VTT et gravel. Plus de 25 % de singles. En 2026, une variante gravel."
+        desc: "Chaque année nous inaugurons un parcours VTT. Plus de 25 % de singles. En 2026, on prose 727 km et des variantes plus courtes."
         link: /727-Grand-Depart/
         icon: fa fa-pagelines
         buttontext: Inscription
       - title: "26 septembre 2026"
         subtitle: 26 septembre 2026
-        desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs hors asphalte."
+        desc: "Inaugurée en 2023, la version gravel enchaîne de magnifiques pistes et paysages. Pour les purs rouleurs hors asphalte. Direction l'Espagne en 2026."
         link: /g727-Grand-Depart/
         icon: fa fa-leaf
         buttontext: Inscription
@@ -150,7 +150,7 @@ fr: &DEFAULT_FR
         alt: ""
       - title: "727 #6"
         year: "Mai 2026"
-        desc: "En mai, c'est désormais un parcours VTT avec des tonnes de singles et une variante gravel."
+        desc: "En mai, il y aura aussi une variante 727 km avec des tonnes de singles."
         image: images/timeline/727-2026.jpg
         alt: ""
     end: "À vous<br>d'écrire<br>la suite!"
