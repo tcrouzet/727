@@ -6,7 +6,7 @@ comments: false
 ---
 
 ### Présentation
-Les 727 sont des randonnées VTT ou gravel longue distance qui partent de Poussan, se promènent dans le département de l’Hérault et autour avant de revenir à Poussan. L’organisateur est l’ECP (Entente Cycliste Poussannaise), une association affiliée notamment à la [FFVélo](https://ffvelo.fr/), qui prend en charge l’assurance de l’évènement
+Les 727 sont des randonnées VTT ou gravel longue distance. L’organisateur est l’ECP (Entente Cycliste Poussannaise), une association affiliée notamment à la [FFVélo](https://ffvelo.fr/), qui prend en charge l’assurance de l’évènement
 
 Les 727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenus. Le but est de profiter des paysages, des chemins, des compagnons de route ainsi que des innombrables merveilles culturelles et géologiques de la région.
 
@@ -26,11 +26,11 @@ Thierry Crouzet est le référent 727 pour l’ECP.
 ### Inscription
 - Le participant valide l’inscription au moment du paiement et, par la, accepte ce règlement.
 - Le participant communique à l’organisateur son nom, prénom, téléphone, email, date de naissance, adresse. Ces informations seront éventuellement transmises à l’assurance de l’organisateur en cas de problème.
-- Sauf annulation de la randonnée, l’inscription n’est pas remboursable.
+- Sauf annulation de la randonnée, l’inscription n’est ni remboursable ni échangeable ni transférable.
 - Le participant indique s’il a besoin d’un hébergement sommaire la veille du départ.
 - Le participant indique s’il souhaite dîner à Poussan la veille du départ (prix non compris dans l’inscription - l’organisateur se contente de réserver pour le participant).
 - Une fois inscrit, le participant reçoit un lien pour rejoindre le groupe Telegram 727. Le groupe servira à préparer la randonnée et, durant la randonnée, à échanger des informations pratiques, par exemple sur l’état des chemins. Il servira aussi à se géolocaliser pour que les participants puissent se repérer les uns aux autres grâce à l'applicaion [Geogram](https://geo.zefal.com). Il est impératif de rejoindre ce groupe une dizaine de jours avant le départ au plus tard. Telegram a été choisi de préférence à Whatsapp parce que c’est une solution libre qui fonctionne sur tout type de machine, notamment Linux.
-- Au plus tard une semaine avant le départ, l’organisateur communiquera la trace définitive de la randonnée sur le groupe Telegram. [La trace provisoire est disponible sur le site 727.](https://727bikepacking.fr)
+- Au plus tard une semaine avant le départ, l’organisateur communiquera la trace définitive de la randonnée sur le groupe Telegram. [La trace définitives est disponible sur le site 727 après l'évènement.](https://727bikepacking.fr)
 - L'organisateur enverra une mail de rappel à tous les participants une dizaines de jours avant le départs (mais il y a toujours risque de filtrage spam avec les mail -- passez de préférence par le groupe Telegram).
 
 ### La randonnée
@@ -45,6 +45,7 @@ Thierry Crouzet est le référent 727 pour l’ECP.
 - Le participant ne prend pas des risques pour gagner du temps. Il ne s’agit pas d’une course.
 - Par tous les moyens, le participant vient en aide à un autre participant qui aurait des difficultés médicales ou mécanique.
 - Les traces des 727 ont été reconnue plusieurs fois, mais il est possible que depuis les dernières reconnaissances des intempéries aient endommagé des chemins, que des arbres se soient abattus, que des propriétaires aient interdit des passages jusque là autorisés aux cyclistes. Le participant qui arrive le premier sur une difficulté en informe les autres participants et l’organisateur sur le groupe Telegram. L’organisateur tentera alors de proposer un autre itinéraire.
+- Le participant peut publier ses photos et vidéos sur le groupe, mais il évite de pavoiser et d'annoncer son temps. On se moque de qui arrive le premier (on veut juste savoir si vous arrivez, si vous êtes heureux ou non).
 
 ### Droit à l’image
 Le participant concède à l’organisateur ainsi qu’aux autres participants le droit d’exploiter de façon directe ou sous forme dérivée des photos ou des vidéos où il apparaît.
