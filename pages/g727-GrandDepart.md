@@ -37,11 +37,11 @@ Une fois inscrit, vous recevrez le lien d’un groupe Telegram où nous pourrons
 
 Fin septembre début octobre dans le Midi, nous entrons de plain-pied dans l’été indien, une période généralement lumineuse et douce. Bien sûr, aucune certitude d’éviter la pluie, même si ces dernières années les évènements cévenols ont eu tendance à se décaler plus tard en octobre.
 
-Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster [en fonction des prévisions](/weather/)). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
+Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster [en fonction des prévisions](/weather/). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
 ### Résumé du [règlement](/g727rules/)
 
-* L'inscription n'est pas remboursable.
+* L'inscription n'est ni remboursable ni échangeable ni transférable.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes.
 * Vous emportez l’équipement minimum listé dans [le règlement](727rules/).
 * Vous serez en totale autonomie, choisirez où vous ravitailler et où dormir : bivouac sauvage, camping, gîte, hôtel… Une seule contrainte : ne laissez aucune trace de votre passage dans la nature.

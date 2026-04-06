@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grand Départ 727 2026 bikepacking vtt et gravel"
+title: "Grand Départ 727 2026 bikepacking vtt"
 permalink: /727-Grand-Depart/
 background: /images/727gd/IMG_3101.jpeg
 header_title: "8 mai 2026"
@@ -13,7 +13,7 @@ header_date: '2026-05-08T06:00:00'
 comments: false
 ---
 
-Chaque année depuis 2021, nous nous élançons en groupe pour un [727](/727/), une aventures VTT ou gravel en bikepacking autour et dans le département de l’Hérault. Les 727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenues. Participer à un [Grand Départ](/#gd) est l'occasion de rencontrer d'autres bikepackers, de partager des moments mémorables avec eux, de se motiver et aussi de débuter pour ceux qui découvrent la discipline (on a presque tous commencé ainsi).
+Chaque année depuis 2021, nous nous élançons en groupe pour un [727](/727/), une aventures VTT en bikepacking autour et dans le département de l’Hérault. Les 727 ne sont pas des compétitions, mais des randonnées, où la fraternité, la bienveillance et la coopération sont les bienvenues. Participer à un [Grand Départ](/#gd) est l'occasion de rencontrer d'autres bikepackers, de partager des moments mémorables avec eux, de se motiver et aussi de débuter pour ceux qui découvrent la discipline (on a presque tous commencé ainsi).
 
 <p><a href="https://www.helloasso.com/associations/ec-poussan/evenements/727-2026-vtt-et-gravel" class="hotlink">Inscrivez-vous au 727 2026 sur helloasso (35 €) >>></a> (99 places...)</p>
 
@@ -39,7 +39,7 @@ Une fois inscrit, vous recevrez des informations détaillées et le lien d’un 
 
 ### Résumé du [règlement](/g727rules/)
 
-* L'inscription n'est pas remboursable.
+* L'inscription n'est ni remboursable ni échangeable ni transférable.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes.
 * Vous emportez l’équipement minimum listé dans [le règlement](727rules/).
 * Vous serez en totale autonomie, choisirez où vous ravitailler et où dormir : bivouac sauvage, camping, gîte, hôtel… Une seule contrainte : ne laissez aucune trace de votre passage dans la nature.
