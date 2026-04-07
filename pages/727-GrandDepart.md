@@ -41,7 +41,7 @@ Une fois inscrit, vous recevrez des informations détaillées et le lien d’un 
 
 * L'inscription n'est ni remboursable ni échangeable ni transférable.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes.
-* Vous emportez l’équipement minimum listé dans [le règlement](727rules/).
+* Vous emportez l’équipement minimum listé dans [le règlement](/727rules/).
 * Vous serez en totale autonomie, choisirez où vous ravitailler et où dormir : bivouac sauvage, camping, gîte, hôtel… Une seule contrainte : ne laissez aucune trace de votre passage dans la nature.
 * Si on trouve assez souvent de l’eau sur la trace, il peut être difficile de se ravitailler. Les commerces ferment le plus souvent entre midi et 16 heures, n’ouvrent pas le dimanche après-midi, parfois pas le lundi. Il est conseillé de transporter de quoi s’alimenter durant 36 heures.
 * Vous acceptez, en toute connaissance de cause et des conséquences envisageables, de décharger l’entière responsabilité délictuelle et/ou contractuelle de l’organisateur quant aux éventuels dommages que vous pourriez subir du fait de la randonnée et de son organisation. Vous renoncez dès lors à tout recours contre l’organisateur.
