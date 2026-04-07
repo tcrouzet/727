@@ -29,7 +29,7 @@ Les départs sont donnés de Poussan après une collation servie à tous les par
 
 * Le participant valide l’inscription au moment du paiement et, par la, accepte ce règlement.  
 * Le participant communique à l’organisateur son nom, prénom, téléphone, email, date de naissance. Ces informations seront éventuellement transmises à l’assurance de l’organisateur en cas de problème.  
-* Sauf annulation de la randonnée, l’inscription n’est pas remboursable.  
+* Sauf annulation de la randonnée, l’inscription n’est ni remboursable ni transférable ni échangeable.  
 * Une fois inscrit, le participant reçoit un lien pour rejoindre le groupe Telegram POU100. Le groupe servira à préparer la randonnée et, durant la randonnée, à échanger des informations pratiques, par exemple sur l’état des chemins. Il servira aussi à se géolocaliser pour que les participants puissent se repérer les uns aux autres. Il est impératif de rejoindre ce groupe une dizaine de jours avant le départ au plus tard. Telegram a été choisi de préférence à Whatsapp parce que c’est une solution libre qui fonctionne sur tout type de machine, notamment Linux.  
 * Au plus tard une semaine avant le départ, l’organisateur communiquera la trace définitive de la randonnée sur Telegram.
 
