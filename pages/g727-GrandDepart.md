@@ -39,7 +39,7 @@ Fin septembre début octobre dans le Midi, nous entrons de plain-pied dans l’�
 
 Quel équipement pour le bivouac ? Comme souvent en bikepacking, il est préférable d’ajuster [en fonction des prévisions](/weather/). Il est toutefois déconseillé de partir avec un bivy sans tarp, car il y aura au minimum de l’humidité résiduelle. En cas de pluie, une tente offre davantage de confort.
 
-### Résumé du [règlement](/g727rules/)
+### Résumé du [règlement](/727rules/)
 
 * L'inscription n'est ni remboursable ni échangeable ni transférable.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes.

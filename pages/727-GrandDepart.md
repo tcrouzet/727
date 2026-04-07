@@ -37,7 +37,7 @@ Comme les 727 ne sont pas des compétitions et n'impliquent pas des points de co
 
 Une fois inscrit, vous recevrez des informations détaillées et le lien d’un groupe [Telegram](https://telegram.org/) où nous échangerons avant le Grand Départ et tout au long de la randonnée (nous utilisons [Telegram Messenger](https://telegram.org/) de préférence à WhatsApp parce que c'est une solution open source, qui par ailleurs sert de support à Geogram).
 
-### Résumé du [règlement](/g727rules/)
+### Résumé du [règlement](/727rules/)
 
 * L'inscription n'est ni remboursable ni échangeable ni transférable.
 * Vous devez assistance aux autres participants qui pourraient avoir des problèmes.
