@@ -27,7 +27,7 @@ En hiver, certains secteurs en bord de mer peuvent être inondés après de fort
 
 {% include slideshow.html %}
 
-<iframe id="visugpx" src="https://www.visugpx.com/8K71BbuF9A?iframe" allowfullscreen style="width:100%;height:500px;border:none;resize: both;" scrolling="no"></iframe>
+<iframe class="bigframe" src="https://www.visugpx.com/8K71BbuF9A?iframe" allowfullscreen style="width:100%;height:500px;border:none;resize: both;" scrolling="no"></iframe>
 
 ### Matos
 

@@ -148,6 +148,12 @@ img::-moz-selection {
   margin-top: 3rem;
 }
 
+.bigframe {
+  width: 100% !important;
+  height: 70vh !important;
+  text-align: center;
+}
+
 .post h3{
   text-align: center;
   margin-top: var(--margin-top-post);
