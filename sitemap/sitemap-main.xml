@@ -14,4 +14,20 @@
       <image:loc>https://727bikepacking.fr/images/2026/01/winter.jpeg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://727bikepacking.fr/index.html</loc>
+    <lastmod>2026-08-02T19:32:35+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://727bikepacking.fr/archives/index.html</loc>
+    <lastmod>2026-08-02T19:32:35+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://727bikepacking.fr/menu.html</loc>
+    <lastmod>2026-08-02T19:32:35+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://727bikepacking.fr/search.html</loc>
+    <lastmod>2026-08-02T19:32:35+02:00</lastmod>
+  </url>
 </urlset>
