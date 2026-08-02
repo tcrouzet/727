@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://727bikepacking.fr/series/index.html</loc>
+    <lastmod>2026-08-02T16:50:42+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://727bikepacking.fr//journal/index.html</loc>
+    <lastmod>2026-08-01T21:30:23+02:00</lastmod>
+    <image:image>
+      <image:loc>https://727bikepacking.fr/images/2026/01/winter.jpeg</image:loc>
+    </image:image>
+  </url>
+</urlset>
