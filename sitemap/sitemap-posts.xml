@@ -16,7 +16,7 @@
   </url>
   <url>
     <loc>https://727bikepacking.fr/contact/</loc>
-    <lastmod>2026-08-01T18:41:11+02:00</lastmod>
+    <lastmod>2026-08-05T14:20:12+02:00</lastmod>
   </url>
   <url>
     <loc>https://727bikepacking.fr/philosophie/</loc>
@@ -27,7 +27,7 @@
   </url>
   <url>
     <loc>https://727bikepacking.fr/g727-grand-depart/</loc>
-    <lastmod>2026-08-03T18:41:52+02:00</lastmod>
+    <lastmod>2026-08-05T14:27:55+02:00</lastmod>
     <image:image>
       <image:loc>https://727bikepacking.fr/images/2026/03/Port-la-Nouvelle.jpeg</image:loc>
     </image:image>
@@ -52,11 +52,11 @@
   </url>
   <url>
     <loc>https://727bikepacking.fr/videos/</loc>
-    <lastmod>2026-08-02T16:50:55+02:00</lastmod>
+    <lastmod>2026-08-05T14:23:26+02:00</lastmod>
   </url>
   <url>
     <loc>https://727bikepacking.fr/727/</loc>
-    <lastmod>2026-08-05T13:38:13+02:00</lastmod>
+    <lastmod>2026-08-05T14:44:41+02:00</lastmod>
     <image:image>
       <image:loc>https://727bikepacking.fr/images/2026/01/727-vtt-2026.jpeg</image:loc>
     </image:image>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://727bikepacking.fr/pou100/</loc>
-    <lastmod>2026-08-01T20:46:13+02:00</lastmod>
+    <lastmod>2026-08-05T14:30:16+02:00</lastmod>
     <image:image>
       <image:loc>https://727bikepacking.fr/images/2026/01/POU100-2026.jpeg</image:loc>
     </image:image>
@@ -103,7 +103,7 @@
   </url>
   <url>
     <loc>https://727bikepacking.fr/pou100_grand_depart/</loc>
-    <lastmod>2026-08-02T19:31:22+02:00</lastmod>
+    <lastmod>2026-08-05T14:29:28+02:00</lastmod>
     <image:image>
       <image:loc>https://727bikepacking.fr/images/2025/03/neige-2026.jpeg</image:loc>
     </image:image>
@@ -131,7 +131,7 @@
   </url>
   <url>
     <loc>https://727bikepacking.fr/g727-ultra/</loc>
-    <lastmod>2026-08-03T19:01:13+02:00</lastmod>
+    <lastmod>2026-08-05T14:24:52+02:00</lastmod>
     <image:image>
       <image:loc>https://727bikepacking.fr/images/2025/01/IMG_5808.jpeg</image:loc>
     </image:image>
@@ -299,7 +299,7 @@
   </url>
   <url>
     <loc>https://727bikepacking.fr/727-grand-depart/</loc>
-    <lastmod>2026-08-05T13:51:55+02:00</lastmod>
+    <lastmod>2026-08-05T14:43:20+02:00</lastmod>
     <image:image>
       <image:loc>https://727bikepacking.fr/images/2024/01/vtt-salagou.jpeg</image:loc>
     </image:image>
@@ -741,5 +741,9 @@
     <image:image>
       <image:loc>https://727bikepacking.fr/images/2021/02/IMG_7657.jpeg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://727bikepacking.fr/ecp/</loc>
+    <lastmod>2026-08-05T14:17:01+02:00</lastmod>
   </url>
 </urlset>
